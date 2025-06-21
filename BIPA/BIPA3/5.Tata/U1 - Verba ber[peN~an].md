@@ -1,6 +1,6 @@
 # U1 - Verba ber\[peN\~an]
 
-**Makna:&#x20;**&#x6D;emiliki; mempunyai; ada \[peN\~an]
+**Makna:** memiliki; mempunyai; ada \[peN\~an]
 
 **Struktur:**
 

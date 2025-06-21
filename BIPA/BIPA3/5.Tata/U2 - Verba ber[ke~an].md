@@ -1,6 +1,6 @@
 # U2 - Verba ber\[ke\~an]
 
-**Makna:&#x20;**&#x6D;emiliki; mempunyai; ada \[ke\~an]
+**Makna:** memiliki; mempunyai; ada \[ke\~an]
 
 **Struktur:**
 
