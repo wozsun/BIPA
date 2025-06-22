@@ -2,6 +2,8 @@
 
 # Rapat RPTRA
 
+[Rapat RPTRA](./audio/Rekapitulasi%201%20-%20Rapat%20RPTRA.m4a)
+
 Situasi: Para pegawai Pemprov DKI Jakarta sedang mengadakan rapat membahas program kerja terkait RPTRA.
 Selamat pagi Bapak dan Ibu. Bisa kita mulai rapatnya? Dalam rapat awal tahun ini, kita akan kembali menyusun rencana kegiatan dan program-program, serta peningkatan pelayanan untuk RPTRA tahun ini, dan sekaligus evaluasi kegiatan dan pelayanan RPTRA kita tahun lalu.
 Pada dasarnya, RPTRA di Jakarta sangat disambut dengan baik oleh masyarakat. RPTRA dimanfaatkan secara optimal oleh masyarakat untuk melakukan berbagai kegiatan. Pada dasarnya, kepuasan masyarakat sangat tinggi terhadap program kita. Namun, pada saat ini, kepuasan masyarakat menurun yang disebabkan pandemi COVID-19.
@@ -35,6 +37,8 @@ Semua itu saya rasa tidak mudah, tapi saya rasa tidak ada salahnya jika kita men
 > 所有这些我认为并不容易，但我觉得如果我们尝试开设由当地RT或RW提供支持的在线课程，也没有什么坏处。这只是我的个人建议，各位有什么意见？
 
 # Paspor
+
+[Paspor](./audio/Rekapitulasi%201%20-%20Paspor.m4a)
 
 Kalau mau keluar negeri, dokumen terpenting yang perlu proses miliki adalah paspor. Karena paspor ini dokumen resmi yang dapat digunakan sebagai identitas.
 
