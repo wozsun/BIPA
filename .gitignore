@@ -1,0 +1,16 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+.obsidian/
+
+# 临时文件或备份
+*.bak
+*.tmp
+*.swp
+
+# 忽略日志文件
+*.log
