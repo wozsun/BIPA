@@ -1,3 +1,8 @@
+---
+AFFiNE: false
+Notion: false
+---
+
 # magang
 
 internship (a period during which a student or recent graduate works for a company to gain experience)

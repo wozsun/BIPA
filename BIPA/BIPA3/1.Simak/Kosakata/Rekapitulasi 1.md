@@ -1,6 +1,6 @@
 ---
-AFFiNE: true
-Notion: true
+AFFiNE: false
+Notion: false
 ---
 
 # filosofi
