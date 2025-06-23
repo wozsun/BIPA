@@ -1,3 +1,8 @@
+---
+AFFiNE: 
+Notion: 
+---
+
 # merupakan
 
 is (to exist or be present)

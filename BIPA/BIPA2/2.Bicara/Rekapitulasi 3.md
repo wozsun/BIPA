@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # Pembelajaran komputer di usia sekolah di Tiongkok
 
 Selamat siang semua!

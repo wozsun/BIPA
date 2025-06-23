@@ -1,3 +1,8 @@
+---
+AFFiNE: 
+Notion: 
+---
+
 # sekaligus
 
 at once (simultaneously)
