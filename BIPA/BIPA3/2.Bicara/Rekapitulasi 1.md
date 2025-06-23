@@ -82,6 +82,6 @@ melonjak sejak pada tahun -> melonjak sejak tahun/melonjak dari tahun
 
 # Latihan
 
-![Rekapitulasi1](./assets/Rekapitulasi1.webp)
+![Rekapitulasi1](assets/Rekapitulasi1.webp)
 
 Selamat siang semua! Terima kasih atas kesempatan yang telah diberikan kepada saya untuk berpresentasi hari ini. Hari ini saya akan menjelaskan data tentang kemacetan di Jakarta. Mungkin kalian sudah tahu bagaimana kondisi lalu lintas di Jakarta ya, sangat macet ya. Mari kita lihat grafik di kanan dulu. Grafik ini dari validnews. Sumbu datar menunjukkan tahun pengambilan data dan sumbu tegak menunjukkan jumlah bus dan sepeda motor. Dapat kita lihat dari grafik tersebut, jumlah sepeda motor meningkat bertahap dari tahun 2019 sampai tahun 2022. Sedangkan jumlah bus hanya meningkat sedikit. Tentunya, semakin banyak motor menyebabkan Jakarta lebih macet. Selanjutnya, mari kita lihat diagram di kiri. Berdasarkan diagram ini diperoleh dari perupadata, pada tahun 2023, indikator kemacetan Jakarta meningkat sampai peringkat ketiga puluh. Selain itu, perjalanan sejauh sepuluh kilometer akan memakan waktu lebih dari 23 menit. Setiap tahun kemacetan di Jakarta akan membuang-buang waktu 117 jam. Sangat banyak, kan? Walaupun data ini jauh lebih rendah dibandingkan dengan London atau Milan, tetapi masih lebih lama daripada kira-kira 50 persen negara. Dengan demikian dari data tersebut, dapat kita ketahui bahwa kondisi lalu lintas di Jakarta menjadi lebih parah. Itulah presentasi saya tentang kemacetan di Jakarta. Terima kasih atas perhatiannya. Jika ada yang ingin bertanya, silakan!

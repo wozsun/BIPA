@@ -1,4 +1,7 @@
-# Rekapitulasi 1
+---
+AFFiNE: true
+Notion: true
+---
 
 # filosofi
 

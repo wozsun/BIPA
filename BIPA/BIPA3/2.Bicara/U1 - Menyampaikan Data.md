@@ -26,7 +26,7 @@ e. Kesimpulan dari data-data tersebut.
 
 **Contoh penyampaian data di dalam infografis:**
 
-![infografis](./assets/infografis.webp)
+![infografis](assets/infografis.webp)
 
 Infografis di atas menyoroti jumlah koleksi buku dan pengunjung di Perpustakaan Jakarta pada tahun 2022. Berdasarkan data yang diperoleh dari Dinas Perpustakaan dan Kearsipan Provinsi Daerah Khusus Ibu Kota Jakarta, jumlah pengunjung di Perpustakaan Provinsi Jakarta pada tahun tersebut sebanyak 2.973.338 orang. Jumlah tersebut jauh lebih banyak dibandingkan dengan jumlah pengunjung tahun 2020, yaitu sebanyak 793.243. Kenaikan jumlah tersebut disebabkan berakhirnya masa pandemi dan banyaknya kegiatan menarik pascapandemi di perpustakaan untuk menarik minat calon pengunjung perpustakaan. Kenaikan jumlah pengunjung tersebut juga berdampak pada kenaikan jumlah anggota baru, yaitu 169.591 orang menjadi anggota baru. Jumlah meningkat hampir enam kali lebih banyak dari jumlah anggota baru dari tahun-tahun sebelumnya. Sementara itu, jumlah koleksi buku di perpustakaan Jakarta pada tahun 2022 hanya sebanyak 1.118.045. Jumlah tersebut menurun 577.456 koleksi dari tahun 2021. Namun, apakah angka tersebut bisa dikatakan bagus jika dibandingkan dengan jumlah penduduk Jakarta, yaitu 10,5 juta orang? Berdasarkan data-data tersebut, dapat kita simpulkan bahwa berakhirnya masa pandemi dan banyaknya kegiatan yang diadakan oleh perpustakaan membuat masyarakat tertarik kembali untuk mengunjungi perpustakaan.
 
@@ -115,7 +115,7 @@ f. Kaitan antara data yang satu dengan data yang lainnya.
 
 **Contoh penyampaian data di dalam grafik:**
 
-![grafik](./assets/grafik.webp)
+![grafik](assets/grafik.webp)
 
 Grafik di atas menunjukkan jumlah koleksi buku di Perpustakaan Provinsi Daerah Khusus Jakarta. Grafik di atas diperoleh dari Dinas Perpustakaan dan Kearsipan Provinsi Daerah Khusus Jakarta. Sumbu datar menunjukkan tahun pengambilan data dan sumbu tegak menunjukkan jumlah koleksi buku. Berdasarkan grafik tersebut, jumlah koleksi buku merangkak naik dari tahun 2017 sampai tahun 2018. Jumlah tersebut melonjak pada tahun 2019 dan mencapai titik tertinggi pada tahun 2021, yaitu sebanyak 1.692.998 buku. Namun, pada tahun 2022 jumlah koleksi buku anjlok mencapai titik terendah, yaitu 1.118.045. Dengan demikian, dapat disimpulkan bahwa jumlah koleksi buku di Perpustakaan Provinsi DKI cenderung mengalami kestabilan dari tahun 2019—2021 sebelum akhirnya mengalami penurunan yang signifikan pada tahun 2022.
 
@@ -138,7 +138,7 @@ d. kesimpulan dari data-data tersebut.
 
 **Contoh penyampaian data di dalam diagram lingkaran:**
 
-![lingkaran](./assets/lingkaran.webp)
+![lingkaran](assets/lingkaran.webp)
 
 Diagram lingkaran di atas menunjukkan jumlah titik lokasi perpustakaan di Daerah Khusus Jakarta pada tahun 2023. Berdasarkan diagram dari Perpustakaan Nasional Republik Indonesia, dapat diketahui bahwa perpustakaan terbanyak ada di Jakarta Selatan dengan jumlah 144 atau sebesar 21,9% dari jumlah total perpustakaan di wilayah Jakarta. Sementara itu, perpustakaan keliling terbanyak kedua ada di wilayah Jakarta Timur dengan jumlah 182 atau seperempat lebih banyak dari jumlah total perpustakaan di wilayah Jakarta. Sebaliknya, jumlah perpustakaan keliling paling sedikit ditemukan di daerah Kepulauan Seribu, yaitu sebanyak 7 titik lokasi atau sebesar 1,1% dari jumlah total perpustakaan keliling di wilayah Jakarta. Dengan demikian, jika dibandingkan, selisih antara daerah dengan perpustakaan keliling terbanyak dan yang paling sedikit sangat besar.
 
@@ -164,7 +164,7 @@ e. kesimpulan dari data-data.
 
 **Contoh penyampaian data di dalam diagram batang:**
 
-![batang](./assets/batang.webp)
+![batang](assets/batang.webp)
 
 Diagram batang dari Dinas Kesehatan Provinsi Daerah Khusus Jakarta di atas menguraikan enam wilayah administratif dengan jumlah tenaga kesehatan bidan terbanyak pada tahun 2022. Sumbu tegak menunjukkan lokasi, sedangkan sumbu datar menunjukkan jumlah tenaga kesehatan bidan. Berdasarkan diagram batang tersebut, jumlah bidan terbanyak ada di Jakarta Timur, yaitu sebanyak 1.982 orang. Sementara itu, jumlah terbanyak kedua ada di Jakarta Selatan, dengan 1.922 orang atau hanya selisih 60 orang dari wilayah Jakarta Timur. Di posisi ketiga dan keempat ada Jakarta Barat dan Jakarta Utara. Kemudian, di posisi kelima, dengan jumlah bidan sebanyak 331 orang ada di Jakarta Pusat. Sedangkan, jumlah paling sedikit ada di Kepulauan Seribu, yaitu sebanyak 53 orang saja. Dengan demikian, dapat kita ketahui dari diagram tersebut, jumlah bidan di daerah Kepulauan Seribu 85% lebih sedikit daripada di daerah Jakarta Pusat.
 
