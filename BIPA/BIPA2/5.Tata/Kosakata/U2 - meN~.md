@@ -1,5 +1,3 @@
-# U2 - meN\~
-
 # menjamur
 
 mushrooming

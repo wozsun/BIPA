@@ -1,5 +1,3 @@
-# U4 - pe\~
-
 # penjual
 
 seller / vendor

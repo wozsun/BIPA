@@ -1,5 +1,3 @@
-# U1 - ber\~
-
 # melakukan tindakan terhadap diri sendiri
 
 # melakukan tindakan sebagai mata pencaharian/hobi

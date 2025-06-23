@@ -1,5 +1,3 @@
-# U1 - ber\~
-
 # berhias
 
 decorate / adorn

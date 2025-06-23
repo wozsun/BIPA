@@ -1,5 +1,3 @@
-# U2 - meN\~
-
 # 变换规则
 
 me- → m, n, ng, ny, r, l, w, y

@@ -1,5 +1,3 @@
-# U1 - Menyampaikan Data
-
 # Infografis
 
 a. Judul atau tema infografis.

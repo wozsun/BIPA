@@ -1,5 +1,3 @@
-# U7 - meN\~i
-
 # memotongi
 
 to cut (to divide something into pieces or sections)

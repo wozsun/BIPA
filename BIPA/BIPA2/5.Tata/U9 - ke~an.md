@@ -1,5 +1,3 @@
-# U9 - ke\~an
-
 # mengalami/menderita karena faktor alam, faktor emosi/biologis, faktor luar yang tidak diinginkan
 
 * **Kosakata:**

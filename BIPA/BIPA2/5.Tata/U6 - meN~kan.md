@@ -1,5 +1,3 @@
-# U6 - meN\~kan
-
 # membuat jadi (sebagai verba) terkait perasaan
 
 * **Kosakata:**

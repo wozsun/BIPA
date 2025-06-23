@@ -1,5 +1,3 @@
-# U11 - per\~an
-
 # pertengkaran
 
 argument (a disagreement or heated discussion)

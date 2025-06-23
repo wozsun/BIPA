@@ -1,5 +1,3 @@
-# U8 - ter\~
-
 # terbuka
 
 open (not closed or covered)

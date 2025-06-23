@@ -1,5 +1,3 @@
-# U12 - ke\~an
-
 # kepandaian
 
 skill (the ability to do something well, often gained through practice)

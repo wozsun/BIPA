@@ -1,5 +1,3 @@
-# U8 - ter\~
-
 # objek dalam keadaan
 
 * **Kosakata:**

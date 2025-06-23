@@ -1,5 +1,3 @@
-# U4 - pe\~
-
 # imbuhan peN\~
 
 > 跟随meN\~变换规则

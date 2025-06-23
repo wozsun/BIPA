@@ -1,5 +1,3 @@
-# U7 - meN\~i
-
 # melakukan tindakan berulang-ulang
 
 * **Kosakata:**

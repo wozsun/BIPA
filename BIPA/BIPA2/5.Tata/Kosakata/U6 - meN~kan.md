@@ -1,5 +1,3 @@
-# U6 - meN\~kan
-
 # terkait
 
 related; connected (having a relationship or connection with something)

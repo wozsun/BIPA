@@ -1,5 +1,3 @@
-# Rekapitulasi 1
-
 # Pembuka
 
 **Memberikan salam dan berterima kasih**

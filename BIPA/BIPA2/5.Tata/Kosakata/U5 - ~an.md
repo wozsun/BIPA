@@ -1,5 +1,3 @@
-# U5 - \~an
-
 # masakan
 
 cuisine; dish

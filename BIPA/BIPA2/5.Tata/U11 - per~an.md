@@ -1,5 +1,3 @@
-# U11 - per\~an
-
 # hasil verba ber\~
 
 * **Kosakata:**

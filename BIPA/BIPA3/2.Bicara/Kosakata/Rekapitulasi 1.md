@@ -1,5 +1,3 @@
-# Rekapitulasi 1
-
 # beralih
 
 switch (to change from one thing to another)

@@ -1,5 +1,3 @@
-# U10 - peN\~an
-
 > 跟随meN\~变换规则
 
 # sesuatu yang di\~

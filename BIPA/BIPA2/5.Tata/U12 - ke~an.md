@@ -1,5 +1,3 @@
-# U12 - ke\~an
-
 # hal tentang
 
 * **Kosakata:**
