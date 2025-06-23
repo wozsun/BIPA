@@ -1,8 +1,6 @@
-# Rekapitulasi 1
-
 # Rapat RPTRA
 
-[Rapat RPTRA](./audio/Rekapitulasi%201%20-%20Rapat%20RPTRA.m4a)
+![Rapat RPTRA](./audio/Rekapitulasi%201%20-%20Rapat%20RPTRA.m4a)
 
 Situasi: Para pegawai Pemprov DKI Jakarta sedang mengadakan rapat membahas program kerja terkait RPTRA.
 Selamat pagi Bapak dan Ibu. Bisa kita mulai rapatnya? Dalam rapat awal tahun ini, kita akan kembali menyusun rencana kegiatan dan program-program, serta peningkatan pelayanan untuk RPTRA tahun ini, dan sekaligus evaluasi kegiatan dan pelayanan RPTRA kita tahun lalu.
@@ -38,7 +36,7 @@ Semua itu saya rasa tidak mudah, tapi saya rasa tidak ada salahnya jika kita men
 
 # Paspor
 
-[Paspor](./audio/Rekapitulasi%201%20-%20Paspor.m4a)
+![Paspor](./audio/Rekapitulasi%201%20-%20Paspor.m4a)
 
 Kalau mau keluar negeri, dokumen terpenting yang perlu proses miliki adalah paspor. Karena paspor ini dokumen resmi yang dapat digunakan sebagai identitas.
 
