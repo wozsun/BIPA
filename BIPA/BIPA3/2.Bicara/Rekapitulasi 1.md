@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # Pembuka
 
 **Memberikan salam dan berterima kasih**

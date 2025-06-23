@@ -1,4 +1,7 @@
-# U2 - Verba ber\[ke\~an]
+---
+AFFiNE: true
+Notion: true
+---
 
 **Makna:** memiliki; mempunyai; ada \[ke\~an]
 

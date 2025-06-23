@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # Infografis
 
 a. Judul atau tema infografis.

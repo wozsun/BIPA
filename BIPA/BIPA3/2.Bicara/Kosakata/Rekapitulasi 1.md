@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # beralih
 
 switch (to change from one thing to another)

@@ -1,4 +1,7 @@
-# U3 - Nominalisasi \~nya
+---
+AFFiNE: true
+Notion: true
+---
 
 # menguatnya
 

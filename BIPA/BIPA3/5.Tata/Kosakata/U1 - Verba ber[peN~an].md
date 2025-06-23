@@ -1,4 +1,7 @@
-# U1 - Verba ber\[peN\~an]
+---
+AFFiNE: true
+Notion: true
+---
 
 # penampilan
 
