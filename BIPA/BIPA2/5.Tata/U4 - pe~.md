@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # imbuhan peN\~
 
 > 跟随meN\~变换规则

@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # hasil verba ber\~
 
 * **Kosakata:**

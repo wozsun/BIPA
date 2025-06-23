@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # melakukan tindakan berulang-ulang
 
 * **Kosakata:**

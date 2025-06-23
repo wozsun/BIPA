@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # kepandaian
 
 skill (the ability to do something well, often gained through practice)

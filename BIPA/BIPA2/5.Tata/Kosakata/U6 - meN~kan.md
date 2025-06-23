@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # terkait
 
 related; connected (having a relationship or connection with something)

@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # membuat jadi (sebagai verba) terkait perasaan
 
 * **Kosakata:**

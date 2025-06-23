@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # kekeringan
 
 drought (a prolonged dry period when there is little or no rainfall)

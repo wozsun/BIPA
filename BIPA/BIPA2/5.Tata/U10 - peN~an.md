@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 > 跟随meN\~变换规则
 
 # sesuatu yang di\~

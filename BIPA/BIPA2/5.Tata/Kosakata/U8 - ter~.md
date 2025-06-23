@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # terbuka
 
 open (not closed or covered)

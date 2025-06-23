@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # objek dalam keadaan
 
 * **Kosakata:**

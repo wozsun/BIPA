@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # 变换规则
 
 me- → m, n, ng, ny, r, l, w, y

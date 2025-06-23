@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # masakan
 
 cuisine; dish

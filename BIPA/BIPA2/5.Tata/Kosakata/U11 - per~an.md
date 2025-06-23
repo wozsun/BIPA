@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # pertengkaran
 
 argument (a disagreement or heated discussion)

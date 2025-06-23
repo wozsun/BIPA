@@ -1,3 +1,8 @@
+---
+AFFiNE: true
+Notion: true
+---
+
 # pengalaman
 
 experience (the knowledge or skill acquired through involvement in a particular activity or event)
