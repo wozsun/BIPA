@@ -1,6 +1,6 @@
 ---
-AFFiNE: 
-Notion: 
+AFFiNE: false
+Notion: false
 ---
 
 # induk
