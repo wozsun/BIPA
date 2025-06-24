@@ -7,67 +7,67 @@ Notion: true
 
 **Memberikan salam dan berterima kasih**
 
-* Selamat siang, Bapak/Ibu. Terima kasih atas kehadiran Bapak/Ibu semua pada siang hari ini.
-* Selamat siang, rekan-rekan. Terima kasih atas kesempatan yang diberikan kepada saya untuk menyampaikan … kepada rekan-rekan semua.
-* Selamat siang, teman-teman. Terima kasih karena sudah menyempatkan datang ke ruangan ini untuk mendengarkan pemaparan saya.
+- Selamat siang, Bapak/Ibu. Terima kasih atas kehadiran Bapak/Ibu semua pada siang hari ini.
+- Selamat siang, rekan-rekan. Terima kasih atas kesempatan yang diberikan kepada saya untuk menyampaikan … kepada rekan-rekan semua.
+- Selamat siang, teman-teman. Terima kasih karena sudah menyempatkan datang ke ruangan ini untuk mendengarkan pemaparan saya.
 
 **Menyampaikan tujuan**
 
-* Pada siang hari ini, saya akan menyampaikan …
-* Pada kesempatan ini, saya akan memaparkan data …
-* Siang hari ini, saya akan menjelaskan …
+- Pada siang hari ini, saya akan menyampaikan …
+- Pada kesempatan ini, saya akan memaparkan data …
+- Siang hari ini, saya akan menjelaskan …
 
 **Memulai presentasi**
 
-* Memulai dengan bertanya -> Ada yang tahu data ini tentang apa?
-* Berikut data mengenai …
-* Ini adalah data tentang …
+- Memulai dengan bertanya -> Ada yang tahu data ini tentang apa?
+- Berikut data mengenai …
+- Ini adalah data tentang …
 
 # Isi
 
 **Menjelaskan data**
 
-* Tema atau judul
-* Selisih jumlah data yang disorot
-* Bagian-bagian sumbu datar dan tegak grafik
-* Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau ketidakstabilan.
+- Tema atau judul
+- Selisih jumlah data yang disorot
+- Bagian-bagian sumbu datar dan tegak grafik
+- Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau ketidakstabilan.
 
 **Beralih data**
 
-* Mari kita lihat data selanjutnya. …
-* Selanjutnya, bagaimana …? Mari kita lihat …
-* Sekarang, coba perhatikan data berikutnya. …
+- Mari kita lihat data selanjutnya. …
+- Selanjutnya, bagaimana …? Mari kita lihat …
+- Sekarang, coba perhatikan data berikutnya. …
 
 **Berpikir/Bertanya**
 
-* Coba bayangkan, dari sekian .... hanya ada ....
-* Apakah (situasi ini) bisa/dapat dikatakan (bagus, cukup, berkualitas, dll)
-* Apakah data kondisi ini dapat dikatakan baik?
+- Coba bayangkan, dari sekian .... hanya ada ....
+- Apakah (situasi ini) bisa/dapat dikatakan (bagus, cukup, berkualitas, dll)
+- Apakah data kondisi ini dapat dikatakan baik?
 
 **Memberitahu kejanggalan/masalah**
 
-* Namun, jika dibandingkan dengan ... dan ..., selisihnya cukup banyak.
-* Apa masalah yang bisa kita dapat dari data tersebut? Masalahnya adalah ...
+- Namun, jika dibandingkan dengan ... dan ..., selisihnya cukup banyak.
+- Apa masalah yang bisa kita dapat dari data tersebut? Masalahnya adalah ...
 
 # Penutup
 
 **Memberikan kesimpulan atau kecenderungan**
 
-* Dengan demikian, dapat kita simpulkan …
-* Dari informasi yang telah disebutkan, kita dapat menyimpulkan …
-* Dengan demikian dari data-data tersebut, dapat kita pahami/ketahui bahwa …
-* Dari dua data tersebut dapat diketahui ...
+- Dengan demikian, dapat kita simpulkan …
+- Dari informasi yang telah disebutkan, kita dapat menyimpulkan …
+- Dengan demikian dari data-data tersebut, dapat kita pahami/ketahui bahwa …
+- Dari dua data tersebut dapat diketahui ...
 
 **Menyampaikan pesan atau berterima kasih**
 
-* Itulah presentasi saya tentang … . Semoga presentasi ini dapat memberikan manfaat bagi Bapak/Ibu semua.
-* Dengan kesimpulan tadi, demikian presentasi saya. Terima kasih sudah mendengarkan presentasi ini. Selamat siang.
+- Itulah presentasi saya tentang … . Semoga presentasi ini dapat memberikan manfaat bagi Bapak/Ibu semua.
+- Dengan kesimpulan tadi, demikian presentasi saya. Terima kasih sudah mendengarkan presentasi ini. Selamat siang.
 
 # Tanya Jawab
 
-* Demikian presentasi saya. Jika ada yang ingin bertanya, saya persilakan.
-* Terima kasih atas pertanyaan Anda, saya akan coba menjawabnya.
-* Demikianlah presentasi saya. Semoga ....
+- Demikian presentasi saya. Jika ada yang ingin bertanya, saya persilakan.
+- Terima kasih atas pertanyaan Anda, saya akan coba menjawabnya.
+- Demikianlah presentasi saya. Semoga ....
 
 # Perhatian
 
@@ -77,7 +77,7 @@ Tersebut bahwa ada ... -> Disebutkan bahwa ada …
 
 Risk yang semakin besar -> Risiko yang makin besar
 
-2017 -> dua ribu tujuh belas **BUKAN** dua puluh tujuh belas
+2017 -> dua ribu tujuh belas **BUKAN*- dua puluh tujuh belas
 
 2020 -> dua ribu dua puluh
 

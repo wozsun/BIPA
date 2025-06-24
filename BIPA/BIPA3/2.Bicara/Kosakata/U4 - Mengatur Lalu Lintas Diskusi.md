@@ -68,6 +68,14 @@ act (to take action or do something)
 mediator (a person who mediates or helps to resolve conflicts)
 调解人, 调停者, 仲裁者
 
+# pemegang
+
+holder (a person who holds something, such as a position or a document)
+持有人，持有者
+
+bearer (a person who carries or holds something)
+携带者，持票人
+
 # hakim
 
 judge (a public official appointed to decide cases in a court of law)
@@ -92,12 +100,6 @@ discuss (to talk about something with someone)
 
 present (being in a particular place)
 出席, 在场, 到场
-
-
-
-
-
-
 
 # karnivora
 
@@ -209,4 +211,182 @@ bird of paradise (a brightly colored bird native to Papua)
 orangutan (a large arboreal ape found in the rainforests of Borneo and Sumatra)
 猩猩, 红毛猩猩
 
-#
+# pemaparan
+
+explanation (the act or process of making something clear or understandable)
+解释
+
+presentation (the act of presenting something, such as information or a performance)
+展示，演示
+
+# wakil
+
+representative (a person chosen or appointed to act or speak for others)
+代表，代理人
+
+deputy (a person who is appointed to undertake the duties of a superior in the superior's absence)
+副手，代理
+
+# pelestarian
+
+conservation (the act of preserving, protecting, or restoring something)
+保护，保存
+
+preservation (the act of maintaining something in its original or existing state)
+维护，保育
+
+# pandangan
+
+view (an opinion, belief, or way of thinking about something)
+观点，看法
+
+sight (the ability to see or the act of seeing)
+视野，视线
+
+perspective (a particular attitude or way of considering something)
+视角，角度
+
+# memahami
+
+understand (to grasp the meaning, significance, or nature of something)
+理解，明白
+
+comprehend (to grasp mentally; to fully understand)
+领会，了解
+
+# tantangan
+
+challenge (a task or situation that tests someone's abilities)
+挑战
+
+defiance (a bold resistance to authority or an opposing force)
+反抗，挑衅
+
+# pengantar
+
+introduction (the action of introducing something or someone)
+介绍，引言
+
+foreword (a short introduction to a book, typically by someone other than the author)
+前言，序文
+
+escort (a person who accompanies someone to give protection or as a companion)
+护送者，陪同者
+
+# seimbang
+
+balanced (being in a state of balance; having equal weight or importance)
+平衡的，均衡的
+
+equitable (fair and impartial)
+公平的，公正的
+
+# otoritas
+
+authority (the power or right to give orders, make decisions, and enforce obedience)
+权威，权力
+
+jurisdiction (the official power to make legal decisions and judgments)
+管辖权，司法权
+
+# kendali
+
+control (the power to influence or direct people's behavior or the course of events)
+控制，掌控
+
+command (the authority to give orders and make decisions)
+指挥，命令
+
+# kesan
+
+impression (an idea, feeling, or opinion about something or someone)
+印象
+
+effect (a change that is a result or consequence of an action or other cause)
+效果，影响
+
+# mencairkan
+
+melt (to change a solid substance into liquid by heating)
+融化，使融解
+
+liquefy (to make or become liquid)
+液化
+
+disburse (to pay out money, especially from a fund)
+支付，发放
+
+dissolve (to mix a solid with a liquid until it becomes part of the liquid)
+溶解
+
+# suasana
+
+atmosphere (the feeling or mood in a particular place or situation)
+氛围，气氛
+
+environment (the surroundings or conditions in which a person, animal, or plant lives or operates)
+环境
+
+mood (a temporary state of mind or feeling)
+情绪，心情
+
+# mengaturkan
+
+express (to convey or communicate an idea or message)  
+表达
+
+deliver (to formally present or offer something, such as a speech or gift)  
+致辞
+
+# berkait
+
+related (connected or associated with something)  
+相关
+
+linked (joined or connected to something)  
+关联
+
+# berkat
+
+blessing (a beneficial thing for which one is grateful)  
+祝福
+
+grace (divine favor or goodwill)  
+恩典
+
+# bergengsi
+
+prestigious (having high status, respected)
+有声望的，受尊敬的
+
+luxurious (expensive and of high quality)
+奢华的，高品质的
+
+# perburuan
+
+hunting (the activity of pursuing and killing wild animals)
+狩猎
+
+chase (the act of pursuing someone or something)
+追逐
+
+search (the act of looking for something)
+搜寻
+
+# kehadiran
+
+presence (the state of being present)
+存在，出席
+
+attendance (the act of being present at a place)
+出席，参加
+
+# hadirin
+
+audience (the group of people watching or listening to an event)  
+观众  
+
+attendees (people who attend a meeting or event)  
+与会者  
+
+# 

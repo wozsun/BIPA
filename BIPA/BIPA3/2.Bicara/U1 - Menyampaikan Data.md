@@ -14,9 +14,9 @@ Contohnya: cuma, hanya, bahkan lebih dari..., jauh lebih (besar/kecil)
 
 d. Gunakan kalimat yang mengajak orang untuk memperbandingkan data yang ada dengan pengetahuan latar umum yang dimiliki pendengar. Contohnya:
 
-* Coba bayangkan, dari sekian .... hanya ada ....
-* Pantaskah jika...?
-* Apakah bisa dikatakan (bagus, cukup, berkualitas, dll)
+- Coba bayangkan, dari sekian .... hanya ada ....
+- Pantaskah jika...?
+- Apakah bisa dikatakan (bagus, cukup, berkualitas, dll)
 
 e. Kesimpulan dari data-data tersebut.
 
@@ -52,12 +52,12 @@ d. Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau
 > c. 最高或最低的数量/值/百分比
 > d. 使用可以表示上升、下降、稳定或不稳定的表达。
 
-* Kenaikan
-  * meningkat bertahap
-  * merangkak naik
-  * melonjak
-  * meroket
-  * meningkat drastis/tajam
+- Kenaikan
+  - meningkat bertahap
+  - merangkak naik
+  - melonjak
+  - meroket
+  - meningkat drastis/tajam
 
 > 上升
 > \- 逐步增加
@@ -66,12 +66,12 @@ d. Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau
 > \- 飞速上升
 > \- 急剧上升/大幅上涨
 
-* Penurunan
-  * menurun bertahap
-  * merangkak turun
-  * anjlok
-  * terpuruk
-  * menurun drastis/tajam
+- Penurunan
+  - menurun bertahap
+  - merangkak turun
+  - anjlok
+  - terpuruk
+  - menurun drastis/tajam
 
 > 下降
 > \- 逐步下降
@@ -80,11 +80,11 @@ d. Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau
 > \- 跌落（贬义）
 > \- 急剧下降/锐减
 
-* Kestabilan
-  * stabil
-  * tidak ada perubahan berarti
-  * menunjukkan kestabilan
-  * cenderung stabil
+- Kestabilan
+  - stabil
+  - tidak ada perubahan berarti
+  - menunjukkan kestabilan
+  - cenderung stabil
 
 > 稳定
 > \- 稳定的
@@ -92,10 +92,10 @@ d. Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau
 > \- 表现稳定性
 > \- 趋于稳定
 
-* Ketidakstabilan
-  * bergejolak
-  * fluktuatif
-  * menunjukkan ketidakstabilan
+- Ketidakstabilan
+  - bergejolak
+  - fluktuatif
+  - menunjukkan ketidakstabilan
 
 > 不稳定
 > \- 动荡的
@@ -104,10 +104,10 @@ d. Gunakan ungkapan yang dapat menunjukkan kenaikan, penurunan, kestabilan, atau
 
 e. Informasi data dalam waktu tertentu (ukuran: persen, jiwa, orang, kelas, unit, dsb.)
 
-* mencapai (angka)
-* mendekati (angka)
-* menembus (angka)
-* melampaui (angka)
+- mencapai (angka)
+- mendekati (angka)
+- menembus (angka)
+- melampaui (angka)
 
 f. Kaitan antara data yang satu dengan data yang lainnya.
 
