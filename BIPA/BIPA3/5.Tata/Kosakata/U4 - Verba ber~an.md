@@ -390,4 +390,76 @@ overcome (to successfully deal with a problem)
 handle (to manage or deal with a situation)
 处理，应对
 
-# 
+# menyusul
+
+follow (to go after someone or something)
+跟随，追赶
+
+catch up (to reach someone ahead)
+赶上
+
+# susul-menyusul
+
+chase each other (to take turns following or pursuing)
+你追我赶，轮流追逐
+
+# relatif
+
+relative (considered in relation or in proportion to something else)
+相对的
+
+relative (a person connected by blood or marriage)
+亲戚
+
+# sahabat
+
+friend (a close companion or buddy)
+朋友，密友
+
+# sekian
+
+so much (indicating a certain amount or degree)
+那么多，那么多的
+
+that's all (used to indicate the end of a statement)
+就这些，仅此而已
+
+# penghuni
+
+inhabitant (a person or animal living in a place)
+居民，住户
+
+occupant (someone who occupies a space or property)
+占用者，居住者
+
+# musim
+
+season (a period of the year characterized by particular weather)
+季节
+
+period (a specific time or phase)
+时期，阶段
+
+# semi
+
+prefix indicating partial or incomplete
+前缀，表示部分的、不完全的
+
+half (partially or halfway)
+半，部分地
+
+# diributkan
+
+be debated (to be argued or discussed)
+被争论，被讨论
+
+be made a fuss over (to be the subject of controversy)
+被大肆争吵，被纷争
+
+# bertengkar
+
+argue (to have a disagreement or quarrel)
+争吵，争执
+
+fight (to engage in a verbal or physical conflict)
+打架，争斗
