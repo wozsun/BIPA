@@ -4,6 +4,7 @@ Notion: false
 ---
 
 # induk
+
 parent (a person who has a child)
 父母
 Induk dari anak-anak itu selalu memperhatikan mereka.
@@ -301,42 +302,41 @@ He found the key to this problem.
 
 # pancaindera
 
-five senses (the faculties of sight, hearing, touch, taste, and smell)  
-五种感官（视觉、听觉、触觉、味觉和嗅觉的能力）  
-Contoh: Pancaindera manusia memungkinkan kita untuk merasakan dunia di sekitar kita.  
-The human senses allow us to perceive the world around us.  
+five senses (the faculties of sight, hearing, touch, taste, and smell)
+五种感官（视觉、听觉、触觉、味觉和嗅觉的能力）
+Contoh: Pancaindera manusia memungkinkan kita untuk merasakan dunia di sekitar kita.
+The human senses allow us to perceive the world around us.
 
-sensory perception (the process of receiving and interpreting sensory information)  
-感官知觉（接收和解释感官信息的过程）  
-Contoh: Pancaindera berperan penting dalam pengalaman belajar.  
-The senses play an important role in the learning experience.  
+sensory perception (the process of receiving and interpreting sensory information)
+感官知觉（接收和解释感官信息的过程）
+Contoh: Pancaindera berperan penting dalam pengalaman belajar.
+The senses play an important role in the learning experience.
 
 # penanda
 
-marker (an object used to indicate or identify something)  
-标记（用于指示或识别某物的物体）  
-Contoh: Gunakan penanda untuk menandai halaman penting dalam buku.  
-Use a marker to highlight important pages in the book.  
+marker (an object used to indicate or identify something)
+标记（用于指示或识别某物的物体）
+Contoh: Gunakan penanda untuk menandai halaman penting dalam buku.
+Use a marker to highlight important pages in the book.
 
-sign (a symbol or indication of something)  
-标志（某事物的符号或指示）  
-Contoh: Penanda jalan sangat penting untuk membantu pengemudi.  
-Road signs are very important to assist drivers.  
+sign (a symbol or indication of something)
+标志（某事物的符号或指示）
+Contoh: Penanda jalan sangat penting untuk membantu pengemudi.
+Road signs are very important to assist drivers.
 
-indicator (something that provides information about a situation)  
-指示器（提供有关某种情况的信息的东西）  
-Contoh: Suhu adalah penanda penting dalam proses ini.  
-Temperature is an important indicator in this process.  
+indicator (something that provides information about a situation)
+指示器（提供有关某种情况的信息的东西）
+Contoh: Suhu adalah penanda penting dalam proses ini.
+Temperature is an important indicator in this process.
 
 # kesan
 
-impression (an effect or influence that something has on a person's thoughts or feelings)  
-印象  
-Kesan pertama saya tentang dia sangat positif.  
+impression (an effect or influence that something has on a person's thoughts or feelings)
+印象
+Kesan pertama saya tentang dia sangat positif.
 My first impression of him was very positive.
 
-effect (a change that is a result or consequence of an action)  
-效果  
-Kesan dari film itu sangat mendalam.  
+effect (a change that is a result or consequence of an action)
+效果
+Kesan dari film itu sangat mendalam.
 The effect of the movie was very profound.
-
