@@ -7,131 +7,192 @@ Notion: false
 
 internship (a period during which a student or recent graduate works for a company to gain experience)
 实习
-Dia sedang menjalani magang di perusahaan besar.
-He is currently doing an internship at a large company.
 
 apprenticeship (a system of training a new generation of practitioners)
 学徒期
-Magang sering kali menjadi langkah awal menuju pekerjaan tetap.
-Internships often serve as a first step towards permanent employment.
 
 # karyawan
 
 employee (a person who is paid to work for someone else)
 员工
-Karyawan di perusahaan ini sangat profesional.
-The employees at this company are very professional.
 
 staff (the group of people who work for an organization)
 工作人员
-Perusahaan ini memiliki karyawan yang terdiri dari berbagai latar belakang.
-This company has staff members from various backgrounds.
 
 # mewawancarai
 
 to interview (to ask someone questions in order to get information)
 面试
-Dia akan mewawancarai calon karyawan minggu depan.
-He will interview the job candidates next week.
 
 to question (to ask someone about something)
 询问
-Jurnalis itu mewawancarai saksi mata tentang kejadian tersebut.
-The journalist interviewed the eyewitness about the incident.
 
 # pelamar
 
 applicant (a person who applies for something, such as a job or admission to a school)
 申请者
-Pelamar untuk posisi ini harus memiliki pengalaman kerja yang relevan.
-Applicants for this position must have relevant work experience.
 
 candidate (a person who is being considered for a position or honor)
 候选人
-Dia adalah salah satu pelamar terbaik untuk pekerjaan itu.
-He is one of the best candidates for the job.
 
 # swasta
 
 private (not owned by the state or government; owned by individuals or organizations)
 私有的
-Perusahaan swasta seringkali lebih fleksibel dalam pengambilan keputusan.
-Private companies are often more flexible in decision-making.
 
 non-governmental (not affiliated with or controlled by the government)
 非政府的
-Organisasi swasta berperan penting dalam pembangunan masyarakat.
-Non-governmental organizations play an important role in community development.
 
 # tertarik
 
 interested (having a desire to know or learn about something)
 感兴趣
-Saya tertarik untuk belajar lebih banyak tentang budaya Indonesia.
-I am interested in learning more about Indonesian culture.
 
 attracted (drawn to something or someone)
 吸引
-Dia tertarik pada seni dan selalu mengunjungi pameran.
-She is attracted to art and always visits exhibitions.
 
 # ucap
 
 to say (to express in words)
 说
-Dia selalu ucap terima kasih kepada orang yang membantunya.
-He always says thank you to those who help him.
 
 to express (to convey a thought or feeling in words)
 表达
-Dia ingin ucap pendapatnya tentang masalah tersebut.
-He wants to express his opinion on the issue.
 
 # bakti
 
 devotion (love, loyalty, or enthusiasm for a person, activity, or cause)
 奉献
-Dia menunjukkan bakti yang tinggi kepada keluarganya.
-He shows great devotion to his family.
 
 service (the action of helping or doing work for someone)
 服务
-Bakti sosial dilakukan untuk membantu masyarakat yang membutuhkan.
-Community service is done to help those in need.
 
 # membahas
 
 to discuss (to talk about something with someone)
 讨论
-Kami akan membahas rencana proyek baru di pertemuan nanti.
-We will discuss the new project plan in the meeting later.
 
 to address (to deal with a particular issue or topic)
 解决
-Dia membahas masalah tersebut dengan serius.
-He addressed the issue seriously.
 
 # anggota
 
 member (a person who belongs to a group or organization)
 成员
-Setiap anggota tim diharapkan untuk berkontribusi.
-Each member of the team is expected to contribute.
 
 part (a piece or segment of something)
 部分
-Anggota tubuh manusia terdiri dari berbagai bagian.
-The parts of the human body consist of various segments.
 
 # mengingatkan
 
 to remind (to make someone remember something)
 提醒
-Dia selalu mengingatkan saya untuk membawa payung.
-She always reminds me to bring an umbrella.
 
 to notify (to inform someone about something)
 通知
-Saya akan mengingatkan Anda tentang pertemuan besok.
-I will notify you about the meeting tomorrow.
 
+# mengeluh
+
+complain (to express dissatisfaction or annoyance)
+抱怨，发牢骚
+
+# mengajukan
+
+submit (to present or propose something formally)
+提交，提出
+
+apply (to make a formal request)
+申请，申请表
+
+propose (to suggest an idea or plan)
+建议，提议
+
+# bengkak
+
+swollen (enlarged due to injury or infection)
+肿胀，发胀
+
+inflamed (red, painful, and swollen)
+发炎，红肿
+
+# bercak
+
+spot (a small mark or stain)
+斑点，污点
+
+stain (a discoloration)
+污渍，污点
+
+# disengat
+
+stung (being pierced or bitten by an insect or bee)
+被蜇，被叮咬
+
+# fatal
+
+fatal (causing death)
+致命的，致死的
+
+deadly (able to cause death)
+致命的，致死的
+
+# kedinginan
+
+chilled (feeling cold)
+感到寒冷
+
+having coldness (experiencing cold)
+受寒，着凉
+
+# menghisap
+
+to suck (to draw in by suction)
+吸，吮吸
+
+to inhale (to breathe in)
+吸入
+
+# nantikan
+
+wait for (to await something or someone)
+等待，期待
+
+# relatif
+
+relative (considered in relation or in proportion to something else)
+相对的，比较的
+
+comparative (based on comparison)
+比较的，相对的
+
+# sepi
+
+quiet (lacking noise or activity)
+安静，寂静
+
+lonely (feeling alone)
+孤独，寂寞
+
+deserted (empty of people)
+荒凉，冷清
+
+# teduh
+
+shady (providing shade)
+荫凉，阴凉
+
+calm (peaceful and calm)
+宁静，安静
+
+# manta
+
+manta (a type of large ray fish)
+魔鬼鱼，蝠鲼
+
+# menentukan
+
+to determine (to decide or establish something)
+决定，确定
+
+to define (to specify or set the boundaries)
+界定，限定
