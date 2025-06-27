@@ -1,5 +1,5 @@
 ---
-Complete: true
+Completed: true
 ---
 
 # Pembelajaran komputer di usia sekolah di Tiongkok

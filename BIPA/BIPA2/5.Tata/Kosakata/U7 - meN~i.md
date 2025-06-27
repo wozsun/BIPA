@@ -1,7 +1,6 @@
 ---
-Complete: true
+Completed: true
 ---
-
 # memotongi
 
 to cut (to divide something into pieces or sections)

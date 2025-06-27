@@ -1,5 +1,5 @@
 ---
-Complete: true
+Completed: true
 ---
 
 # terkait

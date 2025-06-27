@@ -1,5 +1,5 @@
 ---
-Complete: true
+Completed: true
 ---
 
 # mengalami/menderita karena faktor alam, faktor emosi/biologis, faktor luar yang tidak diinginkan

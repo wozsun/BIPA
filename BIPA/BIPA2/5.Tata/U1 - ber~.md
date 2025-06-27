@@ -1,5 +1,5 @@
 ---
-Complete: true
+Completed: true
 ---
 
 # melakukan tindakan terhadap diri sendiri
