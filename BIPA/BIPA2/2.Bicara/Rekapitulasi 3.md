@@ -1,6 +1,5 @@
 ---
-AFFiNE: true
-Notion: true
+Complete: true
 ---
 
 # Pembelajaran komputer di usia sekolah di Tiongkok

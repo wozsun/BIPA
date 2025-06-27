@@ -1,6 +1,5 @@
 ---
-AFFiNE: true
-Notion: true
+Complete: true
 ---
 
 # melakukan tindakan berulang-ulang

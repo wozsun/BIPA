@@ -1,6 +1,5 @@
 ---
-AFFiNE: true
-Notion: true
+Complete: true
 ---
 
 # membuat jadi (sebagai verba) terkait perasaan
