@@ -1,6 +1,5 @@
 ---
-AFFiNE: true
-Notion: true
+Completed: true
 ---
 
 # Infografis

@@ -1,6 +1,5 @@
 ---
-AFFiNE: false
-Notion: false
+Completed: false
 ---
 
 # Membuka Diskusi
@@ -10,6 +9,12 @@ Notion: false
 ## Memberi Salam
 
 **Ungkapan:**
+
+- Selamat pagi/siang/sore, para hadirin sekalian.
+- Salam hangat kepada semua peserta diskusi yang telah hadir.
+- Terima kasih atas kehadiran Anda semua di acara ini.
+- Saya ucapkan selamat datang kepada para pembicara dan peserta diskusi.
+- Semoga kita semua dapat menikmati diskusi yang bermanfaat ini.
 
 **Contoh:**
 
@@ -26,6 +31,12 @@ Oh, ya, saya juga mau sampaikan salam dan terima kasih juga kepada semua pihak y
 ## Memperkenalkan Diri dan Narasumber
 
 **Ungkapan:**
+
+- Perkenalkan, saya ... , moderator diskusi kita hari ini.
+- Saya akan memandu diskusi ini selama ... .
+- Di sebelah kiri saya, telah hadir ... .
+- Saya juga ingin memperkenalkan ... , yang memiliki pengalaman luas di bidang ... .
+- Terima kasih kepada para narasumber yang telah bersedia hadir dan berbagi wawasan.
 
 **Contoh:**
 

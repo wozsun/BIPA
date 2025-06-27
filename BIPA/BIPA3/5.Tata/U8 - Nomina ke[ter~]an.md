@@ -1,5 +1,3 @@
 ---
-AFFiNE: false
-Notion: false
+Completed:
 ---
-

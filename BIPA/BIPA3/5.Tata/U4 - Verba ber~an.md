@@ -1,6 +1,5 @@
 ---
-AFFiNE: false
-Notion: false
+Completed: false
 ---
 
 # dua pihak melakukan tindakan saling ~
