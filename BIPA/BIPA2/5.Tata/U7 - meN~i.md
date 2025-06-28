@@ -4,17 +4,17 @@ Completed: true
 
 # melakukan tindakan berulang-ulang
 
-* **Kosakata:**
+- **Kosakata:**
 
 memotongi, mencabuti, menyirami, mengguntingi, mengambili, memetiki, memukuli, mencubit, menembaki, menebangi, menciumi, memanggili
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~i + sesuatu
 
 sesuatu + di\~i + (oleh) orang
 
-* **Contoh:**
+- **Contoh:**
 
 Petugas taman itu sedang menyirami bunga-bunga.
 Bunga-bunga sedang disirami (oleh) petugas taman.
@@ -24,17 +24,17 @@ Tanaman perdu sedang saya potongi.
 
 # bersikap/bertindak \~ kepada
 
-* **Kosakata:**
+- **Kosakata:**
 
 menghormati, menyayangi, mematuhi, mencintai, menyukai, menaati, menggemari
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~i + sesuatu/seseorang
 
 sesuatu/seseorang + di\~i + (oleh) orang
 
-* **Contoh:**
+- **Contoh:**
 
 Kita harus menghormati bendera Indonesia.
 Bendera Indonesia harus kita hormati.
@@ -44,17 +44,17 @@ Peraturan dari pihak Istana harus dipatuhi (oleh) para tamu.
 
 # melakukan tindakan dengan fokus arah
 
-* **Kosakata:**
+- **Kosakata:**
 
 meminjami, menawari, menyuguhi, mengirimi, mengaliri, menanami, mengolesi, melempari, menghadiahi
 
-* **Pola：**
+- **Pola：**
 
 orang + meN\~i + objek + (dengan) sesuatu
 
 objek + di\~i + orang + (dengan) sesuatu
 
-* **Contoh:**
+- **Contoh:**
 
 Koki itu sedang menawari tamu menu sarapan.
 Tamu restoran sedang ditawari koki itu menu sarapan.
@@ -64,48 +64,48 @@ Roti sedang diolesi tamu itu dengan mayones.
 
 # membuang/mengambil sesuatu dari objek
 
-* **Kosakata:**
+- **Kosakata:**
 
 menguliti, menyisiki, membului
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~i + sesuatu
 
 sesuatu + di\~i + orang
 
-* **Contoh:**
+- **Contoh:**
 
 Dia menguliti kambing itu.
 Kambing itu dikulit dia.
 
 # memberikan sesuatu pada objek
 
-* **Kosakata:**
+- **Kosakata:**
 
 menandatangani, mewarnai, melukai, mengobati, membumbui, menggulai, menggarami, menyurati, menyusui, meracuni
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~i + objek
 
 objek + di\~i + orang
 
-* **Contoh:**
+- **Contoh:**
 
 Dia menggulai masakan.
 Masakan itu digulai (oleh) dia.
 
 # sumber langsung terhadap objek
 
-* **Kosakata:**
+- **Kosakata:**
 
 memanasi, menerangi, mengotori, mencemari, menyinari, membasahi, mengurangi
 
-* **Pola:**
+- **Pola:**
 
 objek + meN\~i + sesuatu
 
-* **Contoh:**
+- **Contoh:**
 
 Lampu warna-warni menerangi gambar-gambar mural di terowongan.

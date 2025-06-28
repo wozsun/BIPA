@@ -4,31 +4,31 @@ Completed: true
 
 # objek dalam keadaan
 
-* **Kosakata:**
+**Kosakata:**
 
 terbuka, tertutup, tertempel, tertulis, terkunci, terpasang, tergantung, terikat, terdaftar, tercacat, tercantum
 
-* **Pola:**
+- **Pola:**
 
 objek + ter\~
 
-* **Contoh:**
+- **Contoh:**
 
 Pintu itu terbuka.
 
 # subjek mengalami sesuatu yang karena/tidak diinginkan
 
-* **Kosakata:**
+- **Kosakata:**
 
 terbangun, terpeleset, terjatuh, terdiam, terduduk, tersandung, terpelanting, tergelincir, tertidur, terperosok, terseret, tertimbun, terkubur, tersapu, tertiup, tertimpa, tertabrak, terbakar, terserang, tersedak
 
-* **Pola:**
+- **Pola:**
 
 objek/pengalam + ter\~ + karena keterangan faktor luar
 
 objek/pengalam + ter\~ + penyebab langsung
 
-* **Contoh:**
+- **Contoh:**
 
 Bayu terpeleset karena lantai licin.
 
@@ -38,17 +38,17 @@ Kakek itu tersedak mochi.
 
 # subjek mengalami tindakan tidak sengaja
 
-* **Kosakata:**
+- **Kosakata:**
 
 termakan, tertinggal, terbawa, terinjak, terminum, tertelan
 
-* **Pola:**
+- **Pola:**
 
 objek + ter\~ + oleh orang yang mengalami
 
 objek + ter\~
 
-* **Contoh:**
+- **Contoh:**
 
 Cabe rawit termakan oleh dia.
 
@@ -56,15 +56,15 @@ Kunci rumahku tertinggal di kampus.
 
 # subjek mengalami sesuatu yang (tidak) dapat di\~/mampu di\~
 
-* **Kosakata:**
+- **Kosakata:**
 
 terbaca, terbeli, terangkat, terdengar, terlihat, tercium
 
-* **Pola:**
+- **Pola:**
 
 objek + ter\~ + oleh pelaku orang
 
-* **Contoh:**
+- **Contoh:**
 
 Puncak gunung terlihat oleh dia.
 

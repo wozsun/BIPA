@@ -4,7 +4,7 @@ Completed: true
 
 # hal tentang
 
-* **Kosakata:**
+- **Kosakata:**
 
 kepandaian, kesabaran, ketekunan, kebaikan, kemiskinan, kekayaan, kesejahteraan, kedamaian, kebersihan, kemampuan, keamanan, keindahan, kejahatan, kenyamanan, keburukan, kerapian, keuntungan, kerugian, keterampilan
 
@@ -16,18 +16,18 @@ kelebihan, kekurangan, keharusan, kewajiban, keinginan, kesukaan, kemampuan, kep
 
 # tempat dari nomina
 
-* **Kosakata:**
+- **Kosakata:**
 
 kelurahan, kecamatan, kedutaan, kepresidenan, kerajaan, kesultanan
 
 # ilmu yang dibentuk dari nomina
 
-* **Kosakata:**
+- **Kosakata:**
 
 kepolisian, keguruan, kedokteran, keperawatan, kebidanan, kehewanan
 
 # bidang/wilayah kerja dari nomina
 
-* **Kosakata:**
+- **Kosakata:**
 
 kemahasiswaan, keuangan, keagamaan, kelautan, kehutanan, kementerian

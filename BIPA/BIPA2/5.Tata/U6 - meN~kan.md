@@ -4,65 +4,65 @@ Completed: true
 
 # membuat jadi (sebagai verba) terkait perasaan
 
-* **Kosakata:**
+- **Kosakata:**
 
 membahagiakan, mengecewakan, mengejutkan
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~kan + seseorang(sasaran)
 
-* **Contoh:**
+- **Contoh:**
 
 Saya ingin membahagiakan ayah saya.
 
 # kondisi (sebagai adjektiva) terkait perasaan
 
-* **Kosakata:**
+- **Kosakata:**
 
 membahagiakan, mengecewakan, mengejutkan, mengkhawatirkan, memuaskan, menyenangkan, membosankan, menakutkan, menyedihkan, mengagetkan
 
-* **Pola:**
+- **Pola:**
 
 sesuatu(bukan orang) + (adverbia kuantitas) + meN\~kan
 
-* **Contoh:**
+- **Contoh:**
 
 Rating film itu memuaskan.
 Film yang memuaskan itu \~ .
 
 # melakukan tindakan dengan fokus arah
 
-* **Kosakata:**
+- **Kosakata:**
 
 menawarkan, meminjamkan, menghadiahkan, mengirimkan, melemparkan, memukulkan, menembakkan, menusukkan, mengoleskan, mengalirkan, menyewakan, mengalungkan, menyuguhkan, melimpahkan
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~kan + objek + sasaran(ke/kepada)
 
 objek + di\~kan + orang + sasaran(ke/kepada)
 
-* **Contoh:**
+- **Contoh:**
 
 Ibu memberikan mainan kepada adiknya.
 Mainan diberikan oleh Ibu kepada adiknya.
 
 # melakukan tindakan untuk orang lain
 
-* **Kosakata:**
+- **Kosakata:**
 
 mencucikan, menjualkan, mencarikan, menjahitkan, membuatkan, membukakan, membawakan, membelikan, mengambilkan, membacakan
 
 ## Status objek milik
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~kan + sesuatu
 
 sesuatu + di\~kan + (oleh) orang
 
-* **Contoh:**
+- **Contoh:**
 
 Dia membawakan dokumen saya.
 Dokumen saya dibawakan (oleh) dia.
@@ -75,7 +75,7 @@ Pintu mobil tamu dibukakan (oleh) petugas hotel.
 
 ## Status objek bukan/tidak akan pernah milik
 
-* **Pola:**
+- **Pola:**
 
 orang + meN\~kan + seseorang + sesuatu
 
@@ -83,7 +83,7 @@ seseorang + di\~kan + orang + sesuatu
 
 (orang + meN\~kan + sesuatu + untuk seseorang)
 
-* **Contoh:**
+- **Contoh:**
 
 Dia membelikan saya makanan.
 Saya dibelikan (oleh) dia makanan.

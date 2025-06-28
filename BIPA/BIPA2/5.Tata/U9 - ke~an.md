@@ -4,11 +4,11 @@ Completed: true
 
 # mengalami/menderita karena faktor alam, faktor emosi/biologis, faktor luar yang tidak diinginkan
 
-* **Kosakata:**
+- **Kosakata:**
 
 kekeringan, kepanasan, kedinginan, ketakutan, kelaparan, kehausan, kebanjiran, kesemutan, kehujanan, kecanduan, kehilangan, kehabisan, kedatangan, kemasukan, kejatuhan, kekurangan, kelebihan
 
-* **Pola:**
+- **Pola:**
 
 ke\~an nomina
 
@@ -18,7 +18,7 @@ ke\~an adverbia
 
 ke\~an verba
 
-* **Contoh:**
+- **Contoh:**
 
 Perumahan warga kebanjiran.
 
@@ -30,29 +30,29 @@ Dia kehilangan anggota keluarga.
 
 # mengalami/menderita situasi/peristiwa yang tidak diinginkan
 
-* **Kosakata:**
+- **Kosakata:**
 
 kecurian, kerampokan, kecopetan, keracunan
 
-* **Pola:**
+- **Pola:**
 
 ke\~an verba di
 
-* **Contoh:**
+- **Contoh:**
 
 Dia kecopetan tas.
 
 # terlalu
 
-* **Kosakata:**
+- **Kosakata:**
 
 kepagian, kesiangan, kesorean, kemalaman, kemahalan, kejauhan, kemanisan, keasinan, kekecilan, kemerahan, kepanjangan, kependekan, kebesaran
 
-* **Pola:**
+- **Pola:**
 
 ke\~an adjektiva
 
-* **Contoh:**
+- **Contoh:**
 
 Bajunya kebesaran.
 
@@ -60,15 +60,15 @@ Dia datang kepagian.
 
 # mampu/tidak sengaja
 
-* **Kosakata:**
+- **Kosakata:**
 
 kelihatan, kedengaran, ketinggalan
 
-* **Pola:**
+- **Pola:**
 
 ke\~an ter
 
-* **Contoh:**
+- **Contoh:**
 
 Tulisan di papan tulis tidak kelihatan.
 

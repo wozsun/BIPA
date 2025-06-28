@@ -6,40 +6,40 @@ Completed: true
 
 # sesuatu yang di\~
 
-* **Kosakata:**
+- **Kosakata:**
 
 pengalaman, pengumuman, pemandangan, pengetahuan
 
-* **Contoh:**
+- **Contoh:**
 
 Saya mendapatkan pengalaman yang luar biasa saat berkunjung ke India.
 
 # indera untuk meN\~(kan/i)
 
-* **Kosakata:**
+- **Kosakata:**
 
 penglihatan, pendengaran, penciuman
 
-* **Contoh:**
+- **Contoh:**
 
 Penglihatan nenekku memburuk.
 
 # proses meN\~(kan/i)
 
-* **Kosakata:**
+- **Kosakata:**
 
 pemesanan, peningkatan, penurunan, pemasaran, pembuatan, pengolahan, penjualan, pengembangan, pengiriman, penulisan, pembangunan, penambahan, pengurangan, penyempitan, pendaratan, pencairan, penguapan, pencurian, pembelian, penemuan, pengubahan
 
-* **Contoh:**
+- **Contoh:**
 
 Dia harus melakukan pembayaran sebelum hari Sabtu.
 
 # tempat untuk meN\~(kan/i)
 
-* **Kosakata:**
+- **Kosakata:**
 
 pengadilan, pengungsian, penginapan, pemancingan, pemandian, pembayaran, penukaran, penitipan, pembuangan, pemungutan
 
-* **Contoh:**
+- **Contoh:**
 
 Pengacara itu akan pergi ke pengadilan di Jakarta Selatan sore ini.

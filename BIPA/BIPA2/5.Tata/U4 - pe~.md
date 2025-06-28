@@ -8,14 +8,14 @@ Completed: true
 
 ## orang yang meN\~(kan/i)
 
-* **Kosakata:**
+- **Kosakata:**
   penonton, pengirim, pembeli, pengunjung, pemilik, penjual
 
 Orang yang menonton -> penonton
 
 ## orang yang berprofesi meN\~(kan/i)
 
-* **Kosakata:**
+- **Kosakata:**
   penari, pelukis, pemandu, pelayan, penjaga, pengajar, penjahit
 
 orang yang menari -> penari
@@ -24,14 +24,14 @@ orang yang menari -> penari
 
 ## orang yang bersifat \~
 
-* **Kosakata:**
+- **Kosakata:**
   penakut, pemarah, pemberani, pemalu, pendiam, pembohong, pemalas
 
 Anak perempuan itu pemalu -> Anak (yang) pemalu itu
 
 ## alat untuk meN\~(kan/i)
 
-* **Kosakata:**
+- **Kosakata:**
   pendingin ruangan, pembuka botol, pengering rambut, pemanas air, pengharum ruangan
 
 Alat untuk mendinginkan ruangan -> Pendingin ruangan
@@ -46,14 +46,14 @@ Alat untuk mengharumkan ruangan -> Pengharum ruangan
 
 ## orang yang ber\~
 
-* **Kosakata:**
+- **Kosakata:**
   pejalan kaki, pekerja, pelajar
 
 orang yang berjalan kaki -> pejalan kaki
 
 ## orang yang berprofesi ber\~
 
-* **Kosakata:**
+- **Kosakata:**
   petani, petugas, pedagang, peternak
 
 orang yang bertani -> petani
@@ -62,7 +62,7 @@ orang yang bertani -> petani
 
 ## khusus bidang olahraga
 
-* **Kosakata:**
+- **Kosakata:**
   petenis, pesepak bola, pebasket, pegolf
 
 bermain golf -> pemain golf -> pegolf
