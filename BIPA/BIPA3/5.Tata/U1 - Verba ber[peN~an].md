@@ -4,15 +4,15 @@ Completed: true
 
 **Makna:** memiliki; mempunyai; ada \[peN\~an]
 
-**Struktur:**
+- **Struktur:**
 
 subjek + ber\[peN\~an] + pelengkap + keterangan
 
-**Contoh:**
+- **Contoh:**
 
 Pelamar kerja itu berpengalaman luas dalam bidang pemasaran.
 
-**Kolokasi:**
+- **Kolokasi:**
 
 | berpendirian   | kuat / tetap / tidak tetap / teguh               |
 | -------------- | ------------------------------------------------ |

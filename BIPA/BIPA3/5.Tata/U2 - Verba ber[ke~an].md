@@ -4,15 +4,15 @@ Completed: true
 
 **Makna:** memiliki; mempunyai; ada \[ke\~an]
 
-**Struktur:**
+- **Struktur:**
 
 subjek + ber\[ke\~an] + pelengkap + keterangan
 
-**Contoh:**
+- **Contoh:**
 
 Batman berkemampuan tinggi dalam bidang teknologi.
 
-**Kolokasi:**
+- **Kolokasi:**
 
 | berkepribadian     | menarik / ganda                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------ |
