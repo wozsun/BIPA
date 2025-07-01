@@ -300,3 +300,8 @@ production (the creation or manufacturing of something)
 
 publication (the act of making content available to the public)
 出版, 发行
+
+# ikonik
+
+iconic (widely recognized and well-established symbol)  
+标志性的，象征性的

@@ -1,5 +1,5 @@
 ---
-Completed: false
+Completed: true
 ---
 
 # berpelukan
