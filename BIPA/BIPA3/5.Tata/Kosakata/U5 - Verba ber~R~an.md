@@ -1,5 +1,5 @@
 ---
-Completed: false
+Completed: true
 ---
 
 # berpeluk-pelukan
@@ -49,6 +49,14 @@ couple (to be in pairs or couples)
 
 pair up (to form pairs)
 配对，结伴
+
+# bertabrak-tabrakan
+
+colliding (happening when two or more things crash into each other)
+相撞，碰撞
+
+crashing into each other (repeated or multiple collisions)
+互相撞击
 
 # terbadu
 
@@ -134,3 +142,94 @@ tide (the rise and fall of sea levels)
 
 pair (a set of two matching things)
 一对，成对
+
+# kupu-kupu
+
+butterfly (a flying insect with large, often brightly colored wings)
+蝴蝶
+
+# anjing
+
+dog (a domesticated carnivorous mammal)
+狗
+
+bitch (a female dog, sometimes used as a derogatory term)
+母狗，贬义词（骂人）
+
+# peliharaan
+
+pet (an animal kept for companionship)
+宠物
+
+maintenance (the act of taking care or keeping something)
+饲养，照料
+
+# mesra
+
+intimate (showing close familiarity or affection)
+亲密的
+
+affectionate (demonstrating fondness or tenderness)
+温柔的，深情的
+
+# lapangan
+
+square (an open public area in a town)
+广场
+
+field (an open area of land)
+田地，场地
+
+arena (a place for sports or events)
+竞技场
+
+# hancur
+
+destroyed (broken into pieces, ruined)
+破坏的，毁坏的
+
+shattered (completely broken)
+粉碎的
+
+ruined (severely damaged or spoiled)
+毁坏的，毁灭的
+
+# tembakan
+
+shot (the act of firing a gun)
+射击，开枪
+
+gunfire (the sound or act of shooting)
+枪声，枪击
+
+# tebak
+
+guess (to estimate or suppose without sufficient information)
+猜测
+
+predict (to say what will happen in the future)
+预测
+
+# rindu
+
+longing (a strong desire or yearning)
+思念，渴望
+
+miss (to feel the absence of someone or something)
+想念
+
+# lalat
+
+fly (a small flying insect)
+苍蝇
+
+# hebat
+
+great (remarkably good or impressive)
+了不起的，极好的
+
+awesome (extremely impressive)
+棒极了的，令人敬畏的
+
+powerful (having great strength or influence)
+强大的
