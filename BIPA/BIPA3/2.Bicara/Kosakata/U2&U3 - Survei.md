@@ -79,5 +79,3 @@ guarantee (a promise or assurance)
 
 pledge (a solemn promise)
 誓言
-
-# 

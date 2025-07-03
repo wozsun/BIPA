@@ -388,4 +388,42 @@ audience (the group of people watching or listening to an event)
 attendees (people who attend a meeting or event)  
 与会者  
 
-# 
+# buas
+
+wild (living in a natural state; not domesticated)
+野生的，野性的
+
+ferocious (savagely fierce, cruel, or violent)
+凶猛的，残暴的
+
+# buaya
+
+crocodile (a large aquatic reptile with a long snout and strong jaws)
+鳄鱼
+
+deceiver (someone who cheats or tricks others)
+骗子，欺骗者
+
+# menyelamatkan
+
+save (to rescue from danger or harm)
+拯救，救助
+
+protect (to keep safe from harm or injury)
+保护
+
+# gangguan
+
+disturbance (an interruption of a settled and peaceful condition)
+干扰，骚乱
+
+disorder (a state of confusion or disruption)
+混乱，紊乱
+
+# manusia
+
+human (a member of the species Homo sapiens)
+人类，人体
+
+person (an individual human being)
+人，个人
