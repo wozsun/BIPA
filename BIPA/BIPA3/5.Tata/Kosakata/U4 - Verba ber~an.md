@@ -28,6 +28,11 @@ rely (to depend on or rely upon)
 shake hands (to clasp someone's hand as a form of greeting or agreement)
 握手
 
+# bermaafan
+
+forgive each other (to mutually ask for and give forgiveness)
+互相原谅，互相道歉
+
 # bertabrakan
 
 collide (to crash into each other)
@@ -462,3 +467,41 @@ argue (to have a disagreement or quarrel)
 
 fight (to engage in a verbal or physical conflict)
 打架，争斗
+
+# pendamping
+
+companion (a person who accompanies or supports another)
+伴侣，陪伴者
+
+assistant (a person who helps or assists)
+助手，助理
+
+partner (a person who shares in an activity or relationship)
+伙伴，搭档
+
+# pacar
+
+boyfriend/girlfriend (a romantic partner)
+男朋友 / 女朋友
+
+crush (informal: someone one is infatuated with)  
+暗恋对象
+
+henna (a plant used for dye, especially for coloring hands)
+指甲花（用于染色的植物，常用于染手）
+
+# aneka
+
+various (of different kinds; diverse)
+各种，各类
+
+assorted (consisting of different types)
+多样的，混合的
+
+# bunga
+
+flower (the reproductive structure of a plant)
+花
+
+interest (money earned or paid for the use of money)
+利息

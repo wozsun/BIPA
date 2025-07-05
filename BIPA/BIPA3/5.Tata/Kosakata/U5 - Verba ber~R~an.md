@@ -233,3 +233,19 @@ awesome (extremely impressive)
 
 powerful (having great strength or influence)
 强大的
+
+# selamat
+
+safe (free from harm or danger)
+安全，平安
+
+congratulations (expression of good wishes)
+祝贺，恭喜
+
+blessed (having received blessings)
+有福的，受祝福的
+
+# trampolin
+
+trampoline (a strong fabric sheet used for jumping and acrobatics)
+蹦床
