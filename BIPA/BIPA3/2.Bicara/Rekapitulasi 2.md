@@ -13,27 +13,31 @@ Walaupun saya berdinas di wilayah DKI Jakarta, perlu diingat bahwa habitat utama
 
 ## Situasi Populasi Harimau di Indonesia
 
-Saat ini, populasi Harimau Sumatera diperkirakan tinggal sekitar 400–600 ekor di alam liar. Contohnya, di Taman Nasional Kerinci Seblat (4 provinsi di Sumatera) populasi diperkirakan 115–130 ekor. Menurut IUCN, harimau Sumatera sudah berstatus critically endangered (sangat terancam) sejak 1996.
+Saat ini, populasi Harimau Sumatera diperkirakan tinggal sekitar 400–600 ekor di alam liar.[1](#Referensi) Contohnya, di Taman Nasional Kerinci Seblat (4 provinsi di Sumatera) populasi diperkirakan 115–130 ekor[2](#Referensi). Menurut IUCN, harimau Sumatera sudah berstatus critically endangered (sangat terancam) sejak 1996.[1](#Referensi)
 
 > 印尼老虎种群状况
 > 目前，在野外环境下，苏门答腊虎的数量估计只有大约 400–600 只。比如，在苏门答腊的Kerinci Seblat国家公园（跨越4个省），虎的数量估计只有 115–130 只。根据国际自然保护联盟（IUCN）的评估，自1996年以来，苏门答腊虎已经被列为“极危”物种（极度濒危）。
 
 Ancaman utama populasi harimau meliputi:
 
-1. Alih fungsi lahan hutan: Misalnya, di TN Kerinci Seblat terdapat ±101.000 hektar lahan terbuka yang kini menjadi perkebunan kopi dan kayu manis.
-2. Perburuan liar dan jerat: Petugas lapangan menemukan banyak jerat (sling dan nilon) yang dipasang untuk menangkap mamalia termasuk harimau.
-3. Fragmentasi habitat: Seiring rusaknya hutan, harimau kian terdesak keluar kawasan konservasi. Sekitar 50% harimau Sumatera bahkan hidup di luar kawasan lindung (hutan produksi atau lindung).
+1. Alih fungsi lahan hutan: Misalnya, di TN Kerinci Seblat terdapat ±101.000 hektar lahan terbuka yang kini menjadi perkebunan kopi dan kayu manis.[2](#Referensi)
+2. Perburuan liar dan jerat: Petugas lapangan menemukan banyak jerat (sling dan nilon) yang dipasang untuk menangkap mamalia termasuk harimau.[2](#Referensi)
+3. Fragmentasi habitat: Seiring rusaknya hutan, harimau kian terdesak keluar kawasan konservasi. Sekitar 50% harimau Sumatera bahkan hidup di luar kawasan lindung (hutan produksi atau lindung).[3](#Referensi)
+
+Saya bisa mengatakan sebuah berita terbaru: pada tanggal 2 Juli 2025, telah ditemukan jejak kaki diduga Harimau Sumatera di Desa Batang Bahal, Kecamatan Batunadua, Kota Padangsidimpuan.[5](#Referensi)
 
 > 老虎种群的主要威胁包括：
 >
-> 1. 森林土地用途转换：例如，在Kerinci Seblat国家公园，有约101,000公顷的土地被开垦为咖啡和肉桂种植园。  
-> 2. 非法狩猎和陷阱：现场工作人员发现了许多陷阱（弹弓和尼龙制），用于捕捉包括老虎在内的哺乳动物。  
+> 1. 森林土地用途转换：例如，在Kerinci Seblat国家公园，有约101,000公顷的土地被开垦为咖啡和肉桂种植园。
+> 2. 非法狩猎和陷阱：现场工作人员发现了许多陷阱（弹弓和尼龙制），用于捕捉包括老虎在内的哺乳动物。
 > 3. 栖息地破碎化：随着森林的破坏，老虎越来越被迫离开保护区。约有50%的苏门答腊虎生活在非保护区（生产林或保护林）之外。
+>
+> 我可以说一条最新消息：2025年7月2日，在Padangsidimpuan市Batunadua区Batang Bahal村发现了疑似苏门答腊虎的足迹。
 
 ## Undang-Undang Perlindungan Harimau
 
-Sebagai satwa dilindungi, harimau diatur dalam UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya. UU ini melarang siapa pun menangkap, membunuh, menyimpan, atau memperniagakan satwa yang dilindungi. Pelanggaran atas ketentuan ini diatur dalam Pasal 40: misalnya, pelaku yang sengaja menangkap atau memperdagangkan harimau dapat dipidana penjara maksimal 5 tahun dan denda hingga Rp100 juta.
-Bahkan pelanggaran karena kelalaian dipidana maksimal 1 tahun atau denda Rp50 juta. Baru-baru ini UU 5/1990 direvisi (UU No. 32 Tahun 2024) yang memperkuat sanksi: misalnya pelanggaran Pasal 20 ayat 2 huruf a (memburu atau menangkap satwa dilindungi) kini diancam 3–15 tahun penjara.
+Sebagai satwa dilindungi, harimau diatur dalam UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya. UU ini melarang siapa pun menangkap, membunuh, menyimpan, atau memperniagakan satwa yang dilindungi.[4](#Referensi) Pelanggaran atas ketentuan ini diatur dalam Pasal 40: misalnya, pelaku yang sengaja menangkap atau memperdagangkan harimau dapat dipidana penjara maksimal 5 tahun dan denda hingga Rp100 juta.[4](#Referensi)
+Bahkan pelanggaran karena kelalaian dipidana maksimal 1 tahun atau denda Rp50 juta.[4](#Referensi) Baru-baru ini UU 5/1990 direvisi (UU No. 32 Tahun 2024) yang memperkuat sanksi: misalnya pelanggaran Pasal 20 ayat 2 huruf a (memburu atau menangkap satwa dilindungi) kini diancam 3–15 tahun penjara.[5](#Referensi)
 
 > 老虎保护法律
 > 作为受保护动物，老虎受《1990年第5号关于生物资源及其生态系统保护的法律》（UU No. 5 Tahun 1990）管辖。该法律禁止任何人捕捉、杀害、持有或交易受保护动物。对违反规定者的处罚见于第40条：例如，故意捕捉或交易老虎者可被判处最高5年监禁和最高1亿印尼盾罚款。
@@ -43,9 +47,9 @@ Bahkan pelanggaran karena kelalaian dipidana maksimal 1 tahun atau denda Rp50 ju
 
 Penegakan hukum terhadap kejahatan harimau telah dilakukan aparat penegak hukum. Sebagai contoh:
 
-- Aceh, Jan 2024: Polda Aceh menggagalkan perdagangan kulit dan tulang harimau. Dua tersangka (satu ASN dan satu petani) ditangkap saat hendak menjual kulit harimau. Mereka dijerat UU 5/1990 Pasal 40 ayat 2 (pelanggaran berat) dengan ancaman hukuman 5 tahun penjara dan denda Rp100 juta.
-- Jambi, Mei 2024: Gakkum KLHK bekerja sama dengan BKSDA Jambi menangkap dua pelaku di Merangin yang membawa kulit dan tulang harimau serta sisik trenggiling. Bila terbukti melanggar UU 5/1990 Pasal 21 ayat 2 huruf d, mereka diancam 5 tahun penjara dan denda Rp100 juta.
-- Sumatera Barat, Juli 2024: Seekor harimau mati terjerat di Agam. BKSDA Sumbar mengimbau masyarakat agar tidak memasang jerat apa pun karena pelaku jerat bisa terkena sanksi pidana sesuai UU 5/1990 Pasal 40.
+- Aceh, Jan 2024: Polda Aceh menggagalkan perdagangan kulit dan tulang harimau. Dua tersangka (satu ASN dan satu petani) ditangkap saat hendak menjual kulit harimau. Mereka dijerat UU 5/1990 Pasal 40 ayat 2 (pelanggaran berat) dengan ancaman hukuman 5 tahun penjara dan denda Rp100 juta.[6](#Referensi)
+- Jambi, Mei 2024: Gakkum KLHK bekerja sama dengan BKSDA Jambi menangkap dua pelaku di Merangin yang membawa kulit dan tulang harimau serta sisik trenggiling. Bila terbukti melanggar UU 5/1990 Pasal 21 ayat 2 huruf d, mereka diancam 5 tahun penjara dan denda Rp100 juta.[7](#Referensi)
+- Sumatera Barat, Juli 2024: Seekor harimau mati terjerat di Agam. BKSDA Sumbar mengimbau masyarakat agar tidak memasang jerat apa pun karena pelaku jerat bisa terkena sanksi pidana sesuai UU 5/1990 Pasal 40.[8](#Referensi)
 
 > 执法与案例示例
 > 执法机关已对老虎相关犯罪实施执法。例如：
@@ -56,8 +60,8 @@ Penegakan hukum terhadap kejahatan harimau telah dilakukan aparat penegak hukum.
 
 ## Visi dan Harapan BKSDA
 
-Visi BKSDA adalah menggalakkan konservasi bersama seluruh elemen masyarakat. Seperti yang ditegaskan Kepala BKSDA Sumbar, “pelestarian satwa tidak hanya tugas BKSDA, tetapi tugas semua pihak; semua lapisan harus terlibat.”
-Oleh karena itu, BKSDA aktif memberdayakan masyarakat, misalnya melalui program Patroli Anak Nagari (sukarelawan pemantau habitat) sejak 2021. Kami berharap lebih banyak keberhasilan konservasi: misalnya, kelahiran dua anak harimau di Taman Marga Satwa Budaya Kinantan Bukittinggi pada Juni 2025 yang disebut “harapan baru bagi konservasi harimau Sumatera”.
+Visi BKSDA adalah menggalakkan konservasi bersama seluruh elemen masyarakat. Seperti yang ditegaskan Kepala BKSDA Sumbar, “pelestarian satwa tidak hanya tugas BKSDA, tetapi tugas semua pihak; semua lapisan harus terlibat.”[2](#Referensi)
+Oleh karena itu, BKSDA aktif memberdayakan masyarakat, misalnya melalui program Patroli Anak Nagari (sukarelawan pemantau habitat) sejak 2021.[2](#Referensi) Kami berharap lebih banyak keberhasilan konservasi: misalnya, kelahiran dua anak harimau di Taman Marga Satwa Budaya Kinantan Bukittinggi pada Juni 2025 yang disebut “harapan baru bagi konservasi harimau Sumatera”.[9](#Referensi)
 Ke depan BKSDA akan terus mengamankan habitat (memerangi penebangan liar), memperkuat pengawasan perburuan, dan mendukung program pemulihan populasi harimau. Kami mengajak semua pihak bersinergi: pemerintah pusat, pemerintah daerah, penegak hukum, LSM, dan masyarakat umum untuk bersama-sama melindungi harimau sumatera.
 
 > BKSDA的愿景与期望
@@ -72,31 +76,31 @@ Terima kasih atas perhatian Bapak/Ibu sekalian. Semoga kita semua semakin menyad
 ## Sesi Tanya Jawab
 
 1. Pertanyaan: Bagaimana kondisi terbaru populasi harimau Sumatera di Indonesia?
-Jawaban: Menurut data KLHK terbaru, populasi harimau Sumatera di alam liar hanya tersisa sekitar 400–600 ekor. Misalnya, di Taman Nasional Kerinci Seblat diperkirakan hanya ada 115–130 ekor harimau saja.
+Jawaban: Menurut data KLHK terbaru, populasi harimau Sumatera di alam liar hanya tersisa sekitar 400–600 ekor.[1](#Referensi) Misalnya, di Taman Nasional Kerinci Seblat diperkirakan hanya ada 115–130 ekor harimau saja.[2](#Referensi) Secara keseluruhan, tren masih menurun karena kehilangan habitat dan perburuan.
 
 > 问题：印尼苏门答腊虎的最新种群状况如何？
-> 回答：根据环境与林业部（KLHK）的最新数据，野生苏门答腊虎的数量仅剩约400至600只。例如，在Kerinci Seblat国家公园估计仅有115至130只老虎。
+> 回答：根据环境与林业部（KLHK）的最新数据，野生苏门答腊虎的数量仅剩约400至600只。例如，在Kerinci Seblat国家公园估计仅有115至130只老虎。总体而言，趋势仍在下降，因为栖息地丧失和偷猎。
 
 2. Pertanyaan: Apa saja faktor utama yang mengancam kelangsungan hidup harimau?
-Jawaban: Tiga ancaman utama adalah alih fungsi lahan, perburuan/jerat, dan konflik manusia. Sebagai contoh di TN Kerinci Seblat, 101.000 ha hutan telah berubah jadi perkebunan, dan banyak jerat sling ditemukan di lapangan. Fragmentasi hutan juga memaksa harimau keluar ke pemukiman.
+Jawaban: Tiga ancaman utama adalah alih fungsi lahan, perburuan/jerat, dan konflik manusia. Sebagai contoh di TN Kerinci Seblat, 101.000 ha hutan telah berubah jadi perkebunan, dan banyak jerat sling ditemukan di lapangan.[2](#Referensi) Fragmentasi hutan juga memaksa harimau keluar ke pemukiman.
 
 > 问题：威胁老虎生存的主要因素有哪些？
 > 回答：三大主要威胁是土地用途转换、猎捕/陷阱和人与动物冲突。例如，在Kerinci Seblat国家公园，已有101,000公顷森林被改为种植园，现场发现了许多弹弓陷阱。森林破碎化也迫使老虎进入居民区。
 
 3. Pertanyaan: Undang-undang apa yang melindungi harimau di Indonesia?
-Jawaban: Harimau dilindungi oleh UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya. UU ini melarang menangkap, membunuh, atau memperdagangkan satwa dilindungi. Pada 2024 Undang-Undang ini diperkuat (UU 32/2024) dengan sanksi lebih berat bagi pelanggar.
+Jawaban: Harimau dilindungi oleh UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya. UU ini melarang menangkap, membunuh, atau memperdagangkan satwa dilindungi.[4](#Referensi) Pada 2024 Undang-Undang ini diperkuat (UU 32/2024) dengan sanksi lebih berat bagi pelanggar.
 
 > 问题：印尼有哪些法律保护老虎？
 > 回答：老虎受《1990年第5号关于生物自然资源及其生态系统保护法》的保护。该法律禁止捕捉、杀害或交易受保护动物。2024年，该法律得到加强（第32号法律/2024），对违法者施加更严厉的处罚。
 
 4. Pertanyaan: Bagaimana sanksi bagi pelaku kejahatan terhadap harimau?
-Jawaban: Pasal 40 UU 5/1990 mengatur sanksi pidana: pelanggaran berat (sengaja) bisa dihukum penjara hingga 5 tahun dan denda sampai Rp100 juta. Sanksi bisa lebih berat bila ada pemburuan berantai. Setelah perubahan UU 2024, pelanggaran tertentu bisa dipidana 3–15 tahun.
+Jawaban: Pasal 40 UU 5/1990 mengatur sanksi pidana: pelanggaran berat (sengaja) bisa dihukum penjara hingga 5 tahun dan denda sampai Rp100 juta.[4](#Referensi) Sanksi bisa lebih berat bila ada pemburuan berantai. Setelah perubahan UU 2024, pelanggaran tertentu bisa dipidana 3–15 tahun.[5](#Referensi)
 
 > 问题：对老虎犯罪行为的处罚有哪些？
 > 回答：《1990年第5号法律》第40条规定刑事处罚：重大（故意）违法行为可判处最高5年监禁及最高1亿印尼盾罚款。如存在连续猎捕，处罚可能更重。2024年法律修订后，某些违法行为可判处3至15年有期徒刑。
 
 5. Pertanyaan: Bisakah Anda memberikan contoh penegakan hukum terbaru?
-Jawaban: Tentu. Januari 2024 misalnya, Polda Aceh menangkap dua tersangka perdagangan kulit dan tulang harimau (1 ASN, 1 petani). Mereka dijerat Pasal 40(2) UU 5/1990 dengan ancaman 5 tahun penjara. Contoh lain: Mei 2024 Gakkum KLHK menangkap dua pelaku di Jambi membawa kulit harimau dan sisik trenggiling, dengan ancaman hukuman sama. Kasus-kasus ini menunjukkan aparat penegak serius.
+Jawaban: Tentu. Januari 2024 misalnya, Polda Aceh menangkap dua tersangka perdagangan kulit dan tulang harimau (1 ASN, 1 petani).[6](#Referensi) Mereka dijerat Pasal 40(2) UU 5/1990 dengan ancaman 5 tahun penjara.[6](#Referensi) Contoh lain: Mei 2024 Gakkum KLHK menangkap dua pelaku di Jambi membawa kulit harimau dan sisik trenggiling, dengan ancaman hukuman sama.[7](#Referensi) Kasus-kasus ini menunjukkan aparat penegak serius.
 
 > 问题：您能举例说明最新的执法案例吗？
 > 回答：当然。例如，2024年1月，亚齐警察局（Polda Aceh）逮捕了两名涉嫌交易老虎皮和骨头的嫌疑人（一名公务员和一名农民）。他们被控违反《1990年第5号法律》第40条第2款，面临最高5年监禁。另一个例子是2024年5月，环境与林业部执法单位（Gakkum KLHK）在珍比逮捕两名携带老虎皮和穿山甲鳞片的嫌疑人，面临同样的处罚。这些案例显示执法机关态度严肃。
@@ -106,3 +110,16 @@ Jawaban: Meskipun wilayah DKI tidak memiliki harimau liar, kami mendukung upaya 
 
 > 问题：BKSDA DKI在老虎保护方面的期望和作用是什么？
 > 回答：虽然DKI地区没有野生老虎，但我们支持全国性的保护工作。BKSDA DKI协助宣传，向中央报告案件，并与环境与林业部（KLHK）合作。我们的期望是与各方协同合作：支持苏门答腊的巡逻项目，培训工作人员，提升公众意识。
+
+## Referensi
+
+1. [Harimau Sumatera, Masa Depan Mereka Ada Di Tangan Kita](https://www.menlhk.go.id/news/harimau-sumatera-masa-depan-mereka-ada-di-tangan-kita/)
+2. [Populasi Harimau di TNKS Diperkirakan 115-130 Ekor, Pembukaan Lahan dan Perburuan Jadi Ancaman](https://www.kompas.id/artikel/populasi-harimau-di-tnks-diperkirakan-115-130-ekor-pembukaan-lahan-dan-perburuan-jadi-ancaman/)
+3. [KLHK: Populasi Harimau Sumatera Tersisa 603 Ekor](https://news.detik.com/berita/d-4643337/klhk-populasi-harimau-sumatera-tersisa-603-ekor)
+4. [Data Jenis Tumbuhan dan Satwa Liar Dilindungi - Ditjen Konservasi Sumber Daya Alam dan Ekosistem](https://ksdae.menlhk.go.id/jenis-tsl-dilindungi.html)
+5. [Warga Temukan Jejak Kaki Satwa Diduga Harimau Sumatera, Petugas Lakukan Pengecekan - Ditjen Konservasi Sumber Daya Alam dan Ekosistem](https://ksdae.menlhk.go.id/berita/13394/Warga-Temukan-Jejak-Kaki-Satwa-Diduga-Harimau-Sumatera-Petugas-Lakukan-Pengecekan.html)
+6. [Penjual Kulit dan Tulang Harimau Sumatera Ditangkap di Aceh Timur](https://mongabay.co.id/2024/01/23/penjual-kulit-dan-tulang-harimau-sumatera-ditangkap-di-aceh-timur/)
+7. [Jual Beli Kulit Harimau dan Sisik Tenggiling di Jambi, Dua Pelaku Ditangkap](https://www.kompas.id/baca/nusantara/2024/06/02/jual-beli-kulit-harimau-dan-sisik-tenggiling-di-jambi-dua-pelaku-ditangkap)
+8. [Harimau Sumatera Mati Terjerat di Agam Sumbar, BKSDA Ingatkan Sanksi](https://news.detik.com/berita/d-7458551/harimau-sumatera-mati-terjerat-di-agam-sumbar-bksda-ingatkan-sanksi)
+9. [Sepasang Anak Harimau Sumatera Lahir di TMSBK Bukittinggi, Diberi Nama Rizki dan Lestari oleh Titiek Soeharto](https://bksdasumbar.org/2025/06/22/pemberian-nama-anak-harimau-sumatera-oleh-ketua-komisi-iv-dpr-ri/)
+10. [Harimau Sumatra kembali Disurvei](https://mediaindonesia.com/humaniora/222905/harimau-sumatra-kembali-disurvei)
