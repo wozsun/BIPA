@@ -1,5 +1,5 @@
 ---
-Completed: false
+Completed: true
 ---
 
 # Harimau Menuju Kepunahan: Benarkah?
@@ -73,44 +73,6 @@ Terima kasih atas perhatian Bapak/Ibu sekalian. Semoga kita semua semakin menyad
 
 > 感谢各位先生/女士的关注。希望我们大家都能更加意识到，拯救老虎就是保护生态系统的可持续性和印尼的遗产。
 
-## Sesi Tanya Jawab
-
-1. Pertanyaan: Bagaimana kondisi terbaru populasi harimau Sumatera di Indonesia?
-Jawaban: Menurut data KLHK terbaru, populasi harimau Sumatera di alam liar hanya tersisa sekitar 400–600 ekor.[1](#Referensi) Misalnya, di Taman Nasional Kerinci Seblat diperkirakan hanya ada 115–130 ekor harimau saja.[2](#Referensi) Secara keseluruhan, tren masih menurun karena kehilangan habitat dan perburuan.
-
-> 问题：印尼苏门答腊虎的最新种群状况如何？
-> 回答：根据环境与林业部（KLHK）的最新数据，野生苏门答腊虎的数量仅剩约400至600只。例如，在Kerinci Seblat国家公园估计仅有115至130只老虎。总体而言，趋势仍在下降，因为栖息地丧失和偷猎。
-
-2. Pertanyaan: Apa saja faktor utama yang mengancam kelangsungan hidup harimau?
-Jawaban: Tiga ancaman utama adalah alih fungsi lahan, perburuan/jerat, dan konflik manusia. Sebagai contoh di TN Kerinci Seblat, 101.000 ha hutan telah berubah jadi perkebunan, dan banyak jerat sling ditemukan di lapangan.[2](#Referensi) Fragmentasi hutan juga memaksa harimau keluar ke pemukiman.
-
-> 问题：威胁老虎生存的主要因素有哪些？
-> 回答：三大主要威胁是土地用途转换、猎捕/陷阱和人与动物冲突。例如，在Kerinci Seblat国家公园，已有101,000公顷森林被改为种植园，现场发现了许多弹弓陷阱。森林破碎化也迫使老虎进入居民区。
-
-3. Pertanyaan: Undang-undang apa yang melindungi harimau di Indonesia?
-Jawaban: Harimau dilindungi oleh UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya. UU ini melarang menangkap, membunuh, atau memperdagangkan satwa dilindungi.[4](#Referensi) Pada 2024 Undang-Undang ini diperkuat (UU 32/2024) dengan sanksi lebih berat bagi pelanggar.
-
-> 问题：印尼有哪些法律保护老虎？
-> 回答：老虎受《1990年第5号关于生物自然资源及其生态系统保护法》的保护。该法律禁止捕捉、杀害或交易受保护动物。2024年，该法律得到加强（第32号法律/2024），对违法者施加更严厉的处罚。
-
-4. Pertanyaan: Bagaimana sanksi bagi pelaku kejahatan terhadap harimau?
-Jawaban: Pasal 40 UU 5/1990 mengatur sanksi pidana: pelanggaran berat (sengaja) bisa dihukum penjara hingga 5 tahun dan denda sampai Rp100 juta.[4](#Referensi) Sanksi bisa lebih berat bila ada pemburuan berantai. Setelah perubahan UU 2024, pelanggaran tertentu bisa dipidana 3–15 tahun.[5](#Referensi)
-
-> 问题：对老虎犯罪行为的处罚有哪些？
-> 回答：《1990年第5号法律》第40条规定刑事处罚：重大（故意）违法行为可判处最高5年监禁及最高1亿印尼盾罚款。如存在连续猎捕，处罚可能更重。2024年法律修订后，某些违法行为可判处3至15年有期徒刑。
-
-5. Pertanyaan: Bisakah Anda memberikan contoh penegakan hukum terbaru?
-Jawaban: Tentu. Januari 2024 misalnya, Polda Aceh menangkap dua tersangka perdagangan kulit dan tulang harimau (1 ASN, 1 petani).[6](#Referensi) Mereka dijerat Pasal 40(2) UU 5/1990 dengan ancaman 5 tahun penjara.[6](#Referensi) Contoh lain: Mei 2024 Gakkum KLHK menangkap dua pelaku di Jambi membawa kulit harimau dan sisik trenggiling, dengan ancaman hukuman sama.[7](#Referensi) Kasus-kasus ini menunjukkan aparat penegak serius.
-
-> 问题：您能举例说明最新的执法案例吗？
-> 回答：当然。例如，2024年1月，亚齐警察局（Polda Aceh）逮捕了两名涉嫌交易老虎皮和骨头的嫌疑人（一名公务员和一名农民）。他们被控违反《1990年第5号法律》第40条第2款，面临最高5年监禁。另一个例子是2024年5月，环境与林业部执法单位（Gakkum KLHK）在珍比逮捕两名携带老虎皮和穿山甲鳞片的嫌疑人，面临同样的处罚。这些案例显示执法机关态度严肃。
-
-6. Pertanyaan: Apa harapan dan peran BKSDA DKI khususnya dalam pelestarian harimau?
-Jawaban: Meskipun wilayah DKI tidak memiliki harimau liar, kami mendukung upaya nasional. BKSDA DKI membantu sosialisasi, melaporkan kasus ke pusat, dan bekerja sama dengan KLHK. Harapan kami adalah bersinergi dengan berbagai pihak: mendukung program patroli di Sumatera, melatih petugas, dan menumbuhkan kesadaran publik.
-
-> 问题：BKSDA DKI在老虎保护方面的期望和作用是什么？
-> 回答：虽然DKI地区没有野生老虎，但我们支持全国性的保护工作。BKSDA DKI协助宣传，向中央报告案件，并与环境与林业部（KLHK）合作。我们的期望是与各方协同合作：支持苏门答腊的巡逻项目，培训工作人员，提升公众意识。
-
 ## Referensi
 
 1. [Harimau Sumatera, Masa Depan Mereka Ada Di Tangan Kita](https://www.menlhk.go.id/news/harimau-sumatera-masa-depan-mereka-ada-di-tangan-kita/)
@@ -122,4 +84,3 @@ Jawaban: Meskipun wilayah DKI tidak memiliki harimau liar, kami mendukung upaya 
 7. [Jual Beli Kulit Harimau dan Sisik Tenggiling di Jambi, Dua Pelaku Ditangkap](https://www.kompas.id/baca/nusantara/2024/06/02/jual-beli-kulit-harimau-dan-sisik-tenggiling-di-jambi-dua-pelaku-ditangkap)
 8. [Harimau Sumatera Mati Terjerat di Agam Sumbar, BKSDA Ingatkan Sanksi](https://news.detik.com/berita/d-7458551/harimau-sumatera-mati-terjerat-di-agam-sumbar-bksda-ingatkan-sanksi)
 9. [Sepasang Anak Harimau Sumatera Lahir di TMSBK Bukittinggi, Diberi Nama Rizki dan Lestari oleh Titiek Soeharto](https://bksdasumbar.org/2025/06/22/pemberian-nama-anak-harimau-sumatera-oleh-ketua-komisi-iv-dpr-ri/)
-10. [Harimau Sumatra kembali Disurvei](https://mediaindonesia.com/humaniora/222905/harimau-sumatra-kembali-disurvei)
