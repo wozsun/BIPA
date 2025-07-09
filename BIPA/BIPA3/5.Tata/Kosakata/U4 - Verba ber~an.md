@@ -83,26 +83,35 @@ adjacent (close or adjoining)
 
 # beterbangan
 
+fly (to move through the air using wings or by aircraft)
+飞行，飞
+
 flying around (moving through the air in various directions)
 飞来飞去
 
 # berjatuhan
 
-falling down (coming down or dropping from a higher place repeatedly or in large numbers)
-纷纷掉落
+falling one after another (many things/people falling repeatedly or continuously)
+接连掉落，纷纷倒下
+
+dropping (things coming down in succession)
+连续掉落
 
 # berlompatan
 
-jumping around (leaping or springing repeatedly in various directions)
-跳来跳去
+jumping (moving by pushing oneself off a surface and into the air repeatedly)
+跳跃
+
+leaping (springing or bounding from one point to another)
+蹦跳
 
 # berlarian
 
-running around (running in various directions)
-跑来跑去，奔跑
+running (moving quickly on foot)
+奔跑
 
-rushing (moving quickly)
-匆忙奔跑，急跑
+scurrying (moving hurriedly with short quick steps)
+疾跑，奔窜
 
 # berserakan
 
