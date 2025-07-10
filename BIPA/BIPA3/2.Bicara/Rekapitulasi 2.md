@@ -1,8 +1,16 @@
 ---
-Completed: true
+Completed: false
 ---
 
-# Harimau Menuju Kepunahan: Benarkah?
+# Moderator
+
+# Pembicara
+
+Ungkapan menyela pembicaraan
+
+# Latihan
+
+## Harimau Menuju Kepunahan: Benarkah?
 
 Selamat siang Bapak/Ibu dan para hadirin. Terima kasih atas kesempatan yang diberikan kepada saya, mewakili BKSDA DKI Jakarta, untuk membahas isu penting ini. Hari ini, bertepatan dengan Hari Cinta Satwa Nasional, kita bicara tentang masa depan Harimau Sumatera di Indonesia.
 Walaupun saya berdinas di wilayah DKI Jakarta, perlu diingat bahwa habitat utama harimau liar berada di Pulau Sumatera. Oleh karena itu saya akan mengacu pada data dan program konservasi di Sumatera sebagai representasi utama.
@@ -11,7 +19,7 @@ Walaupun saya berdinas di wilayah DKI Jakarta, perlu diingat bahwa habitat utama
 > 各位先生女士，大家下午好！感谢各位给予我这个机会，让我代表雅加达特别首都区自然资源保护局（BKSDA DKI Jakarta）来讨论这一重要议题。今天适逢印度尼西亚“珍爱野生动物日”，我们将讨论苏门答腊虎在印度尼西亚的未来。
 > 虽然我服役于雅加达特别首都区，但大家要注意，苏门答腊虎的主要栖息地在苏门答腊岛。因此我将主要引用有关苏门答腊地区的保护数据和项目来做说明。
 
-## Situasi Populasi Harimau di Indonesia
+### Situasi Populasi Harimau di Indonesia
 
 Saat ini, populasi Harimau Sumatera diperkirakan tinggal sekitar 400–600 ekor di alam liar.[1](#Referensi) Contohnya, di Taman Nasional Kerinci Seblat (4 provinsi di Sumatera) populasi diperkirakan 115–130 ekor[2](#Referensi). Menurut IUCN, harimau Sumatera sudah berstatus critically endangered (sangat terancam) sejak 1996.[1](#Referensi)
 
@@ -34,7 +42,7 @@ Saya bisa mengatakan sebuah berita terbaru: pada tanggal 2 Juli 2025, telah dite
 >
 > 我可以说一条最新消息：2025年7月2日，在Padangsidimpuan市Batunadua区Batang Bahal村发现了疑似苏门答腊虎的足迹。
 
-## Undang-Undang Perlindungan Harimau
+### Undang-Undang Perlindungan Harimau
 
 Sebagai satwa dilindungi, harimau diatur dalam UU No. 5 Tahun 1990 tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya. UU ini melarang siapa pun menangkap, membunuh, menyimpan, atau memperniagakan satwa yang dilindungi.[4](#Referensi) Pelanggaran atas ketentuan ini diatur dalam Pasal 40: misalnya, pelaku yang sengaja menangkap atau memperdagangkan harimau dapat dipidana penjara maksimal 5 tahun dan denda hingga Rp100 juta.[4](#Referensi)
 Bahkan pelanggaran karena kelalaian dipidana maksimal 1 tahun atau denda Rp50 juta.[4](#Referensi) Baru-baru ini UU 5/1990 direvisi (UU No. 32 Tahun 2024) yang memperkuat sanksi: misalnya pelanggaran Pasal 20 ayat 2 huruf a (memburu atau menangkap satwa dilindungi) kini diancam 3–15 tahun penjara.[5](#Referensi)
@@ -43,7 +51,7 @@ Bahkan pelanggaran karena kelalaian dipidana maksimal 1 tahun atau denda Rp50 ju
 > 作为受保护动物，老虎受《1990年第5号关于生物资源及其生态系统保护的法律》（UU No. 5 Tahun 1990）管辖。该法律禁止任何人捕捉、杀害、持有或交易受保护动物。对违反规定者的处罚见于第40条：例如，故意捕捉或交易老虎者可被判处最高5年监禁和最高1亿印尼盾罚款。
 > 即使是因疏忽造成的违法行为，也可被判处最高1年监禁或罚款5000万印尼盾。最近，《1990年第5号法律》进行了修订（2024年第32号法律），加强了处罚力度：例如，违反第20条第2款a项（猎捕或捕捉受保护动物）者，现可被判处3至15年监禁。
 
-## Penegakan Hukum dan Contoh Kasus
+### Penegakan Hukum dan Contoh Kasus
 
 Penegakan hukum terhadap kejahatan harimau telah dilakukan aparat penegak hukum. Sebagai contoh:
 
@@ -58,7 +66,7 @@ Penegakan hukum terhadap kejahatan harimau telah dilakukan aparat penegak hukum.
 > - 珍比，2024年5月：环境与林业部执法单位（Gakkum KLHK）与珍比自然资源保护局（BKSDA Jambi）合作，在Merangin逮捕两名携带老虎皮、骨头及穿山甲鳞片的嫌疑人。如被证实违反《1990年第5号法律》第21条第2款d项，他们将面临5年监禁和1亿印尼盾罚款。
 > - 西苏门答腊，2024年7月：一只老虎在Agam因陷阱死亡。西苏门答腊自然资源保护局（BKSDA Sumbar）呼吁公众不要设置任何陷阱，因为设置陷阱者可能根据《1990年第5号法律》第40条受到刑事处罚。
 
-## Visi dan Harapan BKSDA
+### Visi dan Harapan BKSDA
 
 Visi BKSDA adalah menggalakkan konservasi bersama seluruh elemen masyarakat. Seperti yang ditegaskan Kepala BKSDA Sumbar, “pelestarian satwa tidak hanya tugas BKSDA, tetapi tugas semua pihak; semua lapisan harus terlibat.”[2](#Referensi)
 Oleh karena itu, BKSDA aktif memberdayakan masyarakat, misalnya melalui program Patroli Anak Nagari (sukarelawan pemantau habitat) sejak 2021.[2](#Referensi) Kami berharap lebih banyak keberhasilan konservasi: misalnya, kelahiran dua anak harimau di Taman Marga Satwa Budaya Kinantan Bukittinggi pada Juni 2025 yang disebut “harapan baru bagi konservasi harimau Sumatera”.[9](#Referensi)
@@ -73,7 +81,7 @@ Terima kasih atas perhatian Bapak/Ibu sekalian. Semoga kita semua semakin menyad
 
 > 感谢各位先生/女士的关注。希望我们大家都能更加意识到，拯救老虎就是保护生态系统的可持续性和印尼的遗产。
 
-## Referensi
+### Referensi
 
 1. [Harimau Sumatera, Masa Depan Mereka Ada Di Tangan Kita](https://www.menlhk.go.id/news/harimau-sumatera-masa-depan-mereka-ada-di-tangan-kita/)
 2. [Populasi Harimau di TNKS Diperkirakan 115-130 Ekor, Pembukaan Lahan dan Perburuan Jadi Ancaman](https://www.kompas.id/artikel/populasi-harimau-di-tnks-diperkirakan-115-130-ekor-pembukaan-lahan-dan-perburuan-jadi-ancaman/)

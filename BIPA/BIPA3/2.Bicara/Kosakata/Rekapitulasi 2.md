@@ -21,3 +21,16 @@ trapped (caught or ensnared, often in a legal or figurative sense)
 
 emphasize (to make something clearer or more definite)
 强调，明确
+
+# menyela
+
+to interrupt (to stop someone from speaking or doing something by saying or doing something yourself)
+打断，插话
+
+to interject (to say something suddenly, especially as an interruption)
+插入，插嘴
+
+to cut in (to break into a conversation)
+插话，插入
+
+# 
