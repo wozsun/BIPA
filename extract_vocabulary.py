@@ -1,141 +1,217 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import os
 import re
-from collections import OrderedDict
+import glob
+from collections import defaultdict
+from datetime import datetime
+
+def extract_chinese_translations(text):
+    """从文本中提取中文翻译"""
+    chinese_translations = []
+    lines = text.split('\n')
+
+    for line in lines:
+        line = line.strip()
+        # 直接跳过所有英文行
+        if not re.search(r'[\u4e00-\u9fff]', line):
+            continue
+
+        # 匹配包含中文字符的行
+        if re.search(r'[\u4e00-\u9fff]', line):
+            # 先按分号分割（不同含义的分隔符）
+            major_parts = re.split(r'[；]', line)
+
+            for major_part in major_parts:
+                major_part = major_part.strip()
+                if not major_part:
+                    continue
+
+                # 提取完整的中文部分（包括中文括号）
+                chinese_match = re.search(r'[\u4e00-\u9fff][^；]*', major_part)
+                if chinese_match:
+                    chinese_text = chinese_match.group().strip()
+
+                    # 只按逗号分割同义词（保持括号完整）
+                    sub_parts = []
+                    current_part = ""
+                    paren_level = 0
+
+                    for char in chinese_text:
+                        if char in '（(':
+                            paren_level += 1
+                            current_part += char
+                        elif char in '）)':
+                            paren_level -= 1
+                            current_part += char
+                        elif char == '，' and paren_level == 0:
+                            if current_part.strip():
+                                sub_parts.append(current_part.strip())
+                            current_part = ""
+                        else:
+                            current_part += char
+
+                    if current_part.strip():
+                        sub_parts.append(current_part.strip())
+
+                    for part in sub_parts:
+                        part = part.strip()
+                        if part and len(re.sub(r'[（）()]', '', part)) > 1:  # 至少包含2个非括号字符
+                            chinese_translations.append(part)
+
+    return chinese_translations
 
 def extract_vocabulary_from_file(file_path):
-    """Extract vocabulary from a single markdown file."""
-    vocabulary = []
+    """从单个文件中提取词汇"""
+    vocabulary = {}
 
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
+    except:
+        return vocabulary
 
-        # Split content by # headers (Indonesian words)
-        sections = re.split(r'\n# ([^\n]+)', content)
+    # 按 # 分割内容，每个部分对应一个单词
+    sections = content.split('\n# ')
 
-        # Skip the first section (usually frontmatter or empty)
-        for i in range(1, len(sections), 2):
-            if i + 1 < len(sections):
-                indonesian_word = sections[i].strip()
-                definitions = sections[i + 1].strip()
+    for section in sections:
+        if not section.strip():
+            continue
 
-                # Parse the definitions
-                lines = definitions.split('\n')
-                english_translations = []
-                chinese_translations = []
+        lines = section.strip().split('\n')
+        if not lines:
+            continue
 
-                current_english = ""
-                current_chinese = ""
+        # 第一行是印尼语单词（可能包含前导的#）
+        indonesian_word = lines[0].replace('#', '').strip()
+        if not indonesian_word or indonesian_word.startswith('---'):
+            continue
 
-                for line in lines:
-                    line = line.strip()
-                    if not line:
-                        continue
+        # 提取中文翻译
+        remaining_text = '\n'.join(lines[1:])
+        chinese_translations = extract_chinese_translations(remaining_text)
 
-                    # Check if line contains English (has parentheses with explanation)
-                    if '(' in line and ')' in line:
-                        current_english = line
-                    # Check if line contains Chinese characters
-                    elif re.search(r'[\u4e00-\u9fff]', line):
-                        current_chinese = line
-                        # When we have both English and Chinese, add to vocabulary
-                        if current_english and current_chinese:
-                            english_translations.append(current_english)
-                            chinese_translations.append(current_chinese)
-                            current_english = ""
-                            current_chinese = ""
-
-                # Combine all translations
-                if english_translations and chinese_translations:
-                    english_combined = "; ".join(english_translations)
-                    chinese_combined = "；".join(chinese_translations)
-                    vocabulary.append((indonesian_word, chinese_combined, english_combined))
-                elif english_translations:
-                    # If only English available
-                    english_combined = "; ".join(english_translations)
-                    vocabulary.append((indonesian_word, "", english_combined))
-                elif chinese_translations:
-                    # If only Chinese available
-                    chinese_combined = "；".join(chinese_translations)
-                    vocabulary.append((indonesian_word, chinese_combined, ""))
-
-    except Exception as e:
-        print(f"Error processing {file_path}: {e}")
+        if chinese_translations:
+            vocabulary[indonesian_word] = chinese_translations
 
     return vocabulary
 
-def find_kosakata_files(bipa3_path):
-    """Find all Kosakata files in BIPA3 directory."""
-    kosakata_files = []
+def merge_translations(translations_list):
+    """合并翻译，相近的用逗号分隔，不同意思的用分号分隔"""
+    # 去重但保持顺序
+    unique_translations = []
+    seen = set()
+    for trans in translations_list:
+        if trans not in seen:
+            unique_translations.append(trans)
+            seen.add(trans)
 
-    for root, dirs, files in os.walk(bipa3_path):
-        if 'Kosakata' in root:
-            for file in files:
-                if file.endswith('.md'):
-                    kosakata_files.append(os.path.join(root, file))
+    if len(unique_translations) <= 1:
+        return '，'.join(unique_translations)
 
-    return kosakata_files
+    # 智能分组：根据词汇的语义相似性分组
+    # 简单的分组策略：检查是否有相同的字符或词根
+    meaning_groups = []
+    used = set()
+
+    for i, trans in enumerate(unique_translations):
+        if i in used:
+            continue
+
+        current_group = [trans]
+        used.add(i)
+
+        # 寻找相似的翻译
+        for j, other_trans in enumerate(unique_translations):
+            if j <= i or j in used:
+                continue
+
+            # 检查相似性（更严格的条件）
+            similar = False
+
+            # 0. 特殊处理：只是多了一个"的"字的情况
+            if trans + "的" == other_trans:
+                # 保留不带"的"的版本，标记other_trans为相似但不添加
+                similar = True
+            elif other_trans + "的" == trans:
+                # 如果当前词是带"的"的版本，替换为不带"的"的版本
+                current_group[0] = other_trans
+                similar = True
+
+            # 1. 一个是另一个的子串（长度差不超过3）
+            elif (trans in other_trans or other_trans in trans) and abs(len(trans) - len(other_trans)) <= 3:
+                similar = True
+
+            # 2. 有较多共同字符且长度相近
+            elif abs(len(trans) - len(other_trans)) <= 2:
+                common_chars = set(trans) & set(other_trans)
+                # 共同字符数量占较短词汇的比例超过60%
+                shorter_len = min(len(trans), len(other_trans))
+                if len(common_chars) >= max(2, shorter_len * 0.6):
+                    similar = True
+
+            # 3. 包含相同的词根（至少3个连续字符）
+            elif len(trans) >= 3 and len(other_trans) >= 3:
+                for k in range(len(trans) - 2):
+                    if trans[k:k+3] in other_trans:
+                        similar = True
+                        break
+
+            if similar:
+                # 对于"的"字情况，只标记为已使用，不添加到组中
+                if not (trans + "的" == other_trans or other_trans + "的" == trans):
+                    current_group.append(other_trans)
+                used.add(j)
+
+        if current_group:
+            meaning_groups.append('，'.join(current_group))
+
+    return '；'.join(meaning_groups)
 
 def main():
-    bipa3_path = "/Users/wozsun/Library/Mobile Documents/iCloud~md~obsidian/Documents/Docs/BIPA/BIPA3"
-    output_path = os.path.join(bipa3_path, "Kosakata.md")
+    # 查找所有BIPA3下的词汇文件
+    base_path = "/Users/wozsun/Library/Mobile Documents/iCloud~md~obsidian/Documents/Docs/BIPA/BIPA3"
+    vocab_files = glob.glob(os.path.join(base_path, "**/Kosakata/*.md"), recursive=True)
 
-    # Find all Kosakata files
-    kosakata_files = find_kosakata_files(bipa3_path)
-    print(f"Found {len(kosakata_files)} Kosakata files")
+    print(f"找到 {len(vocab_files)} 个词汇文件")
 
-    # Extract vocabulary from all files
-    all_vocabulary = {}  # Use dict to remove duplicates
+    # 合并所有词汇
+    all_vocabulary = defaultdict(list)
 
-    for file_path in kosakata_files:
-        print(f"Processing: {os.path.relpath(file_path, bipa3_path)}")
+    for file_path in vocab_files:
+        print(f"处理文件: {os.path.basename(file_path)}")
         vocab = extract_vocabulary_from_file(file_path)
 
-        for indonesian, chinese, english in vocab:
-            if indonesian not in all_vocabulary:
-                all_vocabulary[indonesian] = (chinese, english)
-            else:
-                # If word exists, combine translations
-                existing_chinese, existing_english = all_vocabulary[indonesian]
-                combined_chinese = existing_chinese
-                combined_english = existing_english
+        for word, translations in vocab.items():
+            all_vocabulary[word].extend(translations)
 
-                # Add new Chinese translation if different
-                if chinese and chinese not in existing_chinese:
-                    combined_chinese = f"{existing_chinese}；{chinese}" if existing_chinese else chinese
+    print(f"总共提取到 {len(all_vocabulary)} 个印尼语单词")
 
-                # Add new English translation if different
-                if english and english not in existing_english:
-                    combined_english = f"{existing_english}; {english}" if existing_english else english
+    # 生成markdown表格
+    markdown_content = f"""# BIPA3 Kosakata
 
-                all_vocabulary[indonesian] = (combined_chinese, combined_english)
+**统计信息：**
 
-    # Sort vocabulary alphabetically
-    sorted_vocabulary = OrderedDict(sorted(all_vocabulary.items()))
+- 总词汇数量：{len(all_vocabulary)} 个
+- 提取时间：{datetime.now().strftime('%Y年%m月%d日')}
 
-    # Create markdown table
-    markdown_content = """| 印尼语 | 中文翻译 | 英文翻译和解释 |
-|--------|----------|----------------|
+| 印尼语 | 中文翻译 |
+|--------|----------|
 """
 
-    for indonesian, (chinese, english) in sorted_vocabulary.items():
-        # Escape pipe characters in content
-        indonesian_escaped = indonesian.replace('|', '\\|')
-        chinese_escaped = chinese.replace('|', '\\|')
-        english_escaped = english.replace('|', '\\|')
+    # 按字母顺序排序
+    for word in sorted(all_vocabulary.keys()):
+        translations = merge_translations(all_vocabulary[word])
+        markdown_content += f"| {word} | {translations} |\n"
 
-        markdown_content += f"| {indonesian_escaped} | {chinese_escaped} | {english_escaped} |\n"
-
-    # Add statistics
-    markdown_content += f"\n---\n\n**统计信息：**\n\n- 总词汇量：{len(sorted_vocabulary)} 个单词\n"
-
-    # Write to file
+    # 保存到BIPA3目录
+    output_path = "/Users/wozsun/Library/Mobile Documents/iCloud~md~obsidian/Documents/Docs/BIPA/BIPA3/Kosakata.md"
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
 
-    print(f"\n词汇表已生成：{output_path}")
-    print(f"总共提取了 {len(sorted_vocabulary)} 个不重复的词汇")
+    print(f"词汇表已保存到: {output_path}")
+    print(f"共包含 {len(all_vocabulary)} 个单词")
 
 if __name__ == "__main__":
     main()
