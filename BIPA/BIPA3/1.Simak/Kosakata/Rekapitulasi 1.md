@@ -5,127 +5,127 @@ Completed: true
 # filosofi
 
 philosophy (the study of the fundamental nature of knowledge, reality, and existence)
-哲学, 哲理
+哲学，哲理
 
 # pesepeda
 
 cyclist (a person who rides a bicycle)
-骑自行车的人, 骑行者
+骑自行车的人，骑行者
 
 # putar
 
 rotate (to move or cause to move in a circle around an axis or center)
-旋转, 转动
+旋转，转动
 
 turn (to change direction or orientation)
-转弯, 转向
+转弯，转向
 
 play (to start or operate a device, especially for media like music or video)
-播放, 运转
+播放，运转
 
 # haluan
 
 direction (the course along which someone or something moves)
-方向, 方位
+方向，方位
 
 course (a route or path taken)
-航向, 路线
+航向，路线
 
 policy (a plan or course of action adopted by an organization or individual)
-方针, 政策
+方针，政策
 
 bow (the forward part of a ship)
-船头, 船
+船头，船
 
 # birokrat
 
 bureaucrat (an official in a government department, particularly one perceived as being concerned with procedural correctness at the expense of people's needs)
-官僚, 官员
+官僚，官员
 
 # memenuhi
 
 fulfill (to achieve or realize something desired or promised)
-履行, 实现, 满足
+履行，实现，满足
 
 meet (to satisfy or comply with a requirement or condition)
-满足, 符合
+满足，符合
 
 fill (to make something full or occupy completely)
-填满, 装满
+填满，装满
 
 # terusan
 
 continuation (something that carries on or extends further)
-延续, 继续
+延续，继续
 
 canal (an artificial waterway constructed to allow the passage of boats or ships)
-运河, 水道
+运河，水道
 
 strait (a narrow passage of water connecting two seas or large areas of water)
-海峡, 水道
+海峡，水道
 
 # hendak
 
 want (to desire or wish for something)
-想要, 希望
+想要，希望
 
 intend (to have a plan or purpose in mind)
-打算, 意图
+打算，意图
 
 # memasuki
 
 enter (to go into a place)
-进入, 加入
+进入，加入
 
 approach (to come near or closer to something)
-接近, 靠近
+接近，靠近
 
 # menyusun
 
 arrange (to put things in a neat, attractive, or required order)
-排列, 安排, 整理
+排列，安排，整理
 
 organize (to plan or structure something systematically)
-组织, 整理, 编排
+组织，整理，编排
 
 # sekaligus
 
 at once (simultaneously or all at the same time)
-同时, 一次性, 一起
+同时，一次性，一起
 
 all at once (suddenly or all in one go)
-突然, 一下子, 一起
+突然，一下子，一起
 
 # disambut
 
 welcomed (to be greeted or received in a friendly way)
-被欢迎, 被迎接, 被接待
+被欢迎，被迎接，被接待
 
 received (to be accepted or acknowledged)
-被接受, 被接收, 被收到
+被接受，被接收，被收到
 
 # optimal
 
 optimal (the best or most favorable condition or level)
-最佳的, 最优的, 最理想的
+最佳的，最优的，最理想的
 
 # menyebarkan
 
 spread (to distribute or extend over a wide area)
-传播, 散布, 分布
+传播，散布，分布
 
 distribute (to give out or share something across different areas or people)
-分发, 分配, 分散
+分发，分配，分散
 
 # kategori
 
 category (a class or division of things regarded as having particular shared characteristics)
-类别, 种类, 分类
+类别，种类，分类
 
 # signifikan
 
 significant (important or meaningful)
-显著的, 重要的, 有意义的
+显著的，重要的，有意义的
 
 # mendukung
 
@@ -145,7 +145,7 @@ disappointed (feeling sad or displeased because something was not as expected)
 # rutin
 
 routine (a regular and repeated way of doing things)
-常规, 例行
+常规，例行
 
 # disinfektan
 
@@ -160,7 +160,7 @@ to consider (to think about something carefully before making a decision)
 # melibatkan
 
 to involve (to include someone or something in an activity or situation)
-涉及, 包含
+涉及，包含
 
 # penyemprotan
 
@@ -282,24 +282,24 @@ ticket booth (a place where tickets are sold)
 # alur
 
 flow (the movement or progression of something)
-流动, 进程
+流动，进程
 
 plot (the sequence of events in a story)
-情节, 剧情
+情节，剧情
 
 course (a direction or route taken)
-路线, 进程
+路线，进程
 
 # pencetakan
 
 printing (the process of producing text or images on paper)
-印刷, 打印
+印刷，打印
 
 production (the creation or manufacturing of something)
-生产, 制作
+生产，制作
 
 publication (the act of making content available to the public)
-出版, 发行
+出版，发行
 
 # ikonik
 

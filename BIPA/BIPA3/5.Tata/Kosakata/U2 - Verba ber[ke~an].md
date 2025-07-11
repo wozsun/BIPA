@@ -205,10 +205,10 @@ immersed (deeply covered or sunk in a liquid)
 # bertahap
 
 gradual (taking place or progressing slowly or step by step)
-逐渐的, 渐进的
+逐渐的，渐进的
 
 phased (carried out in stages)
-分阶段的, 逐步进行的
+分阶段的，逐步进行的
 
 step-by-step (progressing in stages)
-一步步的, 按阶段的
+一步步的，按阶段的

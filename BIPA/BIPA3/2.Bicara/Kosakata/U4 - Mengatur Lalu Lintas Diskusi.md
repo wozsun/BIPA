@@ -10,62 +10,62 @@ animal (a living organism that feeds on organic matter, typically having special
 # fauna
 
 animals (referring to the animals of a particular region, habitat, or geological period)
-动物群, 动物区系
+动物群，动物区系
 
 # konservasi
 
 conservation (the act of preserving, protecting, or restoring the natural environment and wildlife)
-保护, 保存, 生态保护
+保护，保存，生态保护
 
 # biak
 
 breed (to produce offspring, typically in a controlled or natural environment)
-繁殖, 培育
+繁殖，培育
 
 # musuh
 
 enemy (a person who is actively opposed or hostile to someone or something)
-敌人, 对手
+敌人，对手
 
 # punah
 
 extinct (no longer in existence)
-灭绝, 绝种
+灭绝，绝种
 
 # keseimbangan
 
 balance (a condition in which different elements are equal or in the correct proportions)
-平衡, 均衡, 协调
+平衡，均衡，协调
 
 # terganggu
 
 disturbed (interrupted or bothered, causing trouble or inconvenience)
-被打扰, 受干扰, 不安
+被打扰，受干扰，不安
 
 # terputus
 
 disconnected (interrupted or broken in connection)
-断开, 中断, 断裂
+断开，中断，断裂
 
 # mencegah
 
 prevent (to stop something from happening or arising)
-防止, 预防, 阻止
+防止，预防，阻止
 
 # moderator
 
 moderator (a person who moderates a discussion or debate, or a person who has the authority to moderate content on a platform)
-主持人, 调解人, 版主
+主持人，调解人，版主
 
 # bertindak
 
 act (to take action or do something)
-行动, 表现, 起作用
+行动，表现，起作用
 
 # penengah
 
 mediator (a person who mediates or helps to resolve conflicts)
-调解人, 调停者, 仲裁者
+调解人，调停者，仲裁者
 
 # pemegang
 
@@ -78,27 +78,27 @@ bearer (a person who carries or holds something)
 # hakim
 
 judge (a public official appointed to decide cases in a court of law)
-法官, 审判员
+法官，审判员
 
 # wasit
 
 referee (a person who officiates a sports game)
-裁判员, 裁判
+裁判员，裁判
 
 # pemimpin
 
 leader (a person who leads or commands a group, organization, or country)
-领导者, 领袖, 指导者
+领导者，领袖，指导者
 
 # bincang
 
 discuss (to talk about something with someone)
-讨论, 商量, 谈论
+讨论，商量，谈论
 
 # hadir
 
 present (being in a particular place)
-出席, 在场, 到场
+出席，在场，到场
 
 # karnivora
 
@@ -153,7 +153,7 @@ stripe (a long, narrow band of color)
 # tanduk
 
 horn (a hard, pointed, often curved part on the head of some animals, such as cows or goats)
-角, 触角
+角，触角
 
 # bekantan
 
@@ -208,7 +208,7 @@ bird of paradise (a brightly colored bird native to Papua)
 # orangutan
 
 orangutan (a large arboreal ape found in the rainforests of Borneo and Sumatra)
-猩猩, 红毛猩猩
+猩猩，红毛猩猩
 
 # pemaparan
 
@@ -331,26 +331,26 @@ mood (a temporary state of mind or feeling)
 
 # mengaturkan
 
-express (to convey or communicate an idea or message)  
+express (to convey or communicate an idea or message)
 表达
 
-deliver (to formally present or offer something, such as a speech or gift)  
+deliver (to formally present or offer something, such as a speech or gift)
 致辞
 
 # berkait
 
-related (connected or associated with something)  
+related (connected or associated with something)
 相关
 
-linked (joined or connected to something)  
+linked (joined or connected to something)
 关联
 
 # berkat
 
-blessing (a beneficial thing for which one is grateful)  
+blessing (a beneficial thing for which one is grateful)
 祝福
 
-grace (divine favor or goodwill)  
+grace (divine favor or goodwill)
 恩典
 
 # bergengsi
@@ -382,11 +382,11 @@ attendance (the act of being present at a place)
 
 # hadirin
 
-audience (the group of people watching or listening to an event)  
-观众  
+audience (the group of people watching or listening to an event)
+观众
 
-attendees (people who attend a meeting or event)  
-与会者  
+attendees (people who attend a meeting or event)
+与会者
 
 # buas
 

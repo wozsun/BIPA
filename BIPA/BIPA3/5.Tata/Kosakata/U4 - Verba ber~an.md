@@ -491,9 +491,9 @@ partner (a person who shares in an activity or relationship)
 # pacar
 
 boyfriend/girlfriend (a romantic partner)
-男朋友 / 女朋友
+男朋友/女朋友
 
-crush (informal: someone one is infatuated with)  
+crush (informal: someone one is infatuated with)
 暗恋对象
 
 henna (a plant used for dye, especially for coloring hands)

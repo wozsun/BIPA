@@ -249,11 +249,3 @@ blessed (having received blessings)
 
 trampoline (a strong fabric sheet used for jumping and acrobatics)
 蹦床
-
-# tembakan
-
-shot (the action of shooting; something that is fired from a weapon)
-射击，射门，枪击
-
-fire (the act of discharging a firearm)
-开火
