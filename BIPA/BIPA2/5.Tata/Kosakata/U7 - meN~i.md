@@ -1,6 +1,7 @@
 ---
 Completed: true
 ---
+
 # memotongi
 
 to cut (to divide something into pieces or sections)
@@ -80,34 +81,34 @@ invite (to ask someone to attend an event)
 # menghormati
 
 respect (to show admiration for someone or something)
-尊重；敬重
+尊重，敬重
 
 honor (to show high regard or esteem)
-荣誉；尊敬
+荣誉，尊敬
 
 # menyayangi
 
 love (to feel deep affection or care for someone)
-爱；疼爱
+爱，疼爱
 
 care for (to look after someone with affection and concern)
-关心；关爱
+关心，关爱
 
 # mematuhi
 
 obey (to follow rules, laws, or instructions)
-服从；遵守
+服从，遵守
 
 comply with (to act according to a rule, request, or order)
-遵从；依从
+遵从，依从
 
 # mencintai
 
 love (to feel deep affection or passion for someone or something)
-爱；热爱
+爱，热爱
 
 adore (to have deep love and respect for someone or something)
-崇拜；敬爱
+崇拜，敬爱
 
 # menyukai
 
@@ -115,7 +116,7 @@ like (to find something enjoyable or pleasant)
 喜欢
 
 be fond of (to have a liking or affection for something or someone)
-喜爱；钟爱
+喜爱，钟爱
 
 # menaati
 
@@ -142,31 +143,31 @@ lend (to give something to someone temporarily, expecting it to be returned)
 借给
 
 loan (to allow someone to use something temporarily, typically money or an item)
-借出；贷给
+借出，贷给
 
 # menawari
 
 offer (to present something for someone to accept or reject)
-提供；给予
+提供，给予
 
 propose (to suggest something for consideration)
-建议；提议
+建议，提议
 
 # menyuguhi
 
 serve (to offer food or drink to someone)
-招待；款待
+招待，款待
 
 treat (to provide someone with food, drink, or entertainment as a gesture of kindness)
-款待；请客
+款待，请客
 
 # mengirimi
 
 send (to cause something to go or be taken to a particular destination)
-寄给；发送给
+寄给，发送给
 
 deliver to (to send or bring something to someone)
-送给；传递给
+送给，传递给
 
 # menghadiahi
 
@@ -179,7 +180,7 @@ to reward (to give something in recognition of service, effort, or achievement)
 # mengaliri
 
 flow through (to cause liquid or something similar to move through a particular area or object)
-流经；使流过
+流经，使流过
 
 irrigate (to supply water to land or crops to help growth)
 灌溉
@@ -187,34 +188,34 @@ irrigate (to supply water to land or crops to help growth)
 # menanami
 
 plant (to put seeds, plants, or trees into the ground to grow)
-种植；栽种
+种植，栽种
 
 cultivate (to prepare and use land for growing crops)
-耕种；种植
+耕种，种植
 
 # mengolesi
 
 spread (to apply a layer of a substance onto a surface)
-涂抹；敷
+涂抹，敷
 
 apply (to put a substance onto something)
-涂上；施加
+涂上，施加
 
 # melempari
 
 throw at (to hurl objects towards someone or something repeatedly)
-投掷；扔向
+投掷，扔向
 
 pelt (to attack by repeatedly throwing things)
-投掷；连续扔
+投掷，连续扔
 
 # menguliti
 
 skin (to remove the skin from an animal, fruit, or vegetable)
-剥皮；去皮
+剥皮，去皮
 
 peel (to remove the outer layer of something, such as fruit or vegetables)
-剥皮；削皮
+剥皮，削皮
 
 # menyisiki
 
@@ -235,71 +236,71 @@ to pluck (to remove fur or feathers)
 # menandatangani
 
 sign (to write one's name on a document to show approval or agreement)
-签署；签名
+签署，签名
 
 endorse (to officially approve by signing a document)
-签署；认可
+签署，认可
 
 # mewarnai
 
 color (to apply color to something, such as a drawing or object)
-上色；涂色
+上色，涂色
 
 dye (to change the color of something, especially fabric or hair)
 染色
 
 paint (to apply pigment or color onto a surface, often for decoration or art)
-涂漆；绘画
+涂漆，绘画
 
 influence (figuratively, to give a certain tone or effect to something)
-影响；渲染
+影响，渲染
 
 # melukai
 
 hurt (to cause physical or emotional pain to someone)
-伤害；使受伤
+伤害，使受伤
 
 injure (to cause physical harm or damage)
-使受伤；损害
+使受伤，损害
 
 wound (to inflict an injury, especially one involving breaking the skin)
-使负伤；使受创
+使负伤，使受创
 
 offend (to cause emotional pain or insult)
-冒犯；伤害感情
+冒犯，伤害感情
 
 # mengobati
 
 treat (to provide medical care for an illness or injury)
-治疗；医治
+治疗，医治
 
 cure (to restore health or relieve someone from a disease)
-治愈；治好
+治愈，治好
 
 heal (to make someone or something healthy again)
-治愈；康复
+治愈，康复
 
 remedy (to fix or improve a problematic situation, often related to health)
-治疗；补救
+治疗，补救
 
 # membumbui
 
 season (to add spices or flavorings to food)
-调味；加作料
+调味，加作料
 
 spice (to add spices to food for flavor)
-加香料；调味
+加香料，调味
 
 flavor (to enhance the taste of food with additional ingredients)
-增味；调味
+增味，调味
 
 embellish (figuratively, to add details or exaggerate a story)
-润色；美化
+润色，美化
 
 # menggulai
 
 cook with curry (to prepare food with coconut milk and spices, typical in Indonesian cuisine)
-用椰奶和香料烹调；做成咖喱
+用椰奶和香料烹调，做成咖喱
 
 prepare in coconut milk (to cook something using coconut milk as the main ingredient)
 用椰奶烹调
@@ -307,7 +308,7 @@ prepare in coconut milk (to cook something using coconut milk as the main ingred
 # menggarami
 
 salt (to add salt to something, especially food)
-加盐；撒盐
+加盐，撒盐
 
 season with salt (to enhance the flavor of food by adding salt)
 用盐调味
@@ -336,46 +337,46 @@ to contaminate (to make something unsafe or unclean)
 # memanasi
 
 heat (to make something warm or hot)
-加热；使变热
+加热，使变热
 
 warm up (to make something warmer, especially food or a room)
-加热；变暖
+加热，变暖
 
 provoke (figuratively, to stir up emotions or incite someone to react)
-挑衅；激怒
+挑衅，激怒
 
 # menerangi
 
 illuminate (to light up something, making it brighter)
-照亮；使明亮
+照亮，使明亮
 
 light up (to provide light for something)
-点亮；照明
+点亮，照明
 
 enlighten (figuratively, to provide knowledge or understanding)
-启发；开导
+启发，开导
 
 # mengotori
 
 dirty (to make something unclean)
-弄脏；污染
+弄脏，污染
 
 stain (to leave a mark or discoloration on something)
-弄污；留下污渍
+弄污，留下污渍
 
 pollute (to contaminate or make impure, especially the environment)
-污染；弄脏
+污染，弄脏
 
 # mencemari
 
 defile (to spoil the purity or cleanliness of something, often used figuratively)
-玷污；亵渎
+玷污，亵渎
 
 pollute (to make air, water, or soil dirty or harmful)
-污染；弄脏
+污染，弄脏
 
 contaminate (to make something impure or harmful by adding unwanted substances)
-污染；玷污
+污染，玷污
 
 # menyinari
 
@@ -409,38 +410,38 @@ harm (to cause damage or injury)
 # membuang
 
 throw away (to get rid of something by discarding it)
-扔掉；丢弃
+扔掉，丢弃
 
 dispose of (to get rid of something, especially waste)
-处理；丢弃
+处理，丢弃
 
 get rid of (to remove or eliminate something unwanted)
-摆脱；扔掉
+摆脱，扔掉
 
 waste (to use something carelessly or unnecessarily)
-浪费；耗费
+浪费，耗费
 
 # sumber
 
 source (a place, person, or thing from which something originates or is obtained)
-来源；根源
+来源，根源
 
 origin (the starting point or cause of something)
-起源；出处
+起源，出处
 
 resource (a supply of something that can be used to meet a need)
-资源；财源
+资源，财源
 
 reference (a point of information or citation)
-参考；依据
+参考，依据
 
 # kebun
 
 garden (a piece of land used for growing flowers, vegetables, or other plants)
-花园；菜园
+花园，菜园
 
 plantation (a large area of land used for farming specific crops)
-种植园；农场
+种植园，农场
 
 orchard (a piece of land planted with fruit trees)
 果园
@@ -453,16 +454,16 @@ carrot (an orange root vegetable that is often eaten raw or cooked)
 # arah
 
 direction (the course or path on which something is moving or pointing)
-方向；方位
+方向，方位
 
 way (a route or path to a particular destination)
-道路；路线
+道路，路线
 
 orientation (the position or alignment relative to a point or direction)
-定位；方位感
+定位，方位感
 
 guidance (figuratively, advice or instructions on how to proceed)
-指导；引导
+指导，引导
 
 # perintah
 
@@ -492,7 +493,7 @@ missed (failed to catch or reach)
 错过
 
 via (using something as a medium or route)
-通过/经由
+通过，经由
 
 # nyamuk
 
@@ -594,7 +595,7 @@ organic (relating to or derived from living matter)
 biological (pertaining to biology or living organisms)
 生物的
 
-natural (not made or caused by humankind; occurring naturally)
+natural (not made or caused by humankind, occurring naturally)
 自然的
 
 # asap

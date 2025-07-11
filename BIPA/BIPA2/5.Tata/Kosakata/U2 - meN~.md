@@ -416,11 +416,11 @@ plank (long, flat piece of wood used in construction)
 signboard (used for displaying information)
 招牌，标牌
 
-blackboard/whiteboard (used for writing in classrooms)
-黑板/白板
+blackboard, whiteboard (used for writing in classrooms)
+黑板，白板
 
 platform (figuratively, as a foundation or stage)
 平台，舞台
 
-surfboard or skateboard (context-specific)
-冲浪板/滑板
+surfboard, skateboard (context-specific)
+冲浪板，滑板

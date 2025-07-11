@@ -5,68 +5,68 @@ Completed: true
 # terbuka
 
 open (not closed or covered)
-打开的；敞开的
+打开的，敞开的
 
 accessible (able to be reached or entered)
-可进入的；可接近的
+可进入的，可接近的
 
 transparent (figuratively, honest and clear in communication)
-坦率的；透明的
+坦率的，透明的
 
 available (ready for use or participation)
-可用的；可获得的
+可用的，可获得的
 
 # tertutup
 
 closed (not open or shut)
-关闭的；封闭的
+关闭的，封闭的
 
 covered (having something placed over it)
-被覆盖的；遮住的
+被覆盖的，遮住的
 
 sealed (securely closed or fastened)
-密封的；封闭的
+密封的，封闭的
 
 # tertempel
 
 attached (stuck or fixed to something)
-附着的；贴着的
+附着的，贴着的
 
 stuck (adhered to a surface)
-粘着的；贴上的
+粘着的，贴上的
 
 pasted (applied or affixed using glue or adhesive)
-粘贴的；贴上的
+粘贴的，贴上的
 
 # tertulis
 
 written (expressed in writing, not spoken)
-书面的；写下的
+书面的，写下的
 
 recorded (documented in written form)
-记录下来的；记载的
+记录下来的，记载的
 
 documented (officially written or recorded for reference)
-有据可查的；文件化的
+有据可查的，文件化的
 
 # terkunci
 
 locked (secured with a lock, unable to be opened)
-锁住的；被锁上的
+锁住的，被锁上的
 
 secured (figuratively, made safe or protected, often with a lock)
-被固定的；被安全锁住的
+被固定的，被安全锁住的
 
 # terpasang
 
 installed (set up or fixed in position for use)
-安装好的；已装上的
+安装好的，已装上的
 
 mounted (fixed onto a surface or structure)
-固定的；装配上的
+固定的，装配上的
 
 attached (connected or fastened to something)
-连接的；附着的
+连接的，附着的
 
 # tergantung
 
@@ -79,16 +79,16 @@ suspending (hanging or being suspended)
 # terikat
 
 tied (fastened or secured with a string, rope, or similar material)
-被绑住的；被系上的
+被绑住的，被系上的
 
 bound (figuratively, obligated or restricted by something)
-受约束的；被限制的
+受约束的，被限制的
 
 attached (figuratively, emotionally connected or committed to something)
-依附的；依恋的
+依附的，依恋的
 
 secured (fastened tightly or firmly)
-固定的；牢固的
+固定的，牢固的
 
 # terdaftar
 
@@ -599,12 +599,12 @@ aware (having knowledge or perception of a situation or fact)
 # meminjam
 
 borrow (to take something temporarily with the intention of returning it)
-借、借用
+借，借用
 
 # merepotkan
 
 troublesome (causing inconvenience or difficulty)
-麻烦、打扰
+麻烦，打扰
 
 # huruf
 
@@ -614,12 +614,12 @@ letter (a character in the alphabet)
 # memeriksa
 
 check (to examine or inspect something)
-检查、核对
+检查，核对
 
 # terganggu
 
 disturbed (feeling interrupted or bothered)
-被打扰、受到干扰
+被打扰，受到干扰
 
 # napas
 

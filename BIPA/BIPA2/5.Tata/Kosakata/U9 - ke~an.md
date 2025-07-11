@@ -86,10 +86,10 @@ downfall (a loss of power, prosperity, or status)
 # kekurangan
 
 deficiency (a lack or shortage of something)
-缺乏；不足
+缺乏，不足
 
 defect (a shortcoming, imperfection, or lack)
-缺陷；瑕疵
+缺陷，瑕疵
 
 # kelebihan
 
@@ -105,7 +105,7 @@ overload (too much of something, especially more than can be handled)
 # kecurian
 
 theft (the action or crime of stealing)
-盗窃；偷窃
+盗窃，偷窃
 
 robbery (the act of taking property unlawfully from a person or place by force or threat)
 抢劫
@@ -116,7 +116,7 @@ robbery (the act of taking property unlawfully from a person or place by force o
 抢劫
 
 heist (a robbery, especially one involving a large amount of money or valuable items)
-盗窃；抢劫案
+盗窃，抢劫案
 
 # kecopetan
 
@@ -137,15 +137,15 @@ toxicity (the degree to which a substance can harm humans or animals)
 # kepagian
 
 too early (occurring or done before the usual or expected time)
-太早；提前
+太早，提前
 
 eagerness (an enthusiastic or keen desire to do something, often leading to doing it early)
-急切；渴望
+急切，渴望
 
 # kesiangan
 
 too late (occurring or done after the usual or expected time)
-太晚；迟到
+太晚，迟到
 
 oversleeping (the act of sleeping longer than intended)
 睡过头
@@ -153,7 +153,7 @@ oversleeping (the act of sleeping longer than intended)
 # kesorean
 
 too late (happening or done later than the usual or expected time)
-太晚；迟到
+太晚，迟到
 
 tardiness (the quality or fact of being late)
 迟到
@@ -161,7 +161,7 @@ tardiness (the quality or fact of being late)
 # kemalaman
 
 too late (happening or done later than the usual or expected time)
-太晚；迟到
+太晚，迟到
 
 nightfall (the onset of night; the time when it becomes dark)
 夜幕降临
@@ -188,7 +188,7 @@ sweetness (the quality of being sweet, often referring to taste)
 甜味
 
 pleasantness (the quality of being pleasant or agreeable)
-愉快；宜人
+愉快，宜人
 
 # keasinan
 
@@ -201,7 +201,7 @@ too small (having a size that is smaller than what is needed or expected)
 太小
 
 insufficiency (the quality of being insufficient or inadequate in size)
-不足；缺乏
+不足，缺乏
 
 # kemerahan
 
@@ -241,7 +241,7 @@ visible (able to be seen)
 可见的
 
 seem (to appear to be something)
-看起来；似乎
+看起来，似乎
 
 # ketiduran
 
@@ -262,10 +262,10 @@ sounds (vibrations that travel through the air or another medium and can be hear
 # ketinggalan
 
 left behind (to be forgotten or not taken along)
-被遗忘；落后
+被遗忘，落后
 
 missing (not present or accounted for)
-缺失；失踪
+缺失，失踪
 
 # muatan
 

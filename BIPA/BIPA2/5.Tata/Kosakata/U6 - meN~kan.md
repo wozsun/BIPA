@@ -4,47 +4,47 @@ Completed: true
 
 # terkait
 
-related; connected (having a relationship or connection with something)
-相关的；有关的
+related, connected (having a relationship or connection with something)
+相关的，有关的
 
 involved (being part of or connected to a situation, especially in a formal or official context)
-涉及的；牵连的
+涉及的，牵连的
 
-tied; linked (physically or metaphorically bound to something)
-联系的；连接的
+tied, linked (physically or metaphorically bound to something)
+联系的，连接的
 
 # perasaan
 
-feeling; emotion (a mental or emotional state experienced by someone)
-感觉；情感
+feeling, emotion (a mental or emotional state experienced by someone)
+感觉，情感
 
-sense; intuition (a subtle awareness or instinct about something)
-感知；直觉
+sense, intuition (a subtle awareness or instinct about something)
+感知，直觉
 
 sensitivity (the ability to feel or respond emotionally)
-敏感性；感受能力
+敏感性，感受能力
 
 # tindakan
 
-action; act (a deed or something that is done to achieve a goal or respond to a situation)
-行动；行为
+action, act (a deed or something that is done to achieve a goal or respond to a situation)
+行动，行为
 
-measure; step (a specific effort or procedure taken to deal with a problem or situation)
-措施；步骤
+measure, step (a specific effort or procedure taken to deal with a problem or situation)
+措施，步骤
 
 intervention (an act of interfering or stepping in to address an issue or conflict)
-干预；介入
+干预，介入
 
 # fokus
 
 focus (the center of attention or concentration)
-焦点；重点
+焦点，重点
 
 concentration (the act of directing attention or effort to a specific task or subject)
-专注；集中
+专注，集中
 
 focal point (the main point of interest or activity)
-中心点；关注点
+中心点，关注点
 
 # arah
 
@@ -52,29 +52,29 @@ direction (the course or path along which something moves or points)
 方向
 
 orientation (the position or alignment of something relative to a reference point)
-定位；方位
+定位，方位
 
-guidance; purpose (a figurative sense of having a goal or guidance in life or actions)
-指导；目标
+guidance, purpose (a figurative sense of having a goal or guidance in life or actions)
+指导，目标
 
-trend; tendency (a figurative sense indicating the flow or movement of an idea or development)
-趋势；倾向
+trend, tendency (a figurative sense indicating the flow or movement of an idea or development)
+趋势，倾向
 
 # kontras
 
 contrast (a noticeable difference between two or more things)
-对比；差异
+对比，差异
 
-opposition; contradiction (a situation in which two things are completely different or opposite)
-对立；反差
+opposition, contradiction (a situation in which two things are completely different or opposite)
+对立，反差
 
 # membahagiakan
 
-to make happy; to bring happiness (to cause someone to feel joy or contentment)
-使幸福；使快乐
+to make happy, to bring happiness (to cause someone to feel joy or contentment)
+使幸福，使快乐
 
-to please; to delight (to do something that brings satisfaction or joy to others)
-使高兴；使愉悦
+to please, to delight (to do something that brings satisfaction or joy to others)
+使高兴，使愉悦
 
 # mengecewakan
 
@@ -82,65 +82,65 @@ to disappoint (to fail to meet someone’s expectations or hopes)
 使失望
 
 to let down (to fail to support or fulfill a promise to someone)
-辜负；让人失望
+辜负，让人失望
 
-unsatisfactory; disappointing (describing something that causes dissatisfaction or regret)
+unsatisfactory, disappointing (describing something that causes dissatisfaction or regret)
 令人失望的
 
 # mengejutkan
 
-to surprise; to shock (to cause someone to feel astonished or startled)
-使惊讶；使震惊
+to surprise, to shock (to cause someone to feel astonished or startled)
+使惊讶，使震惊
 
-startling; shocking (describing something unexpected or surprising)
-令人惊讶的；出人意料的
+startling, shocking (describing something unexpected or surprising)
+令人惊讶的，出人意料的
 
 to awaken suddenly (to cause someone to wake up or become alert unexpectedly)
-突然惊醒；唤醒
+突然惊醒，唤醒
 
 # mengkhawatirkan
 
-to worry about; to be concerned about (to cause someone to feel anxious or uneasy)
-使担忧；使焦虑
+to worry about, to be concerned about (to cause someone to feel anxious or uneasy)
+使担忧，使焦虑
 
-worrying; alarming (describing something that causes concern or anxiety)
-令人担忧的；令人不安的
+worrying, alarming (describing something that causes concern or anxiety)
+令人担忧的，令人不安的
 
 to raise concern (to bring up or create a situation that calls for attention or caution)
-引起担忧；令人注意
+引起担忧，令人注意
 
 # memuaskan
 
 to satisfy (to meet someone’s needs, desires, or expectations)
-使满足；使满意
+使满足，使满意
 
-satisfying; satisfactory (describing something that fulfills expectations or requirements)
-令人满意的；令人满足的
+satisfying, satisfactory (describing something that fulfills expectations or requirements)
+令人满意的，令人满足的
 
 to gratify (to fulfill someone’s wishes or feelings, often emotionally or physically)
 满足（某种愿望或需求）
 
 # menakutkan
 
-to frighten; to scare (to cause someone to feel fear or terror)
-使害怕；使恐惧
+to frighten, to scare (to cause someone to feel fear or terror)
+使害怕，使恐惧
 
-frightening; terrifying (describing something that causes fear or dread)
-可怕的；令人恐惧的
+frightening, terrifying (describing something that causes fear or dread)
+可怕的，令人恐惧的
 
 alarming (used to describe a situation or event that causes concern or fear)
-令人担忧的；令人警惕的
+令人担忧的，令人警惕的
 
 # menyedihkan
 
-to sadden; to make sad (to cause someone to feel sorrow or unhappiness)
-使伤心；使悲伤
+to sadden, to make sad (to cause someone to feel sorrow or unhappiness)
+使伤心，使悲伤
 
-sad; heartbreaking (describing something that evokes sorrow or pity)
-令人伤心的；令人心碎的
+sad, heartbreaking (describing something that evokes sorrow or pity)
+令人伤心的，令人心碎的
 
-pitiful; lamentable (used to describe a situation or condition that is unfortunate or deserving of sympathy)
-可怜的；令人惋惜的
+pitiful, lamentable (used to describe a situation or condition that is unfortunate or deserving of sympathy)
+可怜的，令人惋惜的
 
 # mengagetkan
 
@@ -156,32 +156,32 @@ to startle (to cause someone to feel sudden fear or surprise)
 # menawarkan
 
 to offer (to present something for acceptance, consideration, or use)
-提供；提出
+提供，提出
 
 to suggest (to propose an idea or solution for consideration)
-建议；提议
+建议，提议
 
 to extend (to give or provide something, such as help or hospitality)
 提供（帮助、款待等）
 
 to market (to promote or sell a product or service)
-推销；宣传
+推销，宣传
 
 # meminjamkan
 
 to lend (to give something temporarily to someone with the expectation of it being returned)
-借出；借给
+借出，借给
 
 to loan (to provide money or items as a loan, often with conditions for repayment)
-贷出；提供贷款
+贷出，提供贷款
 
 # menghadiahkan
 
-to gift; to present (to give something as a gift to someone)
-赠送；送礼
+to gift, to present (to give something as a gift to someone)
+赠送，送礼
 
 to award (to give something as a reward or recognition)
-授予；颁发
+授予，颁发
 
 # mengirimkan
 
@@ -392,7 +392,7 @@ to purchase (to acquire something in exchange for money)
 购置
 
 to get (to obtain something for someone)
-为…买
+为...买
 
 # mengambilkan
 

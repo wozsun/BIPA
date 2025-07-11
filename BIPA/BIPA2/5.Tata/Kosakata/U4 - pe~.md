@@ -4,64 +4,64 @@ Completed: true
 
 # penjual
 
-seller / vendor
-卖家；小贩
+seller, vendor
+卖家，小贩
 
 # pembeli
 
-buyer / purchaser
-买家；顾客
+buyer, purchaser
+买家，顾客
 
 # pengunjung
 
 visitor
-访客；游客
+访客，游客
 
 # penonton
 
-audience / spectator
-观众；观看者
+audience, spectator
+观众，观看者
 
 # pemilik
 
 owner
-所有者；主人
+所有者，主人
 
 # penari
 
 dancer
-舞者；舞蹈演员
+舞者，舞蹈演员
 
 # pelukis
 
-painter / artist
-画家；绘画艺术家
+painter, artist
+画家，绘画艺术家
 
 # pemandu
 
-Guide
-导游；向导
+guide
+导游，向导
 
-Instructor / Leader
-指导者；领队
+instructor, leader
+指导者，领队
 
 # pelayan
 
-Waiter / Waitress / Server
+waiter, waitress, server
 服务员
 
-Servant
-仆人；佣人
+servant
+仆人，佣人
 
 # penjaga
 
-Guard / Watchman
-守卫；保安
+guard, watchman
+守卫，保安
 
-Caretaker
-看护者；管理员
+caretaker
+看护者，管理员
 
-Goalkeeper (in sports)
+goalkeeper (in sports)
 守门员
 
 # penjahit
@@ -74,18 +74,18 @@ tailor (a person whose occupation is making fitted clothes)
 
 # penakut
 
-coward / timid person
-胆小鬼；懦弱的人
+coward, timid person
+胆小鬼，懦弱的人
 
 # pemberani
 
-brave person / courageous person
-勇敢的人；有胆量的人
+brave person, courageous person
+勇敢的人，有胆量的人
 
 # pemalu
 
 shy person
-害羞的人；腼腆的人
+害羞的人，腼腆的人
 
 # pelucu
 
@@ -97,13 +97,13 @@ jokester (a person who tells jokes)
 
 # pemarah
 
-hot-tempered person / irritable person
-爱生气的人；脾气暴躁的人
+hot-tempered person, irritable person
+爱生气的人，脾气暴躁的人
 
 # pendiam
 
-quiet person / reserved person
-沉默的人；内向的人
+quiet person, reserved person
+沉默的人，内向的人
 
 # pembohong
 
@@ -123,120 +123,120 @@ slacker (a person who avoids work or effort)
 
 # pendingin
 
-Cooler
+cooler
 冷却器
 
-Refrigerator / Cooling device
-冷藏设备；制冷器
+refrigerator, cooling device
+冷藏设备，制冷器
 
 # pembuka
 
-Opener
-开启工具；开瓶器
+opener
+开启工具，开瓶器
 
-Introduction / Opening
-开场；序幕
+introduction, opening
+开场，序幕
 
-Initiator
-开创者；发起者
+initiator
+开创者，发起者
 
 # pemanas
 
-Heater
-加热器；暖气设备
+heater
+加热器，暖气设备
 
-Warmer
-加热装置；保温设备
+warmer
+加热装置，保温设备
 
 # pengering
 
-Dryer
-烘干机；干燥器
+dryer
+烘干机，干燥器
 
-Dehydrator
-脱水机；干燥设备
+dehydrator
+脱水机，干燥设备
 
-Hairdryer
+hairdryer
 吹风机
 
 # pengharum
 
-Fragrance / Perfume
-香水；香料
+fragrance, perfume
+香水，香料
 
-Air Freshener
+air freshener
 空气清新剂
 
-Scent Enhancer
+scent enhancer
 增香剂
 
 # pejalan
 
-Walker
-步行者；行走的人
+walker
+步行者，行走的人
 
-Pedestrian
+pedestrian
 行人
 
 # pekerja
 
-Worker
-工人；劳动者
+worker
+工人，劳动者
 
-Employee
-员工；职员
+employee
+员工，职员
 
-Laborer
-劳工；体力劳动者
+laborer
+劳工，体力劳动者
 
 # pelajar
 
-Student
-学生；学习者
+student
+学生，学习者
 
-Learner
-学习者；求知者
+learner
+学习者，求知者
 
 # petani
 
-Farmer
-农民；种植者
+farmer
+农民，种植者
 
-Agricultural Worker
+agricultural worker
 农业劳动者
 
 # peternak
 
-Breeder
-饲养员；培育者
+breeder
+饲养员，培育者
 
-Livestock Farmer
-畜牧业者；牲畜饲养者
+livestock farmer
+畜牧业者，牲畜饲养者
 
-Animal Farmer
+animal farmer
 动物饲养者
 
 # pedagang
 
-Trader
-商人；交易者
+trader
+商人，交易者
 
-Merchant
-商贩；商户
+merchant
+商贩，商户
 
-Vendor
-小贩；摊贩
+vendor
+小贩，摊贩
 
 # petugas
 
-Officer
-官员；工作人员
+officer
+官员，工作人员
 
-Staff Member
-职员；工作人员
+staff member
+职员，工作人员
 
-Attendant
-服务员；值班人员
+attendant
+服务员，值班人员
 
 # pegolf
 
@@ -245,39 +245,39 @@ golfer
 
 # petenis
 
-Tennis Player
+tennis player
 网球运动员
 
 # pesepak bola
 
-Football Player / Soccer Player
+football player, soccer player
 足球运动员
 
 # imbuhan
 
 affix
-附加成分；词缀
+附加成分，词缀
 
 # bidang
 
-Field / Area
-领域；范围
+field, area
+领域，范围
 
-Plane / Surface
-平面；表面
+plane, surface
+平面，表面
 
 # berprofesi
 
 to have a profession (to work in a specific job or occupation)
-从事职业, 有职业
+从事职业，有职业
 
 # bersifat
 
 to have the characteristic of (to possess a particular nature or quality)
-具有……性质, 具有……特性
+具有...性质，具有...特性
 
 to be of a certain nature (to be in a specific condition or state)
-属于……性质, 表现为……状态
+属于...性质，表现为...状态
 
 # botol
 
@@ -288,7 +288,7 @@ container (in the shape of a bottle)
 瓶状容器
 
 flask
-烧瓶；小瓶
+烧瓶，小瓶
 
 # pertunjukan
 

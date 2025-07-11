@@ -207,52 +207,52 @@ inspect (to examine something carefully)
 检查
 
 examine (to analyze or investigate)
-检查、审查
+检查，审查
 
 check (to verify or confirm)
-核对、检查
+核对，检查
 
 # kuat
 
 strong (having great physical power or strength)
-强壮、有力
+强壮，有力
 
 resilient (able to withstand or recover quickly from difficult conditions)
-坚韧、有韧性
+坚韧，有韧性
 
 durable (able to last a long time without breaking or getting weaker)
-耐用、坚固
+耐用，坚固
 
 intense (having a strong effect or feeling)
-强烈、剧烈
+强烈，剧烈
 
 # tajam
 
 sharp (having a thin edge or point that can cut)
-锋利、尖锐
+锋利，尖锐
 
 acute (intense or severe in degree)
-敏锐、剧烈
+敏锐，剧烈
 
 keen (having or showing eagerness or enthusiasm)
-敏锐、渴望
+敏锐，渴望
 
 piercing (causing a sharp sensation or pain)
-刺耳、刺痛
+刺耳，刺痛
 
 # jelas
 
 clear (easy to understand or see)
-清楚、明确
+清楚，明确
 
 obvious (easily perceived or understood)
-显然、明显
+显然，明显
 
 evident (plain or apparent)
-显而易见、明显
+显而易见，明显
 
 definite (certain or precise)
-确定的、明确的
+确定的，明确的
 
 # pengacara
 

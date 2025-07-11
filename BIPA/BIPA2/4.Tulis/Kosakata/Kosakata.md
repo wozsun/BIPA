@@ -18,10 +18,10 @@ main (primary or most important)
 
 # karangan
 
-composition / essay
+composition, essay
 作文，文章
 
-writing / literary work
+writing, literary work
 写作，文学作品
 
 arrangement (of flowers or other items)
@@ -45,21 +45,21 @@ timeline
 
 # alur
 
-flow / course
+flow, course
 流程，进程
 
 plot (in a story)
 情节，故事线
 
-stream / current
+stream, current
 水流，流向
 
 # cerita
 
-story / tale
+story, tale
 故事
 
-narrative / account
+narrative, account
 叙述，描述
 
 to tell a story (when used as a verb)
@@ -67,7 +67,7 @@ to tell a story (when used as a verb)
 
 # tujuan
 
-goal / purpose
+goal, purpose
 目标，目的
 
 destination
@@ -75,10 +75,10 @@ destination
 
 # menyampaikan
 
-to deliver / to convey
+to deliver, to convey
 传达，递送
 
-to express / to communicate
+to express, to communicate
 表达，传述
 
 to submit
@@ -89,10 +89,10 @@ to submit
 message
 信息，消息
 
-order / booking
+order, booking
 订单，预订
 
-advice / moral lesson
+advice, moral lesson
 建议，教训，寓意
 
 # kehidupan
@@ -108,10 +108,10 @@ existence
 
 # suatu
 
-a / an / one (indefinite article)
+a, an, one (indefinite article)
 一个，某个
 
-certain / particular
+certain, particular
 某个，某种
 
 # motivasi
@@ -119,7 +119,7 @@ certain / particular
 motivation
 动力，激励
 
-reason / drive
+reason, drive
 动机，原因
 
 # inspirasi
@@ -132,7 +132,7 @@ source of inspiration
 
 # lisan
 
-oral / verbal
+oral, verbal
 口头的，语言的
 
 spoken language
@@ -140,7 +140,7 @@ spoken language
 
 # memahami
 
-to understand / to comprehend
+to understand, to comprehend
 理解，领会
 
 to grasp (a concept)
@@ -151,15 +151,15 @@ to grasp (a concept)
 aspect
 方面，层面
 
-facet / element
+facet, element
 角度，元素
 
 # sadur
 
-to adapt / to modify
+to adapt, to modify
 改编，修改
 
-to coat / to plate
+to coat, to plate
 镀上，覆盖（通常指金属或其他材料的表面处理）
 
 # pepatah
@@ -169,7 +169,7 @@ proverb
 
 # peribahasa
 
-proverb / saying
+proverb, saying
 谚语，俗语
 
 # tesis

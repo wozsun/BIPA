@@ -193,44 +193,44 @@ commemoration (an act of remembering and honoring an event or person)
 # pertunjukan
 
 performance (an act of presenting a play, concert, or other form of entertainment)
-表演；演出
+表演，演出
 
 show (a spectacle or display intended to entertain)
-节目；秀
+节目，秀
 
 # perkiraan
 
 estimate (a rough calculation or judgment of the value, number, quantity, or extent of something)
-估计；预测
+估计，预测
 
 forecast (a prediction or estimate of future events, especially weather or financial trends)
-预测；预报
+预测，预报
 
 approximation (a value or quantity that is nearly but not exactly correct)
-近似值；接近
+近似值，接近
 
 # pertanahan
 
 land affairs (matters related to land ownership, management, and regulation)
-土地事务；土地管理
+土地事务，土地管理
 
 land administration (the process of managing land resources, including registration and transfer of ownership)
-土地行政；土地管理
+土地行政，土地管理
 
 # perbankan
 
 banking (the business conducted or services offered by a bank)
-银行业；金融服务
+银行业，金融服务
 
 # perpajakan
 
 taxation (the system of levying taxes on individuals or businesses)
-税收；征税制度
+税收，征税制度
 
 # perhotelan
 
 hospitality (the industry related to providing services such as lodging, food, and entertainment)
-酒店业；服务业
+酒店业，服务业
 
 # pertanian
 
@@ -238,72 +238,72 @@ agriculture (the practice of farming, including cultivation of the soil and rear
 农业
 
 farming (the activity of growing crops and raising livestock)
-耕作；农耕
+耕作，农耕
 
 # perekonomian
 
 economy (the system by which goods and services are produced, sold, and bought in a country or region)
-经济；经济体系
+经济，经济体系
 
 economic system (the structure and methods a society uses to manage its resources and trade)
-经济系统；经济制度
+经济系统，经济制度
 
 # perindustrian
 
 industry (the economic activity concerned with the processing of raw materials and manufacturing of goods)
-工业；产业
+工业，产业
 
 industrial sector (the part of an economy related to manufacturing and production)
-工业部门；工业领域
+工业部门，工业领域
 
 # pertolongan
 
 help (the act of assisting someone)
-帮助；援助
+帮助，援助
 
 assistance (support or aid provided to someone in need)
-协助；支援
+协助，支援
 
 # pernikahan
 
 marriage (the legally or formally recognized union of two people as partners in a personal relationship)
-婚姻；结婚
+婚姻，结婚
 
 wedding (the ceremony where two people are united in marriage)
-婚礼；结婚典礼
+婚礼，结婚典礼
 
 # percobaan
 
 experiment (a scientific procedure undertaken to test a hypothesis or demonstrate a known fact)
-实验；试验
+实验，试验
 
 trial (a test of performance, quality, or suitability)
-试验；测试
+试验，测试
 
 attempt (an effort to achieve or complete something)
-尝试；努力
+尝试，努力
 
 # peraturan
 
 regulation (a rule or directive made and maintained by an authority)
-规定；法规
+规定，法规
 
 rule (a prescribed guide for conduct or action)
-规则；条例
+规则，条例
 
 policy (a principle or course of action adopted by an organization or individual)
-政策；方针
+政策，方针
 
 # perlawanan
 
 resistance (the act of opposing or standing against something)
-抵抗；反抗
+抵抗，反抗
 
 opposition (the act of disagreeing or being against something)
-反对；对抗
+反对，对抗
 
 struggle (a determined effort to achieve something or to fight against something)
-斗争；奋斗
+斗争，奋斗
 
 # harmonis
 
@@ -311,13 +311,13 @@ harmonious (having a pleasing combination of elements)
 和谐
 
 peaceful (free from conflict or disturbance)
-平静、和平
+平静，和平
 
 balanced (well-proportioned or stable)
-均衡、协调
+均衡，协调
 
 compatible (able to exist or work together without conflict)
-兼容、协调一致
+兼容，协调一致
 
 # geografis
 
@@ -336,16 +336,16 @@ topographical (related to the arrangement of physical features)
 # kawasan
 
 area (a particular region or part of a place)
-地区、区域
+地区，区域
 
 region (a large area, usually with specific characteristics)
-地区、区域
+地区，区域
 
 zone (a specific area distinguished by certain features or purposes)
-区域、地带
+区域，地带
 
 territory (an area under the jurisdiction of a government or authority)
-领土、领域
+领土，领域
 
 # kelola
 
@@ -353,13 +353,13 @@ manage (to control or organize something)
 管理
 
 administer (to oversee or direct operations)
-管理、执行
+管理，执行
 
 operate (to run or function something)
-操作、运营
+操作，运营
 
 handle (to deal with or take care of)
-处理、操控
+处理，操控
 
 # lingkungan
 
@@ -367,24 +367,21 @@ environment (the surroundings or conditions in which a person, animal, or plant 
 环境
 
 neighborhood (the area around a particular place or community)
-社区、邻里
+社区，邻里
 
 ecosystem (a biological community of interacting organisms and their physical environment)
 生态系统
 
 setting (the place or type of surroundings where something is positioned or occurs)
-背景、场景
+背景，场景
 
 # gotong
 
 carry (to lift and transport something)
-抬、搬
+抬，搬
 
 lift (to raise something to a higher position)
-抬起、举起
-
-共同合作（在印尼语中，"gotong"常与"royong"连用，表示集体合作的行为）
-合作、协力
+抬起，举起
 
 # royong
 
@@ -406,24 +403,24 @@ death (the end of the life of a person or organism)
 死亡
 
 passing (a polite or softer term for death)
-逝世、去世
+逝世，去世
 
 loss (an instance of someone dying, causing emotional pain)
-失去、丧失
+失去，丧失
 
 mortality (the state of being subject to death)
-死亡率、必死性
+死亡率，必死性
 
 # bangsa
 
 nation (a large group of people united by common descent, history, culture, or language)
-国家、民族
+国家，民族
 
 people (a group of persons sharing a common identity or culture)
-人民、族群
+人民，族群
 
 ethnic group (a community of people sharing common cultural traits)
-族群、民族群体
+族群，民族群体
 
 race (a group classified by shared physical characteristics or ancestry)
 种族
@@ -431,16 +428,16 @@ race (a group classified by shared physical characteristics or ancestry)
 # melaksanakan
 
 implement (to put a plan or decision into effect)
-实施、执行
+实施，执行
 
 carry out (to perform or complete a task or action)
-执行、开展
+执行，开展
 
 perform (to carry out an action or task)
-履行、进行
+履行，进行
 
 execute (to put a plan, order, or course of action into effect)
-执行、实行
+执行，实行
 
 # lomba
 
@@ -450,7 +447,7 @@ competition (an event or contest in which people compete)
 # menyegarkan
 
 refresh (to make fresh again or give new energy)
-使清新、使耳目一新
+使清新，使耳目一新
 
 # pemerintah
 
@@ -460,17 +457,17 @@ government (the governing body of a nation, state, or community)
 # toleransi
 
 tolerance (the ability or willingness to tolerate the existence of opinions or behavior that one dislikes or disagrees with)
-宽容；容忍
+宽容，容忍
 
 # tercipta
 
 created (brought into existence)
-被创造；形成
+被创造，形成
 
 # kendaraan
 
 vehicle (a thing used for transporting people or goods, especially on land)
-车辆；交通工具
+车辆，交通工具
 
 # pengendara
 
@@ -485,37 +482,37 @@ complain (to express dissatisfaction or annoyance about something)
 # ganjil
 
 odd (not divisible by two; strange or unusual)
-奇数；奇怪的
+奇数，奇怪的
 
 # genap
 
 even (divisible by two; complete or full)
-偶数；完整的
+偶数，完整的
 
 # pelat
 
 plate (a flat, thin, and usually round object)
-板、盘子
+板，盘子
 
 # berperang
 
 fight (to engage in a war or battle)
-打仗；战斗
+打仗，战斗
 
 # gaji
 
 salary (a fixed regular payment, typically paid monthly or biweekly)
-薪水；工资
+薪水，工资
 
 # mengatasi
 
 overcome (to successfully deal with or gain control of something difficult)
-克服；解决
+克服，解决
 
 # pasukan
 
 troops (a group of soldiers; a military force)
-部队；军队
+部队，军队
 
 # tetangga
 
@@ -530,7 +527,7 @@ reaction (a response to something)
 # daya
 
 power (the ability or capacity to do something; physical or mental strength)
-力量；能力
+力量，能力
 
 # tahan
 
