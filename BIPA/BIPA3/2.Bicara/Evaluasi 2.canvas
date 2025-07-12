@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"a6095db122e132f5","type":"text","text":"# Komodo\n\nOscar: Pengamat Lingkungan Hidup\n\nSean: Wakil dari BKSDA\n\nMinsu: Wakil Organisasi Konservasi Indonesia","x":-920,"y":-380,"width":440,"height":200},
+		{"id":"e4cd531977ee2257","type":"text","text":"# Gajah\n\nOscar: Pengamat Lingkungan Hidup\n\nSean: Wakil dari BKSDA\n\nMinsu: Wartawan Lingkungan Hidup","x":-920,"y":120,"width":440,"height":200},
+		{"id":"2ec833d7ae3d1ca3","type":"text","text":"**1. Kepada Sean:**\nMenurut pengamatan dari pihak BKSDA sendiri, bagaimana sebenarnya kondisi populasi **Komodo/Gajah** saat ini di Indonesia? Apakah benar jumlahnya semakin sedikit?\n\n**2. Kepada Oscar:**\nBapak Oscar, sebagai pengamat lingkungan hitup, pasti Bapak sangat memahami kondisi populasi **Komodo/Gajah** saat ini. Bisakah Bapak menjelaskan kenapa jumlah  **Komodo/Gajah** terus berkurang dalam beberapa tahun terakhir? \n\n**3. Kepada Minsu:**\nMenurut Anda, bagaimana **organisasi/media** melihat ancaman kepunahan **Komodo/Gajah** ini? Dan bagaimana peran **organisasi/pemberitaan** dalam membangun kesadaran publik terhadap pentingnya pelestarian gajah?","x":-400,"y":-160,"width":580,"height":460},
+		{"id":"d532d261d1bbf7f6","type":"text","text":"Minsu bertanya kepada Oscar:\nUntuk mencegah kepunihan **Komodo/Gajah**, manusia harus melakukan apa? Dan menurut Anda kebijakan politik yang pemerintah harus melakukan apa?","x":260,"y":-380,"width":800,"height":100},
+		{"id":"8ab3d45b8e4a1efd","type":"text","text":"Oscar bertanya kepada Sean:\nSaya yakin Bapak Sean pasti masih punya banyak cara lain, bukan?","x":260,"y":-260,"width":800,"height":100},
+		{"id":"15fc497bae184903","type":"text","text":"Sean bertanya kepada Minsu:\nSebagai wartawan, menurut Anda bagaimana sebaiknya mengingatkan masyarakat agar tidak melakukan aktivitas ilegal, seperti memburu **Komodo/Gajah**?","x":260,"y":-140,"width":800,"height":100},
+		{"id":"7a4aaff25e44ae1d","type":"text","text":"Minsu bertanya kepada Sean:\nSaya dengar bahwa **Komodo/Gajah** ada di **perbatasan Kalimantan/Pulau Komodo** lebih terancam daripada tempat lain. Kenapa hal ini terjadi? Kalau tidak benar informasi yang saya tahu, tolong memberitahu tempat mana yang paling serius sama alasanya.","x":260,"y":-20,"width":800,"height":100},
+		{"id":"c47c83deaf7762e9","type":"text","text":"Sean bertanya kepada Oscar:\nMenurut Anda sebagai pengamat lingkungan, bisakah Bapak menjelaskan peran **Komodo/Gajah**  di lingkungan alam?","x":260,"y":100,"width":800,"height":100},
+		{"id":"77abf6849b7ab1e9","type":"text","text":"Oscar bertanya kepada Minsu:\nKarena **Komodo/Gajah** sangat penting bagi lingkungan alam, jadi apakah organisasi Anda telah melakukan tindakan untuk **Komodo/Gajah**? Apakah Anda melihat langsung tindakan itu?","x":260,"y":220,"width":800,"height":100},
+		{"id":"ee6625a5273133f4","type":"text","text":"# Moderator\n**Naufel**\nPembuka, Perkenalan","x":-920,"y":-100,"width":240,"height":140},
+		{"id":"8999ed5f84bcdbae","type":"text","text":"Naufel Bertanya","x":-640,"y":-60,"width":180,"height":60},
+		{"id":"1ec7cbe5ef57952e","type":"text","text":"Naufel Simpulkan","x":-200,"y":-360,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"691f0a64755bad27","fromNode":"ee6625a5273133f4","fromSide":"bottom","toNode":"e4cd531977ee2257","toSide":"top"},
+		{"id":"8e5e9be96de71607","fromNode":"ee6625a5273133f4","fromSide":"top","toNode":"a6095db122e132f5","toSide":"bottom"},
+		{"id":"33e9c031de348b44","fromNode":"ee6625a5273133f4","fromSide":"right","toNode":"8999ed5f84bcdbae","toSide":"left"},
+		{"id":"3f507bba3a5a9ca7","fromNode":"8999ed5f84bcdbae","fromSide":"right","toNode":"2ec833d7ae3d1ca3","toSide":"left"},
+		{"id":"7b4cd9a04da1b413","fromNode":"2ec833d7ae3d1ca3","fromSide":"top","toNode":"1ec7cbe5ef57952e","toSide":"bottom"},
+		{"id":"bc2ce78f9afd2cb5","fromNode":"1ec7cbe5ef57952e","fromSide":"right","toNode":"d532d261d1bbf7f6","toSide":"left"},
+		{"id":"3a2d0db26b8e312f","fromNode":"d532d261d1bbf7f6","fromSide":"bottom","toNode":"8ab3d45b8e4a1efd","toSide":"top"},
+		{"id":"0d93d395801b2844","fromNode":"8ab3d45b8e4a1efd","fromSide":"bottom","toNode":"15fc497bae184903","toSide":"top"},
+		{"id":"4e114903f4d19647","fromNode":"15fc497bae184903","fromSide":"bottom","toNode":"7a4aaff25e44ae1d","toSide":"top"},
+		{"id":"0b5748fa8d8ef876","fromNode":"7a4aaff25e44ae1d","fromSide":"bottom","toNode":"c47c83deaf7762e9","toSide":"top"},
+		{"id":"9e9f7e7abae4d647","fromNode":"c47c83deaf7762e9","fromSide":"bottom","toNode":"77abf6849b7ab1e9","toSide":"top"}
+	]
+}
