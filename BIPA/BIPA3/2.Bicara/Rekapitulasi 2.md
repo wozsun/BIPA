@@ -2,12 +2,6 @@
 Completed: false
 ---
 
-# Moderator
-
-# Pembicara
-
-Ungkapan menyela pembicaraan
-
 # Latihan
 
 ## Harimau Menuju Kepunahan: Benarkah?

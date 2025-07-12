@@ -189,9 +189,7 @@ def main():
     print(f"总共提取到 {len(all_vocabulary)} 个印尼语单词")
 
     # 生成markdown表格
-    markdown_content = f"""# BIPA3 Kosakata
-
-**统计信息：**
+    markdown_content = f"""**统计信息：**
 
 - 总词汇数量：{len(all_vocabulary)} 个
 - 提取时间：{datetime.now().strftime('%Y年%m月%d日')}
