@@ -8,59 +8,60 @@ from collections import defaultdict
 from datetime import datetime
 
 def extract_chinese_translations(text):
-    """从文本中提取中文翻译"""
-    chinese_translations = []
+    """从文本中提取中文翻译，按英文定义分组"""
+    translation_groups = []  # 每个元素是一个词义组（对应一个英文定义）
     lines = text.split('\n')
+    current_group_translations = []
 
     for line in lines:
         line = line.strip()
-        # 直接跳过所有英文行
-        if not re.search(r'[\u4e00-\u9fff]', line):
+
+        # 如果是英文行，结束当前组并开始新组
+        if line and not re.search(r'[\u4e00-\u9fff]', line):
+            if current_group_translations:
+                translation_groups.append(current_group_translations)
+                current_group_translations = []
             continue
 
-        # 匹配包含中文字符的行
+        # 如果是中文行，添加到当前组
         if re.search(r'[\u4e00-\u9fff]', line):
-            # 先按分号分割（不同含义的分隔符）
-            major_parts = re.split(r'[；]', line)
+            # 按中文逗号分割同义词
+            if '，' in line:
+                # 分割时要考虑括号内的内容不被分割
+                parts = []
+                current_part = ""
+                paren_level = 0
 
-            for major_part in major_parts:
-                major_part = major_part.strip()
-                if not major_part:
-                    continue
+                i = 0
+                while i < len(line):
+                    char = line[i]
+                    if char in '（(':
+                        paren_level += 1
+                        current_part += char
+                    elif char in '）)':
+                        paren_level -= 1
+                        current_part += char
+                    elif char == '，' and paren_level == 0:
+                        if current_part.strip():
+                            parts.append(current_part.strip())
+                        current_part = ""
+                    else:
+                        current_part += char
+                    i += 1
 
-                # 提取完整的中文部分（包括中文括号）
-                chinese_match = re.search(r'[\u4e00-\u9fff][^；]*', major_part)
-                if chinese_match:
-                    chinese_text = chinese_match.group().strip()
+                if current_part.strip():
+                    parts.append(current_part.strip())
 
-                    # 只按逗号分割同义词（保持括号完整）
-                    sub_parts = []
-                    current_part = ""
-                    paren_level = 0
+                current_group_translations.extend(parts)
+            else:
+                # 整行作为一个翻译
+                current_group_translations.append(line.strip())
 
-                    for char in chinese_text:
-                        if char in '（(':
-                            paren_level += 1
-                            current_part += char
-                        elif char in '）)':
-                            paren_level -= 1
-                            current_part += char
-                        elif char == '，' and paren_level == 0:
-                            if current_part.strip():
-                                sub_parts.append(current_part.strip())
-                            current_part = ""
-                        else:
-                            current_part += char
+    # 添加最后一个组
+    if current_group_translations:
+        translation_groups.append(current_group_translations)
 
-                    if current_part.strip():
-                        sub_parts.append(current_part.strip())
-
-                    for part in sub_parts:
-                        part = part.strip()
-                        if part and len(re.sub(r'[（）()]', '', part)) > 1:  # 至少包含2个非括号字符
-                            chinese_translations.append(part)
-
-    return chinese_translations
+    return translation_groups
 
 def extract_vocabulary_from_file(file_path):
     """从单个文件中提取词汇"""
@@ -90,84 +91,93 @@ def extract_vocabulary_from_file(file_path):
 
         # 提取中文翻译
         remaining_text = '\n'.join(lines[1:])
-        chinese_translations = extract_chinese_translations(remaining_text)
+        translation_groups = extract_chinese_translations(remaining_text)
 
-        if chinese_translations:
-            vocabulary[indonesian_word] = chinese_translations
+        if translation_groups:
+            vocabulary[indonesian_word] = translation_groups
 
     return vocabulary
 
-def merge_translations(translations_list):
-    """合并翻译，相近的用逗号分隔，不同意思的用分号分隔"""
-    # 去重但保持顺序
+def merge_translations(translation_groups_list):
+    """合并翻译组，组内去重用中文逗号分隔，组间用中文分号分隔，全局去重重复翻译"""
+    if not translation_groups_list:
+        return ""
+
+    # 合并所有来源的翻译组
+    all_groups = []
+    for groups in translation_groups_list:
+        all_groups.extend(groups)
+
+    if not all_groups:
+        return ""
+
+    # 首先收集所有翻译进行全局"的"字处理
+    all_translations = []
+    for group in all_groups:
+        if group:
+            all_translations.extend(group)
+
+    # 全局处理"的"字去重
     unique_translations = []
     seen = set()
-    for trans in translations_list:
+    for trans in all_translations:
         if trans not in seen:
             unique_translations.append(trans)
             seen.add(trans)
 
-    if len(unique_translations) <= 1:
-        return '，'.join(unique_translations)
-
-    # 智能分组：根据词汇的语义相似性分组
-    # 简单的分组策略：检查是否有相同的字符或词根
-    meaning_groups = []
+    # 处理"的"字去重（全局范围）
+    final_global_translations = []
     used = set()
 
     for i, trans in enumerate(unique_translations):
         if i in used:
             continue
 
-        current_group = [trans]
+        # 检查是否有对应的"的"字版本
+        de_version = trans + "的"
+        non_de_version = trans[:-1] if trans.endswith("的") else None
+
+        # 如果当前词不带"的"，检查是否有带"的"的版本
+        if de_version in unique_translations:
+            de_index = unique_translations.index(de_version)
+            used.add(de_index)
+            final_global_translations.append(trans)  # 保留不带"的"的版本
+        # 如果当前词带"的"，检查是否有不带"的"的版本
+        elif non_de_version and non_de_version in unique_translations:
+            non_de_index = unique_translations.index(non_de_version)
+            if non_de_index not in used:
+                used.add(i)  # 跳过当前带"的"的版本
+                continue
+            else:
+                final_global_translations.append(trans)
+        else:
+            final_global_translations.append(trans)
+
         used.add(i)
 
-        # 寻找相似的翻译
-        for j, other_trans in enumerate(unique_translations):
-            if j <= i or j in used:
-                continue
+    # 创建全局去重后的翻译集合
+    global_unique_set = set(final_global_translations)
 
-            # 检查相似性（更严格的条件）
-            similar = False
+    # 处理每个组，保持组的结构但只保留全局去重后的翻译
+    processed_groups = []
 
-            # 0. 特殊处理：只是多了一个"的"字的情况
-            if trans + "的" == other_trans:
-                # 保留不带"的"的版本，标记other_trans为相似但不添加
-                similar = True
-            elif other_trans + "的" == trans:
-                # 如果当前词是带"的"的版本，替换为不带"的"的版本
-                current_group[0] = other_trans
-                similar = True
+    for group in all_groups:
+        if not group:
+            continue
 
-            # 1. 一个是另一个的子串（长度差不超过3）
-            elif (trans in other_trans or other_trans in trans) and abs(len(trans) - len(other_trans)) <= 3:
-                similar = True
+        # 过滤组内翻译，只保留全局去重后存在的翻译
+        group_translations = []
+        for trans in group:
+            if trans in global_unique_set:
+                group_translations.append(trans)
+                # 从全局集合中移除，避免在后续组中重复出现
+                global_unique_set.discard(trans)
 
-            # 2. 有较多共同字符且长度相近
-            elif abs(len(trans) - len(other_trans)) <= 2:
-                common_chars = set(trans) & set(other_trans)
-                # 共同字符数量占较短词汇的比例超过60%
-                shorter_len = min(len(trans), len(other_trans))
-                if len(common_chars) >= max(2, shorter_len * 0.6):
-                    similar = True
+        if group_translations:
+            processed_groups.append('，'.join(group_translations))
 
-            # 3. 包含相同的词根（至少3个连续字符）
-            elif len(trans) >= 3 and len(other_trans) >= 3:
-                for k in range(len(trans) - 2):
-                    if trans[k:k+3] in other_trans:
-                        similar = True
-                        break
-
-            if similar:
-                # 对于"的"字情况，只标记为已使用，不添加到组中
-                if not (trans + "的" == other_trans or other_trans + "的" == trans):
-                    current_group.append(other_trans)
-                used.add(j)
-
-        if current_group:
-            meaning_groups.append('，'.join(current_group))
-
-    return '；'.join(meaning_groups)
+    # 使用中文分号连接不同的组
+    return '；'.join(processed_groups)
 
 def main():
     # 查找所有BIPA3下的词汇文件
@@ -183,8 +193,8 @@ def main():
         print(f"处理文件: {os.path.basename(file_path)}")
         vocab = extract_vocabulary_from_file(file_path)
 
-        for word, translations in vocab.items():
-            all_vocabulary[word].extend(translations)
+        for word, translation_groups in vocab.items():
+            all_vocabulary[word].extend(translation_groups)
 
     print(f"总共提取到 {len(all_vocabulary)} 个印尼语单词")
 
@@ -200,7 +210,7 @@ def main():
 
     # 按字母顺序排序
     for word in sorted(all_vocabulary.keys()):
-        translations = merge_translations(all_vocabulary[word])
+        translations = merge_translations([all_vocabulary[word]])
         markdown_content += f"| {word} | {translations} |\n"
 
     # 保存到BIPA3目录
