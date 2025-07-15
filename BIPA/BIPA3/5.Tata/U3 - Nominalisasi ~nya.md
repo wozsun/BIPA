@@ -1,5 +1,5 @@
 ---
-Completed: true
+Completed: false
 ---
 
 **Makna:** hal tentang \~ / kondisi tentang \~
@@ -19,6 +19,10 @@ Bisnis ritel mati.
 Kebijakan tentang PSB berubah.
 -> Berubahnya kebijakan PSB = frasa nomina
 --> Berubahnya kebijakan PSB merugikan sekolah swasta.
+
+Jumlah peminat beasiswa dalam negeri agak menurun.
+-> Agak menurun jumlah peminat beasiswa
+--> Agak menurun jumlah peminat beasiswa dalam negeri terjadi karena banyak pihak menawarkan beasiswa ke luar negeri yang lebih menggiurkan.
 
 Tanggal 17 Mei diperingati sebagai Hari Buku Nasional.
 -> Diperingatinya tanggal 17 Mei sebagai HBN = frasa nomina

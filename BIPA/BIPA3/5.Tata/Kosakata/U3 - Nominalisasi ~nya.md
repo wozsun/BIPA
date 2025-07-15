@@ -1,5 +1,5 @@
 ---
-Completed: true
+Completed: false
 ---
 
 # menguatnya
@@ -150,6 +150,14 @@ caught (to be captured or seized, especially by law enforcement)
 
 detected (to be discovered or noticed)
 被发现，被侦测，被察觉
+
+# menggiurkan
+
+tempting (attracting or appealing, especially in a way that makes you want to have or do something)
+诱人的，吸引人的
+
+mouthwatering (making you want to eat it)
+令人垂涎的
 
 # penculikan
 
