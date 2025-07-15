@@ -1,7 +1,7 @@
 **统计信息：**
 
-- 总词汇数量：1594 个
-- 提取时间：2025年07月14日
+- 总词汇数量：1602 个
+- 提取时间：2025年07月16日
 
 | 印尼语 | 中文翻译 |
 |--------|----------|
@@ -247,7 +247,6 @@
 | birokrat | 官僚，官员 |
 | bobot | 重量，体重；重要性，价值；负担，重担 |
 | bocoran | 提示，暗示；泄漏，泄密；披露，揭露 |
-| branded | 有品牌的；贴有标签的，带品牌标识的 |
 | bruto | 总的，毛的 |
 | buas | 野生的，野性的；凶猛的，残暴的 |
 | buaya | 鳄鱼；骗子，欺骗者 |
@@ -588,6 +587,7 @@
 | kedaruratan | 紧急情况 |
 | kedelai | 大豆，黄豆 |
 | kediaman | 住所，居住地；平静，安宁 |
+| kegentingan | 紧急情况，危急；危机，紧要关头 |
 | keguyuban | 团结，和睦；社区精神，集体感 |
 | kehadiran | 出席，存在；出席人数；到场；出现，露面；参加 |
 | kehutanan | 林业；森林管理 |
@@ -675,6 +675,7 @@
 | ketertiban | 有序，整齐；纪律，规矩；秩序，条理 |
 | ketertinggalan | 落后，滞后，迟缓 |
 | ketertutupan | 封闭性，关闭状态 |
+| ketetapan | 决定；确定；法令 |
 | ketik | 打字，输入；键入，录入 |
 | ketimbang | 而不是，比起；代替 |
 | ketinggalan | 落后；错过；过时 |
@@ -693,6 +694,7 @@
 | kolesterol | 胆固醇 |
 | komodo | 科莫多龙，科莫多巨蜥 |
 | kompak | 紧凑的，小巧的；团结的，一致的；密集的，稠密的 |
+| kompensasi | 补偿，赔偿，报酬 |
 | komponen | 组件，部件，组成部分；元素，成分；部分，零件 |
 | kompor | 炉子；炊具；炉灶，火炉 |
 | komunal | 公共的，共有的，社区的 |
@@ -833,7 +835,7 @@
 | membentuk | 形成；塑造；建立 |
 | memberangkatkan | 派遣，发送；送行，送出；部署，调动 |
 | memberdayakan | 赋权，授权；使能够，使有能力 |
-| membereskan | 整理，收拾；解决 |
+| membereskan | 整理，收拾；解决，处理；澄清，弄清楚 |
 | memberhentikan | 停止，终止；结束；解雇，开除 |
 | memberlakukan | 实施，执行；实行，推行；应用，运用 |
 | membiarkan | 让，允许；放任，不干涉；忽视，不理会 |
@@ -846,6 +848,7 @@
 | mementingkan | 优先考虑，重视；强调，注重 |
 | memenuhi | 履行，实现，满足；符合；填满，装满 |
 | memeriksa | 检查；核对；视察 |
+| memerintahkan | 命令，指示；指挥；吩咐 |
 | memerlukan | 需要，要求；使成为必要；需求 |
 | memicu | 触发；引发；激发 |
 | memilah | 分类，整理；分开，分离 |
@@ -878,7 +881,7 @@
 | mendaur | 回收，循环利用；再加工，再处理 |
 | mendedikasikan | 奉献，献身；专注于，献给 |
 | mendefinisikan | 定义，解释 |
-| mendesak | 紧急的，迫切的；紧迫的，急迫的；坚持的，强烈要求的 |
+| mendesak | 催促，敦促；紧急的，迫切的；逼迫，压迫；紧迫的，急迫的；坚持的，强烈要求的 |
 | mendidihkan | 煮沸，烧开，使沸腾 |
 | mendominasi | 支配，主导，占主导地位；占优势，占上风 |
 | mendongkrak | 提升，提高；抬高，顶起，激增；增加；刺激，促进 |
@@ -891,6 +894,7 @@
 | menentukan | 决定，确定；界定 |
 | menerangkan | 解释，说明；澄清；照亮 |
 | menerapkan | 应用，实施，运用；执行，实行，实现；强制执行；贯彻 |
+| menerbitkan | 出版，发表，发布；发行，颁发；发出，散发 |
 | menerjang | 冲向，猛冲；攻击 |
 | menetap | 定居；居住；停留 |
 | menetapkan | 决定，确定；设定，制定；规定，明确要求；指定，分配；建立，确立；任命 |
@@ -921,6 +925,7 @@
 | mengesampingkan | 忽视，置之不理；搁置，放在一边 |
 | menggambarkan | 描述，叙述；说明，举例说明；描绘，描写；形容；举例；表现 |
 | menggendong | 背，抱；怀抱 |
+| menggiurkan | 诱人的，吸引人的；令人垂涎的 |
 | mengguncang | 摇动；摇晃 |
 | menggunung | 堆积如山，堆成山；增长，增加 |
 | menghabiskan | 花费，消耗；用完，结束 |
@@ -1078,6 +1083,7 @@
 | pasang | 安装；潮汐；一对，成对；配对 |
 | pasar | 市场 |
 | patut | 合适的，适当的；值得，应得；体面的，得体的；恰当的，适合的 |
+| pedoman | 指导方针，准则；手册，指南；参考，依据 |
 | peduli | 关心，在意；涉及，关系到；关注，注意 |
 | pejabat | 官员；办公室；公务员；职员；公职人员 |
 | pekat | 浓稠的，厚的；密集的，浓密的；强烈的，深浓的 |
@@ -1130,6 +1136,7 @@
 | penerbitan | 出版，发表；发行，发布；出版业，出版活动 |
 | penerimaan | 接受，承认，采纳；接收，接待，招待 |
 | penerus | 继承人，接班人；继承者 |
+| pengabdian | 奉献，忠诚；服务，效劳 |
 | pengaduan | 投诉，抱怨；报告；申诉，不满 |
 | pengakuan | 承认，认可；供认；确认，答谢；忏悔，坦白 |
 | pengalaman | 经验，经历 |
@@ -1229,7 +1236,7 @@
 | perut | 胃，肚子；腹部 |
 | perwakilan | 代表，代理；代表团成员 |
 | pesan | 信息，消息；订购，点餐；预订，预约；订单；建议，忠告 |
-| pesangon | 遣散费，解雇补偿金；终止雇佣补偿；裁员补偿金 |
+| pesangon | 遣散费，解雇补偿金；终止雇佣补偿；裁员补偿金；离职补偿金 |
 | pesepeda | 骑自行车的人，骑行者 |
 | pesisir | 海岸，海滨，沿海；岸边，滨，岸 |
 | pestisida | 杀虫剂，农药 |
@@ -1279,7 +1286,7 @@
 | pusat | 中心，中央；枢纽；核心，中心部分 |
 | pusing | 头晕，晕眩；困惑，迷惑 |
 | putar | 旋转，转动；转弯，转向；播放，运转 |
-| putusan | 决定；判决；命令，指示；指挥；吩咐 |
+| putusan | 决定；判决 |
 | rahasia | 秘密；机密；谜 |
 | rakyat | 人民，民众；公民，国民 |
 | ramadan | 斋月 |
@@ -1296,6 +1303,7 @@
 | rebusan | 煮的食物，煮菜，煮制食品 |
 | reduksional | 减少的，缩减的；递减的，降低的 |
 | reformasi | 改革，改良；改造，革新；转变，变革 |
+| regulasi | 法规，规章，规定；调控，管理 |
 | rekam | 记录；捕捉 |
 | rekor | 记录，最佳成绩；成就，成绩；文档 |
 | rekreasi | 娱乐，消遣，休闲活动；短途游玩，郊游 |

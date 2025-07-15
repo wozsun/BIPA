@@ -1,9 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+词汇提取工具
+
+用法：
+1. 导出所有BIPA3词汇文件：
+   python3 extract_vocabulary.py
+
+2. 导出指定文件的词汇：
+   python3 extract_vocabulary.py "BIPA/BIPA3/1.Simak/Kosakata/某个文件.md"
+   或使用绝对路径：
+   python3 extract_vocabulary.py "/完整路径/某个文件.md"
+
+示例：
+   python3 extract_vocabulary.py "BIPA/BIPA3/1.Simak/Kosakata/U1.md"
+"""
+
 import os
 import re
 import glob
+import sys
 from collections import defaultdict
 from datetime import datetime
 
@@ -179,12 +196,91 @@ def merge_translations(translation_groups_list):
     # 使用中文分号连接不同的组
     return '；'.join(processed_groups)
 
+def export_single_file_vocabulary(file_path):
+    """导出单个文件的词汇"""
+    if not os.path.exists(file_path):
+        print(f"文件不存在: {file_path}")
+        return
+
+    print(f"处理文件: {file_path}")
+    vocab = extract_vocabulary_from_file(file_path)
+
+    if not vocab:
+        print("文件中没有找到词汇")
+        return
+
+    print(f"从文件中提取到 {len(vocab)} 个印尼语单词")
+
+    # 生成markdown表格
+    file_name = os.path.splitext(os.path.basename(file_path))[0]
+    markdown_content = f"""**文件词汇统计：**
+
+- 源文件：{os.path.basename(file_path)}
+- 词汇数量：{len(vocab)} 个
+- 提取时间：{datetime.now().strftime('%Y年%m月%d日')}
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+"""
+
+    # 按字母顺序排序
+    for word in sorted(vocab.keys()):
+        translations = merge_translations([vocab[word]])
+        markdown_content += f"| {word} | {translations} |\n"
+
+    # 保存到同目录下，文件名加上_vocabulary后缀
+    output_path = os.path.join(os.path.dirname(file_path), f"{file_name}_vocabulary.md")
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(markdown_content)
+
+    print(f"单文件词汇表已保存到: {output_path}")
+    print(f"共包含 {len(vocab)} 个单词")
+
+    return output_path
+
 def main():
-    # 查找所有BIPA3下的词汇文件
+    # 检查帮助参数
+    if len(sys.argv) > 1 and sys.argv[1] in ['-h', '--help', 'help']:
+        print("""
+词汇提取工具使用说明：
+
+1. 导出所有BIPA3词汇文件：
+   python3 extract_vocabulary.py
+
+2. 导出指定文件的词汇：
+   python3 extract_vocabulary.py "文件路径/文件名.md"
+
+示例：
+   python3 extract_vocabulary.py "BIPA/BIPA2/3.Baca/Kosakata/U1.md"
+
+输出：
+- 单文件导出：在源文件同目录下生成 "文件名_vocabulary.md"
+- 全部文件导出：在BIPA3目录下生成 "Kosakata.md"
+        """)
+        return
+
+    # 检查命令行参数
+    if len(sys.argv) > 1:
+        # 如果提供了文件路径参数，导出单个文件
+        file_path = sys.argv[1]
+        if not os.path.isabs(file_path):
+            # 如果是相对路径，转换为绝对路径
+            base_path = "/Users/wozsun/Library/Mobile Documents/iCloud~md~obsidian/Documents/Docs"
+            file_path = os.path.join(base_path, file_path)
+
+        export_single_file_vocabulary(file_path)
+        return
+
+    # 默认行为：查找所有BIPA3下的词汇文件
     base_path = "/Users/wozsun/Library/Mobile Documents/iCloud~md~obsidian/Documents/Docs/BIPA/BIPA3"
     vocab_files = glob.glob(os.path.join(base_path, "**/Kosakata/*.md"), recursive=True)
 
     print(f"找到 {len(vocab_files)} 个词汇文件")
+
+    if not vocab_files:
+        print("没有找到任何词汇文件！")
+        print(f"搜索路径: {base_path}")
+        return
 
     # 合并所有词汇
     all_vocabulary = defaultdict(list)
