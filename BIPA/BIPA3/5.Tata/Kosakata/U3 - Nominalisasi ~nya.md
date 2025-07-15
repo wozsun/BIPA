@@ -56,7 +56,7 @@ harm (to cause damage or injury)
 伤害，损害，危害
 
 disadvantage (to put in an unfavorable position)
-使处于不利地位，损害利益，不利
+使处于不利地位
 
 # swasta
 

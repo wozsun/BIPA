@@ -8,7 +8,7 @@ to harm (to cause damage or injury)
 伤害，损害
 
 to disadvantage (to put in an unfavorable position)
-使处于不利，使受损
+使处于不利地位，使受损
 
 to be detrimental (to have a negative effect)
 有害，造成不良影响

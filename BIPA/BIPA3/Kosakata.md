@@ -1001,7 +1001,7 @@
 | merosot | 下降，减少，衰退；恶化，退化，衰落 |
 | mertua | 岳父母，公婆 |
 | merugi | 遭受损失，亏损；亏本，赔钱 |
-| merugikan | 伤害，损害，危害；使处于不利地位，损害利益，不利；使处于不利，使受损；有害，造成不良影响；造成损失，导致亏损；损坏，破坏 |
+| merugikan | 伤害，损害，危害；使处于不利地位；使受损；有害，造成不良影响；造成损失，导致亏损；损坏，破坏；不利的 |
 | merujuk | 参考；查阅，咨询 |
 | merupakan | 构成；是 |
 | mesra | 亲密的；温柔的，深情的 |
@@ -1197,7 +1197,7 @@
 | perburuan | 狩猎；追逐；搜寻 |
 | peredaran | 流通，循环；分发，分配；流转，传递 |
 | perekonomian | 经济，经济体制；经济体系 |
-| peresmian | inauguration (the formal admission of someone to office or the opening of a building or event)就职典礼，启用仪式；正式化；就职典礼，就任；开幕，启用；落成典礼 |
+| peresmian | 就职典礼，启用仪式；正式化；就任；开幕，启用；落成典礼 |
 | pergaulan | 交往，社交；交际圈，往来 |
 | pergerakan | 运动；移动；活动 |
 | periksa | 检查；核对；视察；审查，检验 |
