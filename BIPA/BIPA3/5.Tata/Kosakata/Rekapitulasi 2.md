@@ -2,6 +2,31 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| aksi | 示威；行动；行为 |
+| beranggapan | 假设；认为；考虑 |
+| berpenumpang | 载有乘客；有乘客 |
+| hancur | 毁坏；粉碎；崩溃 |
+| kabur | 逃跑；模糊；褪色 |
+| kecanduan | 上瘾；成瘾 |
+| kementerian | 部（政府部门）；政府部门 |
+| kompor | 炉子；炊具 |
+| konjungsi | 连词 |
+| konsumsi | 消费；摄入 |
+| laboratorium | 实验室 |
+| melanda | 袭击；影响 |
+| mengolah | 加工；管理；耕作；烹饪 |
+| meresmikan | 正式启动；主持（仪式）；使合法化 |
+| merugikan | 伤害，损害；使处于不利地位，使受损；有害，造成不良影响；造成损失，导致亏损 |
+| motivator | 激励者；鼓舞者 |
+| preposisi | 介词 |
+| tercemar | 被污染；受污染 |
+
+---
+
 # merugikan
 
 to harm (to cause damage or injury)

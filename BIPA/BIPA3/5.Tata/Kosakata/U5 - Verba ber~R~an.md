@@ -2,6 +2,47 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| anjing | 狗；母狗，贬义词（骂人） |
+| berdiri | 建立，创立；站立 |
+| berlari-larian | 跑来跑去 |
+| berlompat-lompatan | 跳来跳去 |
+| bermaaf-maafan | 互相道歉和原谅 |
+| berpandang-pandangan | 互相对视 |
+| berpasang-pasangan | 成对，成双；配对，结伴 |
+| berpegang-pegangan | 互相抓住 |
+| berpeluk-pelukan | 互相拥抱 |
+| bersalam-salaman | 互相握手 |
+| bertabrak-tabrakan | 相撞，碰撞；互相撞击 |
+| bertahan | 抵抗，坚持；生存，存活 |
+| beterbang-terbangan | 飞来飞去 |
+| hancur | 破坏的，毁坏的；粉碎的；毁灭的 |
+| hebat | 了不起的，极好的；棒极了的，令人敬畏的；强大的 |
+| kedai | 商店，小店；咖啡馆，小餐馆 |
+| kupu-kupu | 蝴蝶 |
+| lalat | 苍蝇 |
+| lapangan | 广场；田地，场地；竞技场 |
+| mengunjungi | 访问，拜访 |
+| menjamur | 迅速增长，激增 |
+| merayakan | 庆祝，庆贺 |
+| mesra | 亲密的；温柔的，深情的 |
+| mudik | 回乡，返乡；大批迁移，返乡潮 |
+| pasang | 安装；潮汐；一对，成对 |
+| peliharaan | 宠物；饲养，照料 |
+| rekreasi | 娱乐，消遣，休闲活动；短途游玩，郊游 |
+| rindu | 思念，渴望；想念 |
+| selamat | 安全，平安；祝贺，恭喜；有福的，受祝福的 |
+| tebak | 猜测；预测 |
+| tembakan | 射击，开枪；枪声，枪击 |
+| terbadu | 混合的，融合的；联合的，合并的 |
+| trampolin | 蹦床 |
+| umat | 信徒，教徒；社区，群体；人民，民众 |
+
+---
+
 # berpeluk-pelukan
 
 hugging each other (embracing one another as a sign of affection or comfort)

@@ -2,19 +2,38 @@
 # -*- coding: utf-8 -*-
 
 """
-词汇提取工具
+BIPA印尼语词汇提取工具
+
+功能说明：
+- 从Markdown格式的词汇文件中提取印尼语单词及其中文翻译
+- 支持按英文定义分组的多义词处理
+- 自动去重同义词，智能处理"的"字结尾的词汇
+- 支持单文件导出或批量处理所有BIPA3词汇文件
+- 自动检测标记为"Completed: true"的文件并在原文件中插入词汇表
 
 用法：
-1. 导出所有BIPA3词汇文件：
+1. 批量处理所有BIPA3词汇文件：
    python3 extract_vocabulary.py
 
-2. 导出指定文件的词汇：
-   python3 extract_vocabulary.py "BIPA/BIPA3/1.Simak/Kosakata/某个文件.md"
-   或使用绝对路径：
-   python3 extract_vocabulary.py "/完整路径/某个文件.md"
+2. 处理指定的单个词汇文件：
+   python3 extract_vocabulary.py "相对路径/文件名.md"
+   python3 extract_vocabulary.py "/绝对路径/文件名.md"
+
+3. 显示帮助信息：
+   python3 extract_vocabulary.py --help
 
 示例：
    python3 extract_vocabulary.py "BIPA/BIPA3/1.Simak/Kosakata/U1.md"
+
+输出格式：
+- 单文件：直接在原文件中插入/更新词汇表
+- 批量处理：生成"Kosakata.md"到BIPA3目录
+- 自动嵌入：对于标记完成的文件，直接在原文件中添加词汇表
+
+文件格式要求：
+- 词汇文件需使用"# 单词名"作为词条分隔
+- 支持YAML front matter格式的文件头
+- 中文翻译支持多行，按英文定义自动分组
 """
 
 import os
@@ -25,7 +44,20 @@ from collections import defaultdict
 from datetime import datetime
 
 def extract_chinese_translations(text):
-    """从文本中提取中文翻译，按英文定义分组"""
+    """
+    从文本中提取中文翻译，按英文定义分组
+
+    参数:
+        text (str): 包含中英文混合内容的文本
+
+    返回:
+        list: 翻译组列表，每个组包含同一英文定义下的所有中文翻译
+
+    处理逻辑:
+        - 英文行作为分组标志，中文行为翻译内容
+        - 支持中文逗号分隔的同义词
+        - 智能处理括号内容，避免错误分割
+    """
     translation_groups = []  # 每个元素是一个词义组（对应一个英文定义）
     lines = text.split('\n')
     current_group_translations = []
@@ -80,8 +112,121 @@ def extract_chinese_translations(text):
 
     return translation_groups
 
+def check_completed_status(file_path):
+    """
+    检查词汇文件是否标记为已完成状态
+
+    参数:
+        file_path (str): 词汇文件的绝对路径
+
+    返回:
+        bool: 如果文件包含"Completed: true"标记则返回True，否则返回False
+
+    检查规则:
+        - 文件必须以YAML front matter开头（---开始）
+        - 在YAML部分中查找"Completed: true"字符串
+        - 文件读取失败或格式不符合要求时返回False
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # 检查文件开头是否有YAML front matter
+        if content.startswith('---\n'):
+            # 找到第二个---的位置
+            end_pos = content.find('\n---\n', 4)
+            if end_pos != -1:
+                yaml_content = content[4:end_pos]
+                # 检查是否包含Completed: true
+                return 'Completed: true' in yaml_content
+    except:
+        pass
+
+    return False
+
+def add_vocabulary_to_file(file_path, vocabulary):
+    """
+    将生成的词汇表直接插入到原词汇文件中
+
+    参数:
+        file_path (str): 目标文件的绝对路径
+        vocabulary (dict): 词汇字典，键为印尼语单词，值为翻译组列表
+
+    功能说明:
+        - 在YAML front matter之后插入词汇表
+        - 如果文件已存在词汇表，则替换为新版本
+        - 词汇表使用加粗标题和Markdown表格格式
+        - 词汇按字母顺序排序
+        - 自动处理文件编码和错误情况
+    """
+    if not vocabulary:
+        return
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            original_content = f.read()
+
+        # 生成词汇表内容
+        vocab_content = "\n**词汇表**\n\n| 印尼语 | 中文翻译 |\n|--------|----------|\n"
+
+        # 按字母顺序排序
+        for word in sorted(vocabulary.keys()):
+            translations = merge_translations([vocabulary[word]])
+            vocab_content += f"| {word} | {translations} |\n"
+
+        vocab_content += "\n---\n"
+
+        # 找到YAML front matter的结束位置
+        if original_content.startswith('---\n'):
+            end_pos = original_content.find('\n---\n', 4)
+            if end_pos != -1:
+                # 在YAML front matter之后插入词汇表
+                yaml_part = original_content[:end_pos + 5]  # 包含结束的---\n
+                rest_content = original_content[end_pos + 5:]
+
+                # 检查是否已经存在词汇表，如果存在则替换
+                if "**词汇表**" in rest_content:
+                    # 找到词汇表的结束位置（下一个---或文件末尾）
+                    vocab_start = rest_content.find("**词汇表**")
+                    vocab_end = rest_content.find("\n---\n", vocab_start)
+                    if vocab_end == -1:
+                        # 如果找不到结束标记，查找下一个#标题
+                        vocab_end = rest_content.find("\n# ", vocab_start)
+                        if vocab_end == -1:
+                            vocab_end = len(rest_content)
+                    else:
+                        vocab_end += 5  # 包含\n---\n
+
+                    # 替换现有词汇表
+                    new_content = yaml_part + vocab_content + rest_content[vocab_end:]
+                else:
+                    # 添加新词汇表
+                    new_content = yaml_part + vocab_content + rest_content
+
+                # 写回文件
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(new_content)
+
+                print(f"词汇表已添加到文件: {file_path}")
+    except Exception as e:
+        print(f"添加词汇表到文件时出错: {e}")
+
 def extract_vocabulary_from_file(file_path):
-    """从单个文件中提取词汇"""
+    """
+    从单个Markdown词汇文件中提取所有词汇条目
+
+    参数:
+        file_path (str): 词汇文件的绝对路径
+
+    返回:
+        dict: 词汇字典，键为印尼语单词，值为该单词的所有翻译组
+
+    文件格式要求:
+        - 使用"# 单词名"格式标记每个词条
+        - 词条内容包含中英文混合的释义
+        - 支持多行翻译和英文定义分组
+        - 自动忽略YAML front matter和无效内容
+    """
     vocabulary = {}
 
     try:
@@ -116,7 +261,25 @@ def extract_vocabulary_from_file(file_path):
     return vocabulary
 
 def merge_translations(translation_groups_list):
-    """合并翻译组，组内去重用中文逗号分隔，组间用中文分号分隔，全局去重重复翻译"""
+    """
+    智能合并多个来源的翻译组，去除重复并优化格式
+
+    参数:
+        translation_groups_list (list): 翻译组列表的列表
+
+    返回:
+        str: 合并后的翻译字符串，组内用逗号分隔，组间用分号分隔
+
+    处理规则:
+        1. 全局去重：移除完全重复的翻译
+        2. "的"字优化：保留不带"的"的版本，去除重复的带"的"版本
+        3. 保持分组结构：不同英文定义的翻译用分号分隔
+        4. 组内同义词：用中文逗号连接
+
+    示例:
+        输入: [["好的", "良好"], ["好", "不错的"]]
+        输出: "好，良好；不错"
+    """
     if not translation_groups_list:
         return ""
 
@@ -197,65 +360,91 @@ def merge_translations(translation_groups_list):
     return '；'.join(processed_groups)
 
 def export_single_file_vocabulary(file_path):
-    """导出单个文件的词汇"""
+    """
+    处理单个词汇文件，直接在原文件中插入词汇表
+
+    参数:
+        file_path (str): 源词汇文件的绝对路径
+
+    返回:
+        bool: 处理成功返回True，失败返回False
+
+    处理逻辑:
+        - 提取文件中的所有词汇
+        - 直接在原文件中插入词汇表（无论是否有Completed标记）
+        - 如果已存在词汇表，则更新为最新版本
+    """
     if not os.path.exists(file_path):
         print(f"文件不存在: {file_path}")
-        return
+        return False
 
     print(f"处理文件: {file_path}")
     vocab = extract_vocabulary_from_file(file_path)
 
     if not vocab:
         print("文件中没有找到词汇")
-        return
+        return False
 
     print(f"从文件中提取到 {len(vocab)} 个印尼语单词")
 
-    # 生成markdown表格
-    file_name = os.path.splitext(os.path.basename(file_path))[0]
-    markdown_content = f"""**文件词汇统计：**
+    # 将词汇表插入到原文件中
+    print("正在将词汇表插入到原文件中...")
+    add_vocabulary_to_file(file_path, vocab)
 
-- 源文件：{os.path.basename(file_path)}
-- 词汇数量：{len(vocab)} 个
-- 提取时间：{datetime.now().strftime('%Y年%m月%d日')}
-
-| 印尼语 | 中文翻译 |
-|--------|----------|
-"""
-
-    # 按字母顺序排序
-    for word in sorted(vocab.keys()):
-        translations = merge_translations([vocab[word]])
-        markdown_content += f"| {word} | {translations} |\n"
-
-    # 保存到同目录下，文件名加上_vocabulary后缀
-    output_path = os.path.join(os.path.dirname(file_path), f"{file_name}_vocabulary.md")
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(markdown_content)
-
-    print(f"单文件词汇表已保存到: {output_path}")
-    print(f"共包含 {len(vocab)} 个单词")
-
-    return output_path
+    print(f"词汇表处理完成，共包含 {len(vocab)} 个单词")
+    return True
 
 def main():
     # 检查帮助参数
     if len(sys.argv) > 1 and sys.argv[1] in ['-h', '--help', 'help']:
         print("""
-词汇提取工具使用说明：
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              BIPA印尼语词汇提取工具 v2.0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. 导出所有BIPA3词汇文件：
+📚 功能特性：
+   • 自动提取Markdown词汇文件中的印尼语-中文词汇对
+   • 智能处理多义词和同义词去重
+   • 支持按英文定义分组的复杂词汇结构
+   • 自动检测完成状态并嵌入词汇表到原文件
+
+🚀 使用方法：
+
+1️⃣  批量处理所有BIPA3词汇文件：
    python3 extract_vocabulary.py
 
-2. 导出指定文件的词汇：
-   python3 extract_vocabulary.py "文件路径/文件名.md"
+   • 扫描BIPA3目录下所有词汇文件
+   • 生成汇总词汇表：BIPA3/Kosakata.md
+   • 自动为标记有"Completed: true"的文件嵌入词汇表
 
-示例：
+2️⃣  处理指定单个文件：
+   python3 extract_vocabulary.py "相对路径/文件名.md"
+   python3 extract_vocabulary.py "/绝对路径/文件名.md"
+
+   • 直接在原文件中插入词汇表（无论是否有Completed标记）
+   • 如果文件已有词汇表，则更新为最新版本
+
+📋 使用示例：
+   python3 extract_vocabulary.py "BIPA/BIPA3/1.Simak/Kosakata/U1.md"
    python3 extract_vocabulary.py "BIPA/BIPA2/3.Baca/Kosakata/U1.md"
 
-输出：
-- 单文件导出：在源文件同目录下生成 "文件名_vocabulary.md"
-- 全部文件导出：在BIPA3目录下生成 "Kosakata.md"
+📄 文件格式要求：
+   • 词汇文件使用"# 单词名"标记词条
+   • 支持YAML front matter（可选）
+   • 自动嵌入功能需要"Completed: true"标记
+
+📊 输出格式：
+   • 单文件：直接在原文件中插入/更新词汇表
+   • 批量处理：BIPA3目录下的"Kosakata.md"
+   • 自动嵌入：仅对标记为"Completed: true"的文件自动嵌入
+
+⚡ 智能特性：
+   • 自动去重同义词和"的"字结尾重复
+   • 保持英文定义分组结构
+   • 按字母顺序排序输出
+   • 错误处理和进度提示
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
         """)
         return
 
@@ -284,13 +473,24 @@ def main():
 
     # 合并所有词汇
     all_vocabulary = defaultdict(list)
+    completed_files = []  # 记录标记为完成的文件
 
     for file_path in vocab_files:
         print(f"处理文件: {os.path.basename(file_path)}")
         vocab = extract_vocabulary_from_file(file_path)
 
+        # 检查文件是否标记为完成
+        if check_completed_status(file_path):
+            completed_files.append((file_path, vocab))
+            print(f"  - 文件标记为已完成，将添加词汇表到文件内")
+
         for word, translation_groups in vocab.items():
             all_vocabulary[word].extend(translation_groups)
+
+    # 为标记为完成的文件添加词汇表
+    for file_path, vocab in completed_files:
+        if vocab:
+            add_vocabulary_to_file(file_path, vocab)
 
     print(f"总共提取到 {len(all_vocabulary)} 个印尼语单词")
 
@@ -299,6 +499,7 @@ def main():
 
 - 总词汇数量：{len(all_vocabulary)} 个
 - 提取时间：{datetime.now().strftime('%Y年%m月%d日')}
+- 自动更新文件数：{len(completed_files)} 个
 
 | 印尼语 | 中文翻译 |
 |--------|----------|
@@ -316,6 +517,8 @@ def main():
 
     print(f"词汇表已保存到: {output_path}")
     print(f"共包含 {len(all_vocabulary)} 个单词")
+    if completed_files:
+        print(f"已为 {len(completed_files)} 个标记为完成的文件添加了词汇表")
 
 if __name__ == "__main__":
     main()

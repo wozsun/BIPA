@@ -2,6 +2,54 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| akun | 账户；记录 |
+| alur | 流动，进程；情节，剧情；路线 |
+| berkas | 文件；文档 |
+| bikin | 制作；引起 |
+| birokrat | 官僚，官员 |
+| bukti | 证明；证据 |
+| disambut | 被欢迎，被迎接，被接待；被接受，被接收，被收到 |
+| disinfektan | 消毒剂 |
+| filosofi | 哲学，哲理 |
+| haluan | 方向，方位；航向，路线；方针，政策；船头，船 |
+| hendak | 想要，希望；打算，意图 |
+| ikonik | 标志性的，象征性的 |
+| jari | 手指；脚趾 |
+| kategori | 类别，种类，分类 |
+| kecewa | 失望 |
+| kuota | 配额 |
+| loket | 柜台；售票窗口 |
+| melibatkan | 涉及，包含 |
+| memasuki | 进入，加入；接近，靠近 |
+| memenuhi | 履行，实现，满足；符合；填满，装满 |
+| mempertimbangkan | 考虑 |
+| mendukung | 支持 |
+| mengajukan | 提出；提交 |
+| menyebarkan | 传播，散布，分布；分发，分配，分散 |
+| menyusun | 排列，安排，整理；组织，编排 |
+| opsi | 选项；选择 |
+| optimal | 最佳的，最优的，最理想的 |
+| pembatasan | 限制 |
+| pemohon | 申请人；请愿者 |
+| pencetakan | 印刷，打印；生产，制作；出版，发行 |
+| penyemprotan | 喷洒 |
+| pesepeda | 骑自行车的人，骑行者 |
+| putar | 旋转，转动；转弯，转向；播放，运转 |
+| resmi | 正式的；仪式性的 |
+| rutin | 常规，例行 |
+| sekaligus | 同时，一次性，一起；突然，一下子 |
+| sidik | 指纹；痕迹 |
+| signifikan | 显著的，重要的，有意义的 |
+| tahapan | 阶段；步骤 |
+| terusan | 延续，继续；运河，水道；海峡 |
+| tunjuk | 指向；任命；表明 |
+
+---
+
 # filosofi
 
 philosophy (the study of the fundamental nature of knowledge, reality, and existence)

@@ -2,6 +2,79 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| akut | 急性的，剧烈的；严重的，紧急的 |
+| aliran | 小溪，溪流；流动，流派；潮流，趋势 |
+| aneka | 各种，各类；多样的，混合的 |
+| asap | 烟，烟雾；烟气，废气 |
+| berdekatan | 靠近，邻近；亲密的，密切的 |
+| berhadapan | 面对面，相对；对峙，对抗 |
+| berjatuhan | 接连掉落，纷纷倒下；连续掉落 |
+| berjauhan | 距离远，分开；疏远，远离 |
+| berkenalan | 认识，结识；介绍，引见 |
+| berlarian | 奔跑；疾跑，奔窜 |
+| berlompatan | 跳跃；蹦跳 |
+| bermaafan | 互相原谅，互相道歉 |
+| bermekaran | 开花，绽放；繁荣，兴旺 |
+| berpandangan | 持有观点；互相对视 |
+| berpegangan | 抓住，握住；依靠，依赖 |
+| berpelukan | 拥抱 |
+| bersalaman | 握手 |
+| bersebelahan | 相邻，毗邻；邻近，邻接 |
+| berseberangan | 相对；意见相左 |
+| berserakan | 散落，零乱；分散，散布 |
+| bersisian | 并排，挨着；相邻，毗连 |
+| bertabrakan | 碰撞，冲突；抵触 |
+| bertengkar | 争吵，争执；打架，争斗 |
+| beterbangan | 飞行，飞；飞来飞去 |
+| bunga | 花；利息 |
+| diduga | 被怀疑，被推测；所谓的，疑似 |
+| dilanda | 遭受，受到（通常指不好的事情）；击中，冲击 |
+| diributkan | 被争论，被讨论；被大肆争吵，被纷争 |
+| diselimuti | 被覆盖，被包裹；笼罩，隐藏 |
+| hutan | 森林，林地 |
+| infeksi | 感染，传染 |
+| jarak | 距离，间隔；间距，空隙 |
+| karhutla | 森林火灾；野火，野外火灾 |
+| kawasan | 区域，地带；范围 |
+| kebakaran | 火灾，着火；燃烧，火焰 |
+| lahan | 土地，地块；地皮，地段 |
+| langkah | 步伐，脚步；措施，步骤 |
+| lereng | 斜坡，坡面 |
+| lindung | 保护，防护；遮蔽，掩护 |
+| masing-masing | 各自，每个；分别，依次 |
+| melanda | 袭击，侵袭；冲击，打击 |
+| melarikan | 逃跑，逃离；绑架，诱拐 |
+| mempertanggungjawabkan | 承担责任，负有责任；证明合理，辩解 |
+| memprihatinkan | 令人担忧的，令人忧虑的；令人震惊的，令人恐慌的 |
+| mengatasi | 克服，解决；处理，应对 |
+| menyusul | 跟随，追赶；赶上 |
+| musim | 季节；时期，阶段 |
+| pacar | 男朋友/女朋友；暗恋对象；指甲花（用于染色的植物，常用于染手） |
+| pandang | 视线，观看；看待，注视 |
+| pembakaran | 燃烧，焚烧；焚化，火化 |
+| pendamping | 伴侣，陪伴者；助手，助理；伙伴，搭档 |
+| penghuni | 居民，住户；占用者，居住者 |
+| perilaku | 行为，举止；品行，表现 |
+| pernapasan | 呼吸；呼吸作用 |
+| relatif | 相对的；亲戚 |
+| sahabat | 朋友，密友 |
+| saluran | 通道，渠道；管道，输送管线 |
+| sekian | 那么多；就这些，仅此而已 |
+| selidik | 调查，侦查；探查，深入研究 |
+| semi | 前缀，表示部分的、不完全的；半，部分地 |
+| sengaja | 故意的，有意的；蓄意的，刻意的 |
+| sidik | 指纹，印记；痕迹，踪迹 |
+| susul-menyusul | 你追我赶，轮流追逐 |
+| tanggung | 负责任的，有责任感的；应承担责任的，负有义务的 |
+| tebal | 厚的，浓密的；密集的，浓厚的 |
+| terserang | 被攻击，被袭击；遭受，受到冲击 |
+
+---
+
 # berpelukan
 
 hug (to hold someone tightly in one's arms to express affection or comfort)

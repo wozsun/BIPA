@@ -2,6 +2,60 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| aneh | 奇怪的；怪异的；古怪的 |
+| berpendirian | 有原则的；坚定的，坚决的 |
+| gajah | 大象 |
+| gaji | 薪水；工资 |
+| halus | 光滑的，平滑的；柔软的，细腻的；精致的，优雅的 |
+| hewan | 动物 |
+| honor | 酬金，谢礼；荣誉，尊敬 |
+| intelijen | 情报，智力 |
+| karier | 职业，生涯 |
+| kelamin | 性别；生殖器 |
+| kendaraan | 车辆，交通工具 |
+| keterangan | 信息，资料；解释，说明；描述 |
+| kuat | 强壮的，强大的；有力的，强有力的；结实的，坚固的 |
+| linguistik | 语言学 |
+| menarik | 有趣的；吸引人的；拉，吸引 |
+| mutakhir | 现代的；最新的 |
+| pelamar | 申请人，求职者；候选人，申请者 |
+| pelengkap | 补充，补足物；补充物，增补 |
+| pemasaran | 营销，市场推广；分销，推广 |
+| penampilan | 外貌，外观；表现，表演 |
+| penciuman | 嗅觉；闻，嗅 |
+| pendapatan | 公司收益；收入 |
+| pendengaran | 听觉；听，倾听 |
+| pendidikan | 教育；教学 |
+| pendirian | 立场，态度；基础，创立 |
+| penerbangan | 航班，飞行 |
+| pengalaman | 经验，经历 |
+| pengetahuan | 知识，学问 |
+| penghasilan | 个人收入；赚取，所得 |
+| penglihatan | 视力；视觉，视野 |
+| perasaan | 感觉，感情；感受，知觉 |
+| pramugari | 空姐 |
+| predikat | 谓语；称号，头衔 |
+| punk | 朋克；小混混，流氓 |
+| rapi | 整齐；有条理的 |
+| santai | 放松的；随意的，休闲的 |
+| sarjana | 毕业生；学士 |
+| sederhana | 简单的；朴素的；谦虚的 |
+| sempit | 狭窄的；狭小的，局促的 |
+| syarat | 要求，条件；条款 |
+| tajam | 锋利的，尖锐的；敏锐的，强烈的；敏感的 |
+| teguh | 坚定的；强壮的 |
+| terang | 明亮的；清楚的，明白的；明显的，显而易见的 |
+| terbatas | 有限的，受限制的；受限的，局限的 |
+| terkemuka | 著名的，杰出的；领先的，主要的 |
+| tetap | 不变的；永久的；仍然 |
+| upah | 工资；报酬 |
+
+---
+
 # penampilan
 
 appearance (the way that someone or something looks)

@@ -2,6 +2,42 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| bela | 辩护，保卫；支持，拥护 |
+| berhasil | 成功；实现 |
+| berkeahlian | 专家的；精通的 |
+| berkebangsaan | 有国籍，祖籍 |
+| berkecepatan | 具有速度的 |
+| berkedalaman | 具有深度的 |
+| berkediaman | 居住 |
+| berkedudukan | 处于位置的；位于；担任职位的 |
+| berkeinginan | 希望，愿望，渴望（有计划的） |
+| berkekuatan | 有强大的，有力量的 |
+| berkelakuan | 有表现 |
+| berkelanjutan | 可持续的 |
+| berkemampuan | 有能力的；能够的 |
+| berkemandirian | 独立的，自治的 |
+| berkemauan | 有意愿，有决心（情感上的） |
+| berkemungkinan | 可能的；很可能的 |
+| berkepribadian | 个性，性格 |
+| berkesempatan | 有机会的 |
+| berkesinambungan | 连续的 |
+| berketerampilan | 有技能的，熟练的；经过培训的 |
+| berketinggian | 具有高度的 |
+| berkewarganegaraan | 公民身份 |
+| bertahap | 逐渐的，渐进的；分阶段的，逐步进行的；一步步的，按阶段的 |
+| deras | 猛烈的；快速的；强烈的 |
+| gagal | 失败，未成功 |
+| ganda | 双重的，双倍的；美丽，美观 |
+| kencang | 快速的；紧的；强劲的 |
+| menyebabkan | 导致；引起；触发 |
+| terendam | 淹没的；被淹的；浸没的 |
+
+---
+
 # berkepribadian
 
 personality (the combination of characteristics or qualities that form an individual's distinctive character)

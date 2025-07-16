@@ -2,6 +2,18 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| aturan | 规则，规定；条例，管理；政策，方针 |
+| ketat | 严格的；紧的，紧密的；僵硬的，死板的 |
+| memperketat | 收紧，加强 |
+| minati | 兴趣；渴望，欲望 |
+| skema | 方案，计划；图表，示意图；框架，构架 |
+
+---
+
 # memperketat
 
 tighten (to make something become tighter or more secure)

@@ -2,6 +2,26 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| beralih | 切换，转换；移动，转移；转变 |
+| demikian | 因此，如此；所以，因而；这样的 |
+| disorot | 被强调，被突显；被聚焦，被聚光灯照射；被照亮，被阐明 |
+| kecenderungan | 倾向，趋势；意向，爱好；动向 |
+| kehadiran | 存在，出席；到场；出现，露面 |
+| kejanggalan | 不规则，异常；怪事，奇怪；反常 |
+| memaparkan | 解释，说明；展示，陈述；详述，阐明 |
+| membayangkan | 想象，设想；预想，展望；描绘 |
+| mengenai | 关于，有关；涉及，针对；关系到 |
+| pesan | 信息，消息；订单，预订；建议，忠告 |
+| sekian | 如此多，这么多；就这样，就这些；足够，够了 |
+| tema | 主题，主旨；话题，题目；课题 |
+| urutan | 顺序，次序；秩序，排列；排名，等级 |
+
+---
+
 # beralih
 
 switch (to change from one thing to another)

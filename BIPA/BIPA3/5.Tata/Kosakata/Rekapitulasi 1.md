@@ -2,6 +2,35 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| ajang | 场地，舞台 |
+| aksi | 行动；行为 |
+| anjing | 狗 |
+| berkibar | 飘扬 |
+| berlari | 跑 |
+| burung | 鸟 |
+| jarak | 距离；范围 |
+| karier | 职业，事业 |
+| keras | 硬的；响亮的；严厉的；强壮的 |
+| lagu | 歌曲 |
+| meletus | 爆炸 |
+| memenangkan | 赢得 |
+| menerjang | 冲向，猛冲；攻击 |
+| menyerah | 投降；放弃 |
+| pantang | 禁忌；戒除 |
+| pejabat | 官员；办公室 |
+| penguji | 考官；测试者 |
+| penumpang | 乘客 |
+| penyelamatan | 救援；拯救 |
+| strategis | 战略性的 |
+| terperinci | 详细的 |
+| tsunami | 海啸 |
+
+---
+
 # penguji
 
 examiner (a person who assesses or evaluates someone's knowledge or skills)
