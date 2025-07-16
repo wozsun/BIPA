@@ -2,6 +2,23 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| kepemerintahan | 治理，管理，统治 |
+| kepemilikan | 所有权，拥有，占有 |
+| kepemimpinan | 领导力，领导地位，领导才能 |
+| kependidikan | 教育，教学，学术 |
+| kependudukan | 人口，居民，人口数量 |
+| kepengelolaan | 管理，经营，管控 |
+| kepengurusan | 管理，行政，经营 |
+| kepengusahaan | 创业，企业经营，企业家精神 |
+| keperawatan | 护理，看护，护理学 |
+| keperintisan | 开创，先锋，创始 |
+
+---
+
 # keperintisan
 
 pioneering (the act of being the first to explore or develop something)

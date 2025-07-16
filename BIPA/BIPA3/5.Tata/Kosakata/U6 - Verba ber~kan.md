@@ -2,6 +2,27 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| beralaskan | 基于，以...为基础；铺有，垫有 |
+| beratapkan | 有顶的，覆盖屋顶的 |
+| berdasarkan | 基于，根据 |
+| berdindingkan | 以...为墙，用...作为墙壁 |
+| bergambarkan | 描绘，描画；插图说明，图解 |
+| berhiaskan | 装饰着，点缀着 |
+| beristrikan | 以...为妻子，有...作为妻子 |
+| berlandaskan | 基于，以...为基础 |
+| bermandikan | 沐浴在，浸润于 |
+| bermodalkan | 以...为资本，以...为资金 |
+| berpayungkan | 受保护的，遮蔽的；在伞下，在保护下 |
+| berselimutkan | 覆盖着，包裹着 |
+| bersuamikan | 以...为丈夫，有...作为丈夫 |
+| bertuliskan | 刻有，写有；书写的，写着的 |
+
+---
+
 # berlandaskan
 
 based on (to be founded or grounded on something)

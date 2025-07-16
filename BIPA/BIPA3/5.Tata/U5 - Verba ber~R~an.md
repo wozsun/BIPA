@@ -16,7 +16,6 @@ banyak orang + ber~R~an + keterangan
 
 Masyarakat berpeluk-pelukan setelah selamat dari gempa.
 
-
 # banyak orang melakukan tindakan saling dalam keadaan berulang-ulang tanpa tujuan atau untuk kesenangan
 
 - **Kosakata:**

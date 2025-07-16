@@ -2,6 +2,15 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| menguji | 测试，检验；检查，审查 |
+| pranggapan | 假设，设想；先入为主的观念 |
+
+---
+
 # menguji
 
 test (to examine or evaluate something)

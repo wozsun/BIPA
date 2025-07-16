@@ -2,6 +2,18 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| diancam | 被威胁 |
+| dijerat | 被套住，被陷害 |
+| mempertegas | 强调，明确 |
+| menyela | 打断，插话；插入，插嘴 |
+| penjara | 监狱 |
+
+---
+
 # penjara
 
 prison (a building where people are kept as punishment for a crime)

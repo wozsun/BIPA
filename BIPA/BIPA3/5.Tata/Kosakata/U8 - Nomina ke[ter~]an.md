@@ -2,6 +2,27 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| keteraturan | 规律性，规则性，一致性 |
+| keterbukaan | 开放性，开放程度 |
+| ketergantungan | 依赖，依靠，上瘾 |
+| keterikatan | 纽带，约束，联系 |
+| keterkaitan | 关联性，相互关系，联系 |
+| keterkejutan | 惊讶，吃惊，震惊 |
+| keterlambatan | 延迟，迟到，迟缓 |
+| keterlibatan | 参与，卷入，牵涉 |
+| keterpaksaan | 强迫，被迫，强制 |
+| keterpojokan | 被困境，被逼入角落 |
+| keterpurukan | 衰落，崩溃，恶化 |
+| ketertarikan | 兴趣，吸引力，关注 |
+| ketertinggalan | 落后，滞后，迟缓 |
+| ketertutupan | 封闭性，关闭状态 |
+
+---
+
 # ketertutupan
 
 closedness (the state of being closed)

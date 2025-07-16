@@ -2,6 +2,22 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| abaikan | 忽视；不理会 |
+| jamin | 保证；誓言 |
+| kenang-kenangan | 纪念品；纪念物 |
+| kerahasiaan | 保密；秘密 |
+| khawatir | 担心；害怕 |
+| lesu | 疲倦；虚弱；无力 |
+| pantas | 适当的；应得的；合理的 |
+| pilar | 柱子；支柱 |
+| tantangan | 挑战；竞赛 |
+
+---
+
 # tantangan
 
 challenge (a difficult task or situation)

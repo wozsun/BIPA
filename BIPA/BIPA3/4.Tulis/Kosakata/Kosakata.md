@@ -8,8 +8,10 @@ Completed: true
 |--------|----------|
 | aturan | 规则，规定；条例，管理；政策，方针 |
 | ketat | 严格的；紧的，紧密的；僵硬的，死板的 |
+| korupsi | 腐败，贪污 |
 | memperketat | 收紧，加强 |
 | minati | 兴趣；渴望，欲望 |
+| palsu | 假的，伪造的；虚假的，不真实的 |
 | skema | 方案，计划；图表，示意图；框架，构架 |
 
 ---
@@ -59,3 +61,16 @@ tight (closely constrained or constricted)
 
 rigid (not flexible or pliant; stiff)
 僵硬的，死板的
+
+# palsu
+
+fake (not genuine, counterfeit)
+假的，伪造的
+
+false (not true)
+虚假的，不真实的
+
+# korupsi
+
+corruption (dishonest or fraudulent conduct by those in power, typically involving bribery)
+腐败，贪污

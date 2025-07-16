@@ -2,6 +2,20 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| buru | 狩猎，打猎；追捕，追赶 |
+| cenderung | 倾向，易于；倾向于，偏向 |
+| kebun | 花园，园地；种植园 |
+| kepadatan | 密度，浓度；拥挤，人口密集 |
+| menyusut | 缩小，收缩；减少，降低 |
+| orangutan | 猩猩 |
+| persegi | 正方形，平方；面积（常用于数学中的平方单位） |
+
+---
+
 # kebun
 
 garden (a piece of ground where plants are cultivated)

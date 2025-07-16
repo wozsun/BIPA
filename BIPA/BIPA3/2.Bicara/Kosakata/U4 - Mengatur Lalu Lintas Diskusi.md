@@ -2,6 +2,79 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| anoa | 侏水牛，短角水牛 |
+| badak | 犀牛 |
+| bekantan | 长鼻猴 |
+| belang | 条纹，斑纹 |
+| bergengsi | 有声望的，受尊敬的；奢华的，高品质的 |
+| berkait | 相关；关联 |
+| berkat | 祝福；恩典 |
+| bertindak | 行动，表现，起作用 |
+| biak | 繁殖，培育 |
+| bincang | 讨论，商量，谈论 |
+| buas | 野生的，野性的；凶猛的，残暴的 |
+| buaya | 鳄鱼；骗子，欺骗者 |
+| cendrawasih | 极乐鸟，天堂鸟 |
+| cula | 角，触角，号角 |
+| fauna | 动物群，动物区系 |
+| gading | 象牙 |
+| gajah | 大象 |
+| gangguan | 干扰，骚乱；混乱，紊乱 |
+| hadir | 出席，在场，到场 |
+| hadirin | 观众；与会者 |
+| hakim | 法官，审判员 |
+| harimau | 老虎 |
+| herbivora | 食草动物，草食动物 |
+| hewan | 动物 |
+| kanguru | 袋鼠 |
+| karnivora | 食肉动物 |
+| kehadiran | 存在，出席；参加 |
+| kendali | 控制，掌控；指挥，命令 |
+| kesan | 印象；效果，影响 |
+| keseimbangan | 平衡，均衡，协调 |
+| komodo | 科莫多龙，科莫多巨蜥 |
+| konservasi | 保护，保存，生态保护 |
+| manusia | 人类，人体；人，个人 |
+| memahami | 理解，明白；领会，了解 |
+| mencairkan | 融化，使融解；液化；支付，发放；溶解 |
+| mencegah | 防止，预防，阻止 |
+| mengaturkan | 表达；致辞 |
+| menyelamatkan | 拯救，救助；保护 |
+| moderator | 主持人，调解人，版主 |
+| musuh | 敌人，对手 |
+| omnivora | 杂食动物，杂食性生物 |
+| orangutan | 猩猩，红毛猩猩 |
+| otoritas | 权威，权力；管辖权，司法权 |
+| pandangan | 观点，看法；视野，视线；视角，角度 |
+| pelestarian | 保护，保存；维护，保育 |
+| pemaparan | 解释；展示，演示 |
+| pemegang | 持有人，持有者；携带者，持票人 |
+| pemimpin | 领导者，领袖，指导者 |
+| penengah | 调解人，调停者，仲裁者 |
+| pengantar | 介绍，引言；前言，序文；护送者，陪同者 |
+| perburuan | 狩猎；追逐；搜寻 |
+| primata | 灵长类动物，灵长目动物 |
+| punah | 灭绝，绝种 |
+| reptil | 爬行动物，爬虫类 |
+| seimbang | 平衡的，均衡的；公平的，公正的 |
+| suasana | 氛围，气氛；环境；情绪，心情 |
+| tanduk | 角，触角 |
+| tantangan | 挑战；反抗，挑衅 |
+| taring | 尖牙，獠牙 |
+| tarsius | 眼镜猴，跗猴 |
+| terganggu | 被打扰，受干扰，不安 |
+| terputus | 断开，中断，断裂 |
+| tumbuhan | 植物 |
+| unggas | 家禽，禽类 |
+| wakil | 代表，代理人；副手，代理 |
+| wasit | 裁判员，裁判 |
+
+---
+
 # hewan
 
 animal (a living organism that feeds on organic matter, typically having specialized sense organs and nervous system)

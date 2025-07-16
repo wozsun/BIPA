@@ -2,6 +2,18 @@
 Completed: false
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| membelajarkan | 教，教导；培训，训练 |
+| memberangkatkan | 派遣，发送；送行，送出；部署，调动 |
+| memberdayakan | 赋权，授权；使能够，使有能力 |
+| memberhentikan | 停止，终止；结束；解雇，开除 |
+| memberlakukan | 实施，执行；实行，推行；应用，运用 |
+
+---
+
 # membelajarkan
 
 teach (to instruct or educate someone)
