@@ -2,6 +2,103 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| adat | 习俗；传统 |
+| bangsa | 国家，民族；人民，族群；民族群体；种族 |
+| bercerai | 离婚；分离 |
+| berperang | 打仗，战斗 |
+| daya | 力量，能力 |
+| gaji | 薪水，工资 |
+| ganjil | 奇数，奇怪的 |
+| genap | 偶数，完整的 |
+| geografis | 地理的；空间的；区域的；地形的 |
+| gotong | 抬，搬；抬起，举起 |
+| harmonis | 和谐；平静，和平；均衡，协调；兼容，协调一致 |
+| kawasan | 地区，区域；地带；领土，领域 |
+| kelola | 管理；执行；操作，运营；处理，操控 |
+| kematian | 死亡；逝世，去世；失去，丧失；死亡率，必死性 |
+| kendaraan | 车辆，交通工具 |
+| lingkungan | 环境；社区，邻里；生态系统；背景，场景 |
+| lomba | 比赛 |
+| melaksanakan | 实施，执行；开展；履行，进行；实行 |
+| mengatasi | 克服，解决 |
+| mengeluh | 抱怨 |
+| menyegarkan | 使清新，使耳目一新 |
+| pasukan | 部队，军队 |
+| pedesaan | 乡村地区，农村 |
+| pegunungan | 山脉 |
+| pelat | 板，盘子 |
+| pelebaran | 拓宽，扩展 |
+| pemberitahuan | 通知；公告；告示 |
+| pemerintah | 政府 |
+| pencaharian | 生计；职业 |
+| pengadilan | 法院；司法机构；审判 |
+| pengendara | 驾驶员 |
+| peraturan | 规定，法规；规则，条例；政策，方针 |
+| perbaikan | 修理，改善 |
+| perbankan | 银行业，金融服务 |
+| perbedaan | 区别，差异 |
+| perbelanjaan | 购物 |
+| perbuatan | 行为，行动 |
+| perceraian | 离婚 |
+| percobaan | 实验，试验；测试；尝试，努力 |
+| perdamaian | 和平 |
+| perekonomian | 经济，经济体系；经济系统，经济制度 |
+| pergantian | 更换，交替 |
+| perhentian | 停靠点，站 |
+| perhotelan | 酒店业，服务业 |
+| perindustrian | 工业，产业；工业部门，工业领域 |
+| peringatan | 警告；纪念 |
+| peristirahatan | 休息区 |
+| perkampungan | 村庄，村落 |
+| perkantoran | 办公区 |
+| perkebunan | 种植园 |
+| perkelahian | 打斗，争斗 |
+| perkemahan | 露营地，营地 |
+| perkembangan | 发展，进展 |
+| perkiraan | 估计，预测；预报；近似值，接近 |
+| perkotaan | 城市地区 |
+| perkumpulan | 协会，团体 |
+| perladangan | 农耕，种植业 |
+| perlawanan | 抵抗，反抗；反对，对抗；斗争，奋斗 |
+| permukiman | 居住区，定居点 |
+| pernikahan | 婚姻，结婚；婚礼，结婚典礼 |
+| perpajakan | 税收，征税制度 |
+| perpanjangan | 延长，续期 |
+| perpisahan | 告别，离别 |
+| perpustakaan | 图书馆 |
+| persawahan | 稻田 |
+| pertambahan | 增加，增长 |
+| pertambangan | 采矿，矿业 |
+| pertanahan | 土地事务，土地管理；土地行政 |
+| pertanian | 农业；耕作，农耕 |
+| pertemuan | 会议，会面 |
+| pertengkaran | 争吵，争论 |
+| pertokoan | 商店区 |
+| pertolongan | 帮助，援助；协助，支援 |
+| pertukaran | 交换，交流 |
+| pertunjukan | 表演，演出；节目，秀 |
+| perubahan | 变化，改变 |
+| perumahan | 住宅区 |
+| perusahaan | 公司，企业 |
+| pesat | 迅速；快速；先进 |
+| peternakan | 牧场，养殖场 |
+| reaksi | 反应 |
+| royong | 合作；互助；协作；团队合作 |
+| sawit | 棕榈树；油棕树 |
+| suasana | 气氛；环境 |
+| tahan | 忍受；抵抗；保持；拘留 |
+| tercipta | 被创造，形成 |
+| terpencil | 偏远；孤立 |
+| tetangga | 邻居 |
+| toleransi | 宽容，容忍 |
+| tubuh | 身体；身形；尸体 |
+
+---
+
 # pertengkaran
 
 argument (a disagreement or heated discussion)

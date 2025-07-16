@@ -2,6 +2,54 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| berprofesi | 从事职业，有职业 |
+| bersifat | 具有...性质，具有...特性；属于...性质，表现为...状态 |
+| bidang | 领域，范围；平面，表面 |
+| botol | 瓶子；瓶状容器；烧瓶，小瓶 |
+| imbuhan | 附加成分，词缀 |
+| pedagang | 商人，交易者；商贩，商户；小贩，摊贩 |
+| pegolf | 高尔夫球手 |
+| pejalan | 步行者，行走的人；行人 |
+| pekerja | 工人，劳动者；员工，职员；劳工，体力劳动者 |
+| pelajar | 学生，学习者；求知者 |
+| pelayan | 服务员；仆人，佣人 |
+| pelucu | 喜剧演员；开玩笑的人 |
+| pelukis | 画家，绘画艺术家 |
+| pemalas | 懒惰的；懒汉 |
+| pemalu | 害羞的人，腼腆的人 |
+| pemanas | 加热器，暖气设备；加热装置，保温设备 |
+| pemandu | 导游，向导；指导者，领队 |
+| pemarah | 爱生气的人，脾气暴躁的人 |
+| pembeli | 买家，顾客 |
+| pemberani | 勇敢的人，有胆量的人 |
+| pembohong | 说谎者；欺骗者 |
+| pembuka | 开启工具，开瓶器；开场，序幕；开创者，发起者 |
+| pemilik | 所有者，主人 |
+| penakut | 胆小鬼，懦弱的人 |
+| penari | 舞者，舞蹈演员 |
+| pendiam | 沉默的人，内向的人 |
+| pendingin | 冷却器；冷藏设备，制冷器 |
+| pengering | 烘干机，干燥器；脱水机，干燥设备；吹风机 |
+| pengharum | 香水，香料；空气清新剂；增香剂 |
+| pengunjung | 访客，游客 |
+| penjaga | 守卫，保安；看护者，管理员；守门员 |
+| penjahit | 裁缝 |
+| penjual | 卖家，小贩 |
+| penonton | 观众，观看者 |
+| pertunjukan | 表演；演出；展览 |
+| pesepak bola | 足球运动员 |
+| petani | 农民，种植者；农业劳动者 |
+| petenis | 网球运动员 |
+| peternak | 饲养员，培育者；畜牧业者，牲畜饲养者；动物饲养者 |
+| peternakan | 农场；养殖场；牧场 |
+| petugas | 官员，工作人员；职员；服务员，值班人员 |
+
+---
+
 # penjual
 
 seller, vendor

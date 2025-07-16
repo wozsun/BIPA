@@ -2,6 +2,93 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| arus | 流动，水流，电流；趋势 |
+| atap | 屋顶 |
+| beliung | 镰刀；大镰刀；刀片 |
+| bendera | 旗帜；横幅；军旗 |
+| berita | 新闻；报道 |
+| brankas | 保险箱 |
+| duka | 悲伤；悲痛；哀悼 |
+| gerbang | 大门；入口；门户 |
+| hapus | 擦除，删除；废除 |
+| huruf | 字母 |
+| istana | 宫殿；豪宅；堡垒 |
+| kabar | 消息；报告；信息 |
+| lahar | 熔岩，岩浆；火山泥流 |
+| lemari | 衣柜；橱柜 |
+| licin | 滑的；光滑的 |
+| lumpur | 泥；污泥；淤泥 |
+| mampu | 能够；有能力的；胜任的 |
+| memeriksa | 检查，核对 |
+| meminjam | 借，借用 |
+| menangis | 哭；流泪；啜泣 |
+| mengalami | 经历 |
+| merepotkan | 麻烦，打扰 |
+| napas | 呼吸，气息 |
+| pelaku | 犯罪者；演员；执行者 |
+| penumpang | 乘客，旅客；骑乘者，搭乘者 |
+| penyebab | 原因；因素；起源 |
+| puing | 瓦砾，废墟；碎片，残骸 |
+| puting | 乳头；吸盘 |
+| sadar | 意识到；清醒的，有意识的；知道的，察觉到的 |
+| sengaja | 故意地；有目的地 |
+| sungai | 河流，江 |
+| terangkat | 被举起的；被抬起的 |
+| terbaca | 被阅读的；被注意到的 |
+| terbakar | 被烧毁的；被灼烧的 |
+| terbangun | 醒来的；被叫醒的 |
+| terbawa | 被带走的；受到影响的 |
+| terbeli | 被购买的；获得的 |
+| terbuka | 打开的，敞开的；可进入的，可接近的；坦率的，透明的；可用的，可获得的 |
+| tercantum | 列出的；提到的 |
+| tercatat | 记录的，登记的；被注意到的 |
+| tercium | 被闻到的；被感知的 |
+| terdaftar | 注册的，登记的；列出的 |
+| terdengar | 被听见的；可听见的 |
+| terdiam | 沉默的，安静的；静止的，不动的 |
+| terduduk | 坐着的；坐的 |
+| terganggu | 被打扰，受到干扰 |
+| tergantung | 依赖的，取决于的；悬挂的 |
+| tergelincir | 滑倒的；失去平衡的 |
+| terhadap | 朝向；反对；关于 |
+| terikat | 被绑住的，被系上的；受约束的，被限制的；依附的，依恋的；固定的，牢固的 |
+| terinjak | 被踩到的；被践踏的 |
+| terjatuh | 掉落的，跌倒的；掉下的 |
+| terkubur | 被埋葬的；埋入的 |
+| terkunci | 锁住的，被锁上的；被固定的，被安全锁住的 |
+| terlihat | 被看见的；出现的 |
+| termakan | 被吃掉的；消耗的 |
+| terminum | 被喝掉的；饮用的 |
+| terpasang | 安装好的，已装上的；固定的，装配上的；连接的，附着的 |
+| terpelanting | 被抛出的；被猛扔的 |
+| terpeleset | 滑倒的；失去平衡的 |
+| terperosok | 卡住的，陷入的；掉入的 |
+| tersandung | 绊倒的；跌倒的，失足的 |
+| tersapu | 被扫走的；被冲走的 |
+| tersedak | 噎住，窒息 |
+| terserang | 被攻击的；遭受袭击的 |
+| terseret | 被拖拽的；被拉动的 |
+| tertabrak | 被撞击的；相撞的 |
+| tertelan | 被吞下的；摄入的 |
+| tertempel | 附着的，贴着的；粘着的，贴上的；粘贴的 |
+| tertidur | 睡着的；入睡的 |
+| tertimbun | 被埋葬的；被覆盖的 |
+| tertimpa | 被压到的；被掉落的 |
+| tertinggal | 被遗留的；错过的 |
+| tertiup | 被吹走的；被带走的 |
+| tertulis | 书面的，写下的；记录下来的，记载的；有据可查的，文件化的 |
+| tertutup | 关闭的，封闭的；被覆盖的，遮住的；密封的 |
+| tiang | 柱子 |
+| topan | 台风；飓风 |
+| tsunami | 海啸 |
+| tumbang | 倒下，跌倒；倒塌，崩塌；被击败，失败 |
+
+---
+
 # terbuka
 
 open (not closed or covered)

@@ -2,6 +2,108 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| ahli | 专家；专门人士；大师 |
+| akupuntur | 针灸；治疗技术；替代医学 |
+| arah | 方向，方位；道路，路线；定位，方位感；指导，引导 |
+| asap | 烟；烟雾；雾 |
+| batu | 石头；岩石 |
+| bendera | 旗帜；横幅；标准 |
+| daun | 叶子；叶片 |
+| hadir | 出席；在场；到达 |
+| halte | 公交车站；停靠站；车站 |
+| jarum | 针；注射；别针 |
+| kambing | 山羊；小山羊；山羊肉 |
+| kebun | 花园，菜园；种植园，农场；果园 |
+| kendaraan | 车辆；运输；运输工具 |
+| koki | 厨师；烹饪艺术家 |
+| lahan | 土地；区域 |
+| lewat | 通过；超过；错过；经由 |
+| liar | 野生；凶猛；未驯服 |
+| mayones | 蛋黄酱；调味品；涂抹酱 |
+| melempari | 投掷，扔向；连续扔 |
+| melukai | 伤害，使受伤；损害；使负伤，使受创；冒犯，伤害感情 |
+| memanasi | 加热，使变热；变暖；挑衅，激怒 |
+| memanggili | 呼叫；邀请 |
+| mematuhi | 服从，遵守；遵从，依从 |
+| membalas | 回复；报复；归还 |
+| membasahi | 弄湿 |
+| membuang | 扔掉，丢弃；处理；摆脱；浪费，耗费 |
+| membului | 拔毛 |
+| membumbui | 调味，加作料；加香料；增味；润色，美化 |
+| memelihara | 维护；照顾；培养 |
+| memetiki | 采摘；拔除 |
+| meminjami | 借给；借出，贷给 |
+| memotongi | 切割；修剪 |
+| memukuli | 反复打，殴打 |
+| menaati | 遵守；服从 |
+| menanami | 种植，栽种；耕种 |
+| menandatangani | 签署，签名；认可 |
+| menata | 整理；组织；设置 |
+| menawari | 提供，给予；建议，提议 |
+| mencabuti | 拔出；提取 |
+| mencemari | 玷污，亵渎；污染，弄脏 |
+| mencintai | 爱，热爱；崇拜，敬爱 |
+| menciumi | 反复亲吻 |
+| mencubit | 捏；夹 |
+| menebangi | 砍伐 |
+| menembaki | 射击 |
+| menerangi | 照亮，使明亮；点亮，照明；启发，开导 |
+| mengaliri | 流经，使流过；灌溉 |
+| menggarami | 加盐，撒盐；用盐调味 |
+| menggemari | 喜爱；热爱；享受 |
+| menggulai | 用椰奶和香料烹调，做成咖喱；用椰奶烹调 |
+| mengguntingi | 剪切；修剪 |
+| menghadiahi | 赠送礼物；奖励 |
+| menghentikan | 停止；使停住；终止 |
+| menghormati | 尊重，敬重；荣誉，尊敬 |
+| mengirimi | 寄给，发送给；送给，传递给 |
+| mengobati | 治疗，医治；治愈，治好；康复；补救 |
+| mengolesi | 涂抹，敷；涂上，施加 |
+| mengotori | 弄脏，污染；弄污，留下污渍 |
+| menguliti | 剥皮，去皮；削皮 |
+| mengurangi | 减少；降低 |
+| menyakiti | 伤害；损害 |
+| menyayangi | 爱，疼爱；关心，关爱 |
+| menyinari | 照亮 |
+| menyirami | 浇水；灌溉 |
+| menyisiki | 清理；梳理；筛选 |
+| menyuguhi | 招待，款待；请客 |
+| menyukai | 喜欢；喜爱，钟爱 |
+| menyurati | 写信；通信 |
+| menyusui | 哺乳 |
+| meracuni | 毒害；污染 |
+| mewarnai | 上色，涂色；染色；涂漆，绘画；影响，渲染 |
+| muncul | 出现；浮现 |
+| mural | 壁画；湿壁画；艺术作品 |
+| nyamuk | 蚊子 |
+| organik | 有机的；生物的；自然的 |
+| pahit | 苦；刺耳；怨恨 |
+| pelanggan | 顾客；供应商 |
+| penghapus | 橡皮擦；擦拭器；修正器 |
+| peraturan | 规定；规则；法律 |
+| perdu | 灌木；灌木丛 |
+| perintah | 命令；指令；指示 |
+| pesta | 聚会；庆祝；盛宴 |
+| pinggang | 腰；臀部；中段 |
+| rata | 平坦；均匀；水平 |
+| rawat | 照顾；培养；维护 |
+| retak | 裂缝；破裂 |
+| rumput | 草 |
+| selai | 果酱；涂抹；蜜饯 |
+| sumber | 来源，根源；起源，出处；资源，财源；参考，依据 |
+| tangan | 手；手臂；掌心 |
+| tawuran | 斗殴；骚乱；冲突 |
+| terowongan | 隧道；通道；地铁 |
+| tongkat | 棍子；拐杖；接力棒 |
+| untung | 利润；运气；优势 |
+| wortel | 胡萝卜 |
+
+---
+
 # memotongi
 
 to cut (to divide something into pieces or sections)

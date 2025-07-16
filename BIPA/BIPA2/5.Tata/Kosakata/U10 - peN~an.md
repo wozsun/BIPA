@@ -2,6 +2,56 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| jelas | 清楚，明确；显然，明显；显而易见；确定的 |
+| kuat | 强壮，有力；坚韧，有韧性；耐用，坚固；强烈，剧烈 |
+| memeriksa | 检查；审查；核对 |
+| pemancingan | 渔场 |
+| pemandangan | 景色 |
+| pemandian | 浴场 |
+| pemasaran | 营销 |
+| pembangunan | 建设 |
+| pembayaran | 支付 |
+| pembelian | 购买 |
+| pembuangan | 处理 |
+| pembuatan | 制作 |
+| pemesanan | 预订 |
+| pemungutan | 收集；聚集 |
+| penambahan | 增加 |
+| pencairan | 融化；支付 |
+| penciuman | 嗅觉 |
+| pencurian | 盗窃 |
+| pendaratan | 着陆 |
+| pendengaran | 听觉 |
+| penemuan | 发现；发明 |
+| pengacara | 律师 |
+| pengadilan | 法院 |
+| pengalaman | 经验 |
+| pengembangan | 开发 |
+| pengetahuan | 知识 |
+| penginapan | 住宿 |
+| pengiriman | 配送 |
+| penglihatan | 视力 |
+| pengolahan | 加工 |
+| penguapan | 蒸发 |
+| pengubahan | 修改 |
+| pengumuman | 公告 |
+| pengungsian | 疏散 |
+| pengurangan | 减少 |
+| peningkatan | 提升 |
+| penitipan | 寄存 |
+| penjualan | 销售 |
+| penukaran | 交换 |
+| penulisan | 写作 |
+| penurunan | 下降 |
+| penyempitan | 收窄 |
+| tajam | 锋利，尖锐；敏锐，剧烈；渴望；刺耳，刺痛 |
+
+---
+
 # pengalaman
 
 experience (the knowledge or skill acquired through involvement in a particular activity or event)

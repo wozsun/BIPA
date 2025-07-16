@@ -2,6 +2,53 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| belah | 分裂，分开，劈开；侧面，一边，一侧 |
+| bergaris | 有线条的，有条纹的；条纹的，带状的，画线的 |
+| berkat | 祝福，恩赐，福气；感谢，谢意，感恩 |
+| bertujuan | 目标明确的，有目的的；意图的，计划的，目的在于 |
+| cadangan | 储备，储存，备用；建议，提议，意见 |
+| frasa | 短语，词组，片语 |
+| jatuh | 掉落，跌倒，下降 |
+| kabinet | 内阁，政府内阁；橱柜，储物柜，陈列柜 |
+| kebijakan | 政策，方针，策略 |
+| keputusan | 决定，决议，判定；裁决，判决，裁定 |
+| kesenjangan | 差距，间隙，鸿沟；不平等，不均衡，差异 |
+| melegakan | 缓解，减轻，缓和；安慰，抚慰 |
+| mempengaruhi | 影响，感化，支配 |
+| mencibir | 嘲笑，冷笑，讥讽；嘲弄，讥笑，挖苦 |
+| menciptakan | 创造，创建，制造；生产，制作，生成 |
+| menerapkan | 应用，实施，运用；执行，实行，实现 |
+| mengejutkan | 令人震惊的，惊人的，意想不到的 |
+| menggiurkan | 诱人的，吸引人的；令人垂涎的 |
+| menguatnya | 增强，加强，巩固 |
+| menipis | 变薄，变细，变稀；减少，缩小，减弱 |
+| merosot | 下降，减少，衰退；恶化，退化，衰落 |
+| merugikan | 伤害，损害，危害；使处于不利地位 |
+| oposisi | 反对，对立，抵制；竞争，对抗，敌对 |
+| pandemi | 大流行病，疫情，全球性流行病 |
+| partai | 政党，党派；批次，一批，一组 |
+| penculikan | 绑架，劫持，拐骗 |
+| penerimaan | 接受，承认，采纳；接收，接待，招待 |
+| perajin | 工匠，手艺人，匠人；手工业者，艺匠 |
+| peraturan | 规定，规则，条例；法则 |
+| pertukaran | 交换，交流，兑换；交易，贸易，买卖 |
+| pesisir | 海岸，海滨，沿海；岸边，滨，岸 |
+| pihak | 方，一方，当事方；方面，立场，侧面 |
+| pimpinan | 领导，领导力，领导地位；指导，引导，指引 |
+| ritel | 零售，零售业 |
+| saham | 股票，股份；股权，股份额 |
+| sambut | 欢迎，迎接，致意；回应，回答，响应 |
+| swasta | 私人的，私营的，私立的 |
+| terkait | 相关的，有关的，关联的；联合的，有联系的 |
+| tertangkap | 被抓住，被捕获，被逮住；被发现，被侦测，被察觉 |
+| terwujud | 实现，成为现实，落实；显现，具体化 |
+
+---
+
 # menguatnya
 
 strengthening (the act of becoming stronger or more robust)

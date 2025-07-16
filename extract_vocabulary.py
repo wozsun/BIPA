@@ -1,41 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-BIPA印尼语词汇提取工具
-
-功能说明：
-- 从Markdown格式的词汇文件中提取印尼语单词及其中文翻译
-- 支持按英文定义分组的多义词处理
-- 自动去重同义词，智能处理"的"字结尾的词汇
-- 支持单文件导出或批量处理所有BIPA3词汇文件
-- 自动检测标记为"Completed: true"的文件并在原文件中插入词汇表
-
-用法：
-1. 批量处理所有BIPA3词汇文件：
-   python3 extract_vocabulary.py
-
-2. 处理指定的单个词汇文件：
-   python3 extract_vocabulary.py "相对路径/文件名.md"
-   python3 extract_vocabulary.py "/绝对路径/文件名.md"
-
-3. 显示帮助信息：
-   python3 extract_vocabulary.py --help
-
-示例：
-   python3 extract_vocabulary.py "BIPA/BIPA3/1.Simak/Kosakata/U1.md"
-
-输出格式：
-- 单文件：直接在原文件中插入/更新词汇表
-- 批量处理：生成"Kosakata.md"到BIPA3目录
-- 自动嵌入：对于标记完成的文件，直接在原文件中添加词汇表
-
-文件格式要求：
-- 词汇文件需使用"# 单词名"作为词条分隔
-- 支持YAML front matter格式的文件头
-- 中文翻译支持多行，按英文定义自动分组
-"""
-
 import os
 import re
 import glob

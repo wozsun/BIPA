@@ -2,6 +2,38 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| anggota | 成员；部分 |
+| bakti | 奉献；服务 |
+| bengkak | 肿胀，发胀；发炎，红肿 |
+| bercak | 斑点，污点；污渍 |
+| disengat | 被蜇，被叮咬 |
+| fatal | 致命的，致死的 |
+| karyawan | 员工；工作人员 |
+| kedinginan | 感到寒冷；受寒，着凉 |
+| magang | 实习；学徒期 |
+| manta | 魔鬼鱼，蝠鲼 |
+| membahas | 讨论；解决 |
+| menentukan | 决定，确定；界定，限定 |
+| mengajukan | 提交，提出；申请，申请表；建议，提议 |
+| mengeluh | 抱怨，发牢骚 |
+| menghisap | 吸，吮吸；吸入 |
+| mengingatkan | 提醒；通知 |
+| mewawancarai | 面试；询问 |
+| nantikan | 等待，期待 |
+| pelamar | 申请者；候选人 |
+| relatif | 相对的，比较的 |
+| sepi | 安静，寂静；孤独，寂寞；荒凉，冷清 |
+| swasta | 私有的；非政府的 |
+| teduh | 荫凉，阴凉；宁静，安静 |
+| tertarik | 感兴趣；吸引 |
+| ucap | 说；表达 |
+
+---
+
 # magang
 
 internship (a period during which a student or recent graduate works for a company to gain experience)

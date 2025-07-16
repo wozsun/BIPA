@@ -2,6 +2,79 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| apotek | 药店；药房 |
+| arah | 方向；定位，方位；指导，目标；趋势，倾向 |
+| bubur | 粥；米粥 |
+| fokus | 焦点，重点；专注，集中；中心点，关注点 |
+| handuk | 毛巾；餐巾 |
+| jarum | 针；别针；量规 |
+| jasa | 服务；功劳；费用 |
+| kaget | 惊讶；震惊；受惊 |
+| kayu | 木材；木头 |
+| kontras | 对比，差异；对立，反差 |
+| koper | 行李箱；行李 |
+| laporan | 报告；陈述 |
+| lelah | 疲惫；疲倦；疲劳 |
+| mainan | 玩具；游戏；玩物 |
+| melancarkan | 使顺利；促进；加快 |
+| melemparkan | 扔；投掷；抛 |
+| melimpahkan | 倾倒；溢出；赋予 |
+| membacakan | 朗读；呈现；背诵 |
+| membahagiakan | 使幸福，使快乐；使高兴，使愉悦 |
+| membawakan | 带来；递送；提供 |
+| membelikan | 购买；购置；为...买 |
+| memberikan | 给予；提供；授予 |
+| membuatkan | 制作；准备；提供 |
+| membukakan | 打开；解锁；揭示 |
+| meminjamkan | 借出，借给；贷出，提供贷款 |
+| memuaskan | 使满足，使满意；令人满意的，令人满足的；满足（某种愿望或需求） |
+| memukulkan | 击打；打击；猛击 |
+| menakutkan | 使害怕，使恐惧；可怕的，令人恐惧的；令人担忧的，令人警惕的 |
+| menangis | 哭 |
+| menawarkan | 提供，提出；建议，提议；提供（帮助、款待等）；推销，宣传 |
+| mencarikan | 寻找；提供 |
+| mencucikan | 洗；清洁；洗涤 |
+| menembakkan | 射击；开火；发射 |
+| menerima | 接收，接受 |
+| mengagetkan | 使惊讶；使震惊；使受惊 |
+| mengalirkan | 使流动；引导；供应 |
+| mengalungkan | 挂上；装饰；悬挂 |
+| mengambilkan | 拿来；取回；提供 |
+| mengecewakan | 使失望；辜负，让人失望；令人失望的 |
+| mengejutkan | 使惊讶，使震惊；令人惊讶的，出人意料的；突然惊醒，唤醒 |
+| menghadiahkan | 赠送，送礼；授予，颁发 |
+| menginap | 住宿；过夜 |
+| mengirimkan | 发送；递送；传输 |
+| mengkhawatirkan | 使担忧，使焦虑；令人担忧的，令人不安的；引起担忧，令人注意 |
+| mengoleskan | 涂抹；涂 |
+| mengurus | 管理；照顾 |
+| menjahitkan | 缝；缝合；裁缝 |
+| menjualkan | 销售；推销；交易 |
+| menusukkan | 刺；刺穿；刺破 |
+| menyedihkan | 使伤心，使悲伤；令人伤心的，令人心碎的；可怜的，令人惋惜的 |
+| menyewakan | 出租；租赁；外租 |
+| menyuguhkan | 呈现；提供；展示 |
+| paku | 钉子；螺丝 |
+| pantri | 储藏室；食品储藏室 |
+| penampilan | 外貌；表现；展示 |
+| perasaan | 感觉，情感；感知，直觉；敏感性，感受能力 |
+| perut | 胃；腹部 |
+| pisau | 刀 |
+| pribadi | 个人的；个体 |
+| rawat | 照顾 |
+| sasaran | 目标；目的 |
+| seluruh | 整个；所有；全部 |
+| tamu | 客人；访问者 |
+| telah | 已经 |
+| terkait | 相关的，有关的；涉及的，牵连的；联系的，连接的 |
+| tindakan | 行动，行为；措施，步骤；干预，介入 |
+
+---
+
 # terkait
 
 related, connected (having a relationship or connection with something)

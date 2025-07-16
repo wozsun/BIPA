@@ -2,6 +2,66 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| akrab | 亲密；熟悉 |
+| aksesoris | 配饰；珠宝；附加物；装饰品 |
+| alas | 垫子；基础；地面 |
+| arang | 木炭；煤；碳 |
+| beralih | 切换；转移；过渡 |
+| bergaya | 时尚的；有风格；表现 |
+| berinovasi | 创新；创造；改善；发展 |
+| berjaya | 成功；胜利；繁荣；占上风 |
+| berkat | 祝福；恩典；礼物；感恩 |
+| bermunculan | 出现；显现；产生 |
+| capai | 实现；达到；获得 |
+| gelang | 手链；手镯；腕带 |
+| harum | 芳香；有香味的；香气扑鼻的 |
+| impor | 进口；引进；外国商品 |
+| kalangan | 圈子；群体；社区；阶层 |
+| kisah | 故事；传说；叙述 |
+| koboi | 牛仔；牧场主；亡命之徒 |
+| kondang | 著名；闻名的；显著的 |
+| krisis | 危机；紧急情况；灾难；转折点 |
+| kritikan | 批评；评论；反馈 |
+| laris | 受欢迎的；畅销；需求量大 |
+| makin | 越来越；更多；变得；逐渐地 |
+| mantan | 前任；以前的；过去的 |
+| melanda | 袭击；撞击；影响；席卷 |
+| membanjiri | 洪水；淹没；压倒 |
+| membuktikan | 证明；演示；建立；核实 |
+| memenangkan | 赢得；获得；实现；声称 |
+| memutuskan | 决定；确定；得出结论 |
+| mendirikan | 建立；创办；建造 |
+| menekuni | 追求；专注；参与；投入 |
+| menengah | 中间；中级；适度；中位数 |
+| menghentikan | 停止；终止；中止 |
+| menorehkan | 刻写；记录；印记；蚀刻 |
+| menyadari | 意识到；认出；承认 |
+| panggung | 舞台；平台；竞技场 |
+| pasang | 安装；连接；配对；设置 |
+| patah | 破碎的；折断；骨折；粉碎的 |
+| pegang | 握住；抓住；保持 |
+| pencinta | 爱人；爱好者；信徒 |
+| pengusaha | 企业家；商人；投资者 |
+| peragawan | 模特；时装模特；展出者 |
+| pesat | 迅速的；快速的；加速的 |
+| prestasi | 成就；完成；表现；成功 |
+| prinsip | 原则；规则；基础 |
+| sandal | 凉鞋；人字拖；鞋类；拖鞋 |
+| sederhana | 简单的；朴素的；谦虚的；不复杂的 |
+| sekaligus | 同时；一次性 |
+| strategi | 战略；战术；计划；方法 |
+| telinga | 耳朵；听觉；听觉器官 |
+| terjangkau | 可负担的；可接近的；合理的；触手可及 |
+| terpaksa | 被迫的；强迫的；有义务的；受限制的 |
+| tetap | 保持；保持不变；不变的；固定的 |
+| usaha | 努力；生意；尝试 |
+
+---
+
 # sekaligus
 
 at once (simultaneously)

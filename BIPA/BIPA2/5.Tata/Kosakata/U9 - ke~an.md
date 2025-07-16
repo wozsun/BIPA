@@ -2,6 +2,63 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| bentuk | 形状；形式 |
+| berkaitan | 相关 |
+| cicak | 壁虎 |
+| keasinan | 过咸 |
+| kebanjiran | 洪水，泛滥 |
+| kebesaran | 伟大；过于宽大 |
+| kecanduan | 上瘾，依赖 |
+| kecopetan | 扒窃；盗窃 |
+| kecurian | 盗窃，偷窃；抢劫 |
+| kedatangan | 到达 |
+| kedengaran | 可听见的；声音 |
+| kedinginan | 寒冷，冷 |
+| kehabisan | 用尽，耗尽 |
+| kehausan | 口渴 |
+| kehilangan | 失去 |
+| kehujanan | 淋雨 |
+| kejatuhan | 被掉落；垮台 |
+| kejauhan | 太远；遥远 |
+| kekecilan | 太小；不足，缺乏 |
+| kekeringan | 干旱 |
+| kekurangan | 缺乏，不足；缺陷，瑕疵 |
+| kelaparan | 饥饿 |
+| kelebihan | 过量，过剩；优势，优点；超载，过多 |
+| kelihatan | 可见的；看起来，似乎 |
+| kemahalan | 价格过高；过高的成本 |
+| kemalaman | 太晚，迟到；夜幕降临 |
+| kemanisan | 甜味；愉快，宜人 |
+| kemarau | 旱季，干旱；旱灾 |
+| kemasukan | 进入；涌入 |
+| kemerahan | 微红，发红；红肿 |
+| kepagian | 太早，提前；急切，渴望 |
+| kepanasan | 热，炎热 |
+| kepanjangan | 太长；全称，完整形式 |
+| kependekan | 短；缩写 |
+| keracunan | 中毒；毒性 |
+| kerampokan | 抢劫；盗窃，抢劫案 |
+| kesemutan | 刺痛，麻木 |
+| kesiangan | 太晚，迟到；睡过头 |
+| kesorean | 太晚，迟到 |
+| ketakutan | 恐惧，害怕 |
+| keterangan | 说明；信息 |
+| ketiduran | 睡过头；困倦 |
+| ketinggalan | 被遗忘，落后；缺失，失踪 |
+| laporan | 报告，汇报；投诉，申诉 |
+| menderita | 遭受 |
+| muatan | 负载，载荷，货物；内容，成分 |
+| peristiwa | 事件 |
+| sumur | 井 |
+| tahan | 忍受；抵抗；持续；拘留 |
+| telinga | 耳朵 |
+
+---
+
 # kekeringan
 
 drought (a prolonged dry period when there is little or no rainfall)

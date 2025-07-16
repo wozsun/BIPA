@@ -2,6 +2,72 @@
 Completed: true
 ---
 
+**词汇表**
+
+| 印尼语 | 中文翻译 |
+|--------|----------|
+| keagamaan | 宗教 |
+| keahlian | 专业知识 |
+| keamanan | 安全 |
+| kebaikan | 善良 |
+| kebersihan | 清洁 |
+| kebidanan | 助产 |
+| keburukan | 邪恶 |
+| kebutuhan | 需求 |
+| kecamatan | 区 |
+| kedamaian | 和平 |
+| kedatangan | 到达 |
+| kedokteran | 医学 |
+| kedudukan | 位置 |
+| kedutaan | 大使馆 |
+| keguruan | 教学 |
+| kehadiran | 存在 |
+| keharusan | 必要性 |
+| kehewanan | 畜牧业 |
+| kehilangan | 失去 |
+| kehutanan | 林业 |
+| keindahan | 美丽 |
+| keinginan | 愿望 |
+| kejahatan | 罪行 |
+| kejatuhan | 下降 |
+| kekayaan | 财富 |
+| kekeluargaan | 亲属关系 |
+| kekurangan | 缺乏 |
+| kelautan | 海事 |
+| kelebihan | 过量；优势 |
+| kelurahan | 村 |
+| kemahasiswaan | 学生事务 |
+| kemampuan | 能力 |
+| kemanusiaan | 人类 |
+| kementerian | 部 |
+| kemiskinan | 贫穷 |
+| kenyamanan | 舒适 |
+| kepandaian | 技能；智力；专业知识；聪明 |
+| kepedulian | 关心 |
+| keperawatan | 护理 |
+| kepergian | 离开 |
+| keperluan | 需要 |
+| kepindahan | 搬迁 |
+| kepolisian | 警察 |
+| kepresidenan | 总统职位 |
+| kepulangan | 返回 |
+| kerajaan | 王国 |
+| kerapian | 整洁 |
+| kerugian | 损失 |
+| kesabaran | 耐心 |
+| kesejahteraan | 幸福；福利；繁荣 |
+| kesempatan | 机会 |
+| kesukaan | 偏好 |
+| kesultanan | 苏丹国 |
+| ketekunan | 毅力 |
+| keterampilan | 技能 |
+| keuangan | 金融 |
+| keuntungan | 优势 |
+| kewajiban | 义务 |
+| memupuk | 施肥；培养 |
+
+---
+
 # kepandaian
 
 skill (the ability to do something well, often gained through practice)
