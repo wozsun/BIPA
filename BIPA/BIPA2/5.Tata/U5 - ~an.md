@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # hasil meN\~
 
 - **Kosakata:**

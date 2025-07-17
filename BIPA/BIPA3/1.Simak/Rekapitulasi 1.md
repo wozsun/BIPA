@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # Rapat RPTRA
 
 ![Rapat RPTRA](audio/Rekapitulasi%201%20-%20Rapat%20RPTRA.m4a)

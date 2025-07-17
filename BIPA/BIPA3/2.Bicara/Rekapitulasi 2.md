@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # Harimau Menuju Kepunahan: Benarkah?
 
 Selamat siang Bapak/Ibu dan para hadirin. Terima kasih atas kesempatan yang diberikan kepada saya, mewakili BKSDA DKI Jakarta, untuk membahas isu penting ini. Hari ini, bertepatan dengan Hari Cinta Satwa Nasional, kita bicara tentang masa depan Harimau Sumatera di Indonesia.

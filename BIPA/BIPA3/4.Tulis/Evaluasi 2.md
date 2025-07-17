@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # Kesulitan dalam Pendidikan Vokasional di Tiongkok
 
 Dalam laporan dari Kementerian Pendidikan Tiongkok pada tahun 2024, jumlah siswa di SMK telah mencapai 16 juta orang, yang mencakup sekitar 40% dari total siswa SMA. Selain itu, jumlah mahasiswa pendidikan vokasi di Tiongkok hampir setara dengan jumlah mahasiswa sarjana reguler. Data ini menunjukkan bahwa pendidikan vokasi telah menjadi bagian penting dari sistem pendidikan nasional di Tiongkok. Namun, dalam pemahaman banyak perusahaan dan masyarakat, lulusan pendidikan vokasi masih dipandang rendah dan kurang dihargai di pasar tenaga kerja.

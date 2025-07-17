@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # Pembuka
 
 **Memberikan salam dan berterima kasih**

@@ -86,7 +86,7 @@ def add_vocabulary_to_file(file_path, vocabulary):
         vocabulary (dict): 词汇字典，键为印尼语单词，值为翻译组列表
 
     功能说明:
-        - 在YAML front matter之后插入词汇表
+        - 在文件开头插入词汇表
         - 如果文件已存在词汇表，则替换为新版本
         - 词汇表使用加粗标题和Markdown表格格式
         - 词汇按字母顺序排序
@@ -100,47 +100,39 @@ def add_vocabulary_to_file(file_path, vocabulary):
             original_content = f.read()
 
         # 生成词汇表内容
-        vocab_content = "\n**词汇表**\n\n| 印尼语 | 中文翻译 |\n|--------|----------|\n"
+        vocab_content = "**词汇表**\n\n| 印尼语 | 中文翻译 |\n|--------|----------|\n"
 
         # 按字母顺序排序
         for word in sorted(vocabulary.keys()):
             translations = merge_translations([vocabulary[word]])
             vocab_content += f"| {word} | {translations} |\n"
 
-        vocab_content += "\n---\n"
+        vocab_content += "\n---\n\n"
 
-        # 找到YAML front matter的结束位置
-        if original_content.startswith('---\n'):
-            end_pos = original_content.find('\n---\n', 4)
-            if end_pos != -1:
-                # 在YAML front matter之后插入词汇表
-                yaml_part = original_content[:end_pos + 5]  # 包含结束的---\n
-                rest_content = original_content[end_pos + 5:]
+        # 检查是否已经存在词汇表，如果存在则替换
+        if "**词汇表**" in original_content:
+            # 找到词汇表的结束位置（下一个---或文件末尾）
+            vocab_start = original_content.find("**词汇表**")
+            vocab_end = original_content.find("\n---\n", vocab_start)
+            if vocab_end == -1:
+                # 如果找不到结束标记，查找下一个#标题
+                vocab_end = original_content.find("\n# ", vocab_start)
+                if vocab_end == -1:
+                    vocab_end = len(original_content)
+            else:
+                vocab_end += 5  # 包含\n---\n
 
-                # 检查是否已经存在词汇表，如果存在则替换
-                if "**词汇表**" in rest_content:
-                    # 找到词汇表的结束位置（下一个---或文件末尾）
-                    vocab_start = rest_content.find("**词汇表**")
-                    vocab_end = rest_content.find("\n---\n", vocab_start)
-                    if vocab_end == -1:
-                        # 如果找不到结束标记，查找下一个#标题
-                        vocab_end = rest_content.find("\n# ", vocab_start)
-                        if vocab_end == -1:
-                            vocab_end = len(rest_content)
-                    else:
-                        vocab_end += 5  # 包含\n---\n
+            # 替换现有词汇表
+            new_content = vocab_content + original_content[vocab_end:].lstrip('\n')
+        else:
+            # 添加新词汇表到文件开头
+            new_content = vocab_content + original_content
 
-                    # 替换现有词汇表
-                    new_content = yaml_part + vocab_content + rest_content[vocab_end:]
-                else:
-                    # 添加新词汇表
-                    new_content = yaml_part + vocab_content + rest_content
+        # 写回文件
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(new_content)
 
-                # 写回文件
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    f.write(new_content)
-
-                print(f"词汇表已添加到文件: {file_path}")
+        print(f"词汇表已添加到文件: {file_path}")
     except Exception as e:
         print(f"添加词汇表到文件时出错: {e}")
 
@@ -158,7 +150,7 @@ def extract_vocabulary_from_file(file_path):
         - 使用"# 单词名"格式标记每个词条
         - 词条内容包含中英文混合的释义
         - 支持多行翻译和英文定义分组
-        - 自动忽略YAML front matter和无效内容
+        - 自动忽略无效内容
     """
     vocabulary = {}
 
@@ -167,6 +159,22 @@ def extract_vocabulary_from_file(file_path):
             content = f.read()
     except:
         return vocabulary
+
+    # 如果文件包含词汇表，跳过词汇表部分
+    if "**词汇表**" in content:
+        vocab_start = content.find("**词汇表**")
+        vocab_end = content.find("\n---\n", vocab_start)
+        if vocab_end != -1:
+            # 移除词汇表部分，只保留原始词汇内容
+            content = content[vocab_end + 5:]  # +5 跳过 \n---\n
+        else:
+            # 如果没有找到结束标记，查找下一个#标题
+            next_header = content.find("\n# ", vocab_start)
+            if next_header != -1:
+                content = content[next_header:]
+            else:
+                # 如果没有后续内容，返回空词汇表
+                return vocabulary
 
     # 按 # 分割内容，每个部分对应一个单词
     sections = content.split('\n# ')

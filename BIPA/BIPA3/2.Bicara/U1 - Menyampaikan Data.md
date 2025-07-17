@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # Infografis
 
 a. Judul atau tema infografis.

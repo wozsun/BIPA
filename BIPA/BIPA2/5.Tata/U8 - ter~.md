@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # objek dalam keadaan
 
 **Kosakata:**

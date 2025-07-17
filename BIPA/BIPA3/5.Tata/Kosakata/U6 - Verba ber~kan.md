@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 **词汇表**
 
 | 印尼语 | 中文翻译 |
@@ -9,6 +5,7 @@ Completed: true
 | BPS | 中央统计局；印尼统计局 |
 | DPR | 众议院，人民代表大会（印尼国会下议院）；人民代表理事会 |
 | awan | 云，云朵；多云，云状 |
+| benda | 物体，东西，物品；物件 |
 | beralaskan | 基于，以...为基础；铺有，垫有 |
 | beratapkan | 有顶的，覆盖屋顶的 |
 | berdasarkan | 基于，根据 |
@@ -18,6 +15,7 @@ Completed: true
 | berian | 礼物，赠品；供品，献礼 |
 | beristrikan | 以...为妻子，有...作为妻子 |
 | berlandaskan | 基于，以...为基础 |
+| berlantaikan | 以...为地板，用...做地面 |
 | bermandikan | 沐浴在，浸润于 |
 | bermodalkan | 以...为资本，以...为资金 |
 | berpayungkan | 受保护的，遮蔽的；在伞下，在保护下 |
@@ -31,9 +29,11 @@ Completed: true
 | detik | 秒，秒钟；瞬间，片刻 |
 | digemari | 受欢迎，受喜爱；流行；受青睐 |
 | dinyalakan | 点燃，点亮，点着；打开，开启 |
+| gelandangan | 流浪者，漂泊者；无家可归者，流浪汉 |
 | jajanan | 零食，小吃，点心；街头小吃，路边摊食品；美味食品，特色小吃 |
 | jarak | 距离，间距；范围，跨度；间隔，间隙 |
 | kain | 布，布料；织物；纺织品，布匹；衣料，衣物 |
+| kardus | 纸板；纸箱，纸盒 |
 | kejutan | 惊喜，惊讶，意外；震惊，惊吓 |
 | kemewahan | 奢侈，豪华；富裕，奢华；挥霍 |
 | keringat | 汗，汗水 |
@@ -68,6 +68,7 @@ Completed: true
 | rumbia | 西米椰子，西米树；西米，西谷粉 |
 | semarak | 喜庆，热闹，节日气氛；辉煌，灿烂，壮观；生气勃勃 |
 | setidaknya | 至少，起码 |
+| spanduk | 横幅，标语布条；标牌，招牌 |
 | tampil | 出现，露面；表演，演出；出场，亮相 |
 | tenda | 帐篷，帐棚 |
 | terap | 应用，实施；执行；实践，运用 |
@@ -170,6 +171,11 @@ embedded (fixed firmly and deeply in a surrounding mass)
 
 adorned with (decorated with something)
 装饰有，点缀
+
+# berlantaikan
+
+have something as the floor (to have a particular material as flooring)
+以...为地板，用...做地面
 
 # marmer
 
@@ -707,3 +713,35 @@ slim (narrow or slender)
 
 slight (small in degree; not thick)
 轻微的，微薄的
+
+# benda
+
+object (a material thing that can be seen and touched)
+物体，东西，物品
+
+thing (an item or entity)
+东西，物件
+
+# kardus
+
+cardboard (a material made from thick paper)
+纸板
+
+cardboard box (a box made of cardboard)
+纸箱，纸盒
+
+# spanduk
+
+banner (a long strip of cloth with a slogan or design)
+横幅，标语布条
+
+sign (a displayed board for information or advertising)
+标牌，招牌
+
+# gelandangan
+
+vagrant (a person without a settled home)
+流浪者，漂泊者
+
+homeless (a person without a home)
+无家可归者，流浪汉

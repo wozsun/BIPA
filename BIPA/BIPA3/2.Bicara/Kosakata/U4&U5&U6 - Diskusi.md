@@ -1,7 +1,3 @@
----
-Completed: false
----
-
 **词汇表**
 
 | 印尼语 | 中文翻译 |
@@ -18,8 +14,12 @@ Completed: false
 | bincang | 讨论，商量，谈论 |
 | buas | 野生的，野性的；凶猛的，残暴的 |
 | buaya | 鳄鱼；骗子，欺骗者 |
+| buru | 狩猎，打猎；追捕，追赶 |
+| cenderung | 倾向，易于；倾向于，偏向 |
 | cendrawasih | 极乐鸟，天堂鸟 |
 | cula | 角，触角，号角 |
+| diancam | 被威胁 |
+| dijerat | 被套住，被陷害 |
 | fauna | 动物群，动物区系 |
 | gading | 象牙 |
 | gajah | 大象 |
@@ -32,18 +32,24 @@ Completed: false
 | hewan | 动物 |
 | kanguru | 袋鼠 |
 | karnivora | 食肉动物 |
+| kebun | 花园，园地；种植园 |
 | kehadiran | 存在，出席；参加 |
 | kendali | 控制，掌控；指挥，命令 |
+| kepadatan | 密度，浓度；拥挤，人口密集 |
 | kesan | 印象；效果，影响 |
 | keseimbangan | 平衡，均衡，协调 |
 | komodo | 科莫多龙，科莫多巨蜥 |
 | konservasi | 保护，保存，生态保护 |
 | manusia | 人类，人体；人，个人 |
 | memahami | 理解，明白；领会，了解 |
+| mempertegas | 强调，明确 |
 | mencairkan | 融化，使融解；液化；支付，发放；溶解 |
 | mencegah | 防止，预防，阻止 |
 | mengaturkan | 表达；致辞 |
+| menguji | 测试，检验；检查，审查 |
+| menyela | 打断，插话；插入，插嘴 |
 | menyelamatkan | 拯救，救助；保护 |
+| menyusut | 缩小，收缩；减少，降低 |
 | moderator | 主持人，调解人，版主 |
 | musuh | 敌人，对手 |
 | omnivora | 杂食动物，杂食性生物 |
@@ -56,7 +62,10 @@ Completed: false
 | pemimpin | 领导者，领袖，指导者 |
 | penengah | 调解人，调停者，仲裁者 |
 | pengantar | 介绍，引言；前言，序文；护送者，陪同者 |
+| penjara | 监狱 |
 | perburuan | 狩猎；追逐；搜寻 |
+| persegi | 正方形，平方；面积（常用于数学中的平方单位） |
+| pranggapan | 假设，设想；先入为主的观念 |
 | primata | 灵长类动物，灵长目动物 |
 | punah | 灭绝，绝种 |
 | reptil | 爬行动物，爬虫类 |
@@ -500,3 +509,98 @@ human (a member of the species Homo sapiens)
 
 person (an individual human being)
 人，个人
+
+# kebun
+
+garden (a piece of ground where plants are cultivated)
+花园，园地
+
+plantation (a large farm or estate where crops are grown)
+种植园
+
+# buru
+
+hunt (to chase and kill wild animals)
+狩猎，打猎
+
+pursue (to follow or chase someone or something)
+追捕，追赶
+
+# persegi
+
+square (a plane figure with four equal straight sides and four right angles)
+正方形，平方
+
+area (measurement of a surface)
+面积（常用于数学中的平方单位）
+
+# kepadatan
+
+density (the degree of compactness of a substance)
+密度，浓度
+
+crowdedness (the state of being crowded)
+拥挤，人口密集
+
+# cenderung
+
+tend (to be likely to do or be something)
+倾向，易于
+
+inclined (having a preference or disposition)
+倾向于，偏向
+
+# menyusut
+
+shrink (to become smaller in size, amount, or value)
+缩小，收缩
+
+decrease (to reduce in quantity or intensity)
+减少，降低
+
+# penjara
+
+prison (a building where people are kept as punishment for a crime)
+监狱
+
+# diancam
+
+threatened (to be in danger of harm or attack)
+被威胁
+
+# dijerat
+
+trapped (caught or ensnared, often in a legal or figurative sense)
+被套住，被陷害
+
+# mempertegas
+
+emphasize (to make something clearer or more definite)
+强调，明确
+
+# menyela
+
+to interrupt (to stop someone from speaking or doing something by saying or doing something yourself)
+打断，插话
+
+to interject (to say something suddenly, especially as an interruption)
+插入，插嘴
+
+to cut in (to break into a conversation)
+插话，插入
+
+# menguji
+
+test (to examine or evaluate something)
+测试，检验
+
+examine (to inspect or investigate carefully)
+检查，审查
+
+# pranggapan
+
+assumption (something accepted as true without proof)
+假设，设想
+
+preconception (an idea formed beforehand)
+先入为主的观念

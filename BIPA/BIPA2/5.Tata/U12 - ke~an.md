@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # hal tentang
 
 - **Kosakata:**

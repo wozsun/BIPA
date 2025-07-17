@@ -1,7 +1,3 @@
----
-Completed: false
----
-
 **Makna:** hal tentang \~ / kondisi tentang \~
 
 **Contoh:**

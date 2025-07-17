@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 ![Rekapitulasi 2 - Tema Hukum](audio/Rekapitulasi%202%20-%20Tema%20Hukum.m4a)
 
 Pemerintah telah menerbitkan Perpu Nomor 2 Tahun 2022 tentang cipta kerja pada Jumat 30 Desember 2022. Penerbitan Perpu ini untuk menggantikan UU Cipta Kerja yang dinyatakan inkonstitusional bersyarat oleh Mahkamah Konstitusi. Perpu ini pun menjadi pedoman baru dalam menghitung pesangon bagi karyawan yang terkena pemutusan hubungan kerja atau PHK.

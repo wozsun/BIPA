@@ -1,27 +1,3 @@
----
-Completed: false
----
-
-# Membuka Laporan
-
-
-
-# Melaporkan Hasil Survei
-
-
-
-# Membandingkan Hasil Survei
-
-
-
-# Menyimpulkan Hasil Survei
-
-
-
-# Menutup Laporan Survei
-
-
-
 # Contoh
 
 Selamat siang, Bapak dan Ibu sekalian. Pada kesempatan kali ini, saya akan melaporkan hasil survei tentang kepuasan masyarakat terhadap pelayanan di Kantor Imigrasi Sukamaju. Dalam survei ini, responden yang kami wawancarai berjumlah 100 orang. Mereka adalah warga Sukamaju yang pernah menggunakan jasa pelayanan di Kantor Imigrasi Sukamaju.
@@ -39,7 +15,7 @@ Demikian laporan ini kami sampaikan. Terima kasih atas perhatian Bapak dan Ibu s
 > 根据上述采访结果，我们可以总结出Sukamaju的居民对Sukamaju移民局的服务感到相当满意。然而，Sukamaju政府仍需改进一些方面，即工作人员在服务公众时的态度、增加工作人员数量或提升工作人员的工作效率以便服务能更快速进行，以及设施的改善。
 > 以上是我们的报告。感谢各位先生女士的关注。
 
-## Latihan
+# Latihan
 
 Selamat siang, Bapak dan Ibu sekalian. Pada kesempatan kali ini, saya akan melaporkan hasil survei tentang Perilaku Berbelanja Masyarakat Indonesia. Dalam survei ini, responden yang kami wawancarai berjumlah 25 orang. Sebagian besar dari mereka adalah mahasiswa di UI.
 

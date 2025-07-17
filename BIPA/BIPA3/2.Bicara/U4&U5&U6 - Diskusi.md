@@ -1,7 +1,3 @@
----
-Completed: false
----
-
 # Membuka Diskusi
 
 ![Lembar Informasi Acara](assets/u4img.webp)
@@ -94,43 +90,3 @@ Hadirin sekalian, saya akan langsung mulai saja diskusi kita dengan meminta Bapa
 ## Latihan
 
 Selamat siang para hadirin sekalian. Selamat datang di Balai Pertemuan Kementrian Lingkungan Hidup. Hari ini adalah hari yang istimewa, yaitu Hari Badak Sedunia, yang mengingatkan kita pentingnya menjaga badak. Saya Sean, pada siang ini saya akan bertindak sebagai moderator diskusi. Pada kesempatan yang spesial ini, kita berkumpul untuk mengikuti acara bertema "Habitat Baru bagi Badak Indonesia: Mungkinkah?" Seperti Anda sekalian ketahui, Badak adalah satwa yang sangat berharga, mereka biasanya tinggal di hutan dengan tumbuhan yang lebat. Akan tetapi, sekarang mereka menghadapi berbagai ancaman serius, seperti kerusakan habitat dan perburuan liar. Apalagi, sulitnya badak berkembang biak menjadi tantangan tambahan yang harus kita hadapi bersama. Sebagai pecinta alam dan peduli lingkungan, kita harus bekerja sama untuk mencari cara agar badak di Indonesia bisa terus hidup. Kita sangat beruntung karena hari ini kita akan mendengar langsung dari dua pembicara ahli. Pertama, Bapak Sukojati dari Kementrian Lingkungan Hidup, dan kedua, Ibu Lidya Nurani dari WWF Indonesia. Mereka sudah sangat berpengalaman dalam penelitian kehidupan badak. Mereka akan berbagi pandangan, pengalaman, dan ide-ide yang sangat berharga untuk membantu kita memahami tantangan dan solusi terkait pelestarian badak.  Mari kita mulai acara ini dengan semangat dan penuh perhatian. Terima kasih.
-
-# Mengatur Jalannya Diskusi
-
-## Penyampai Aturan dan Batasan Diskusi
-
-**Ungkapan:**
-
-**Contoh:**
-
-## Pemberi Kesempatan Seimbang dan Porsi Peserta
-
-**Ungkapan:**
-
-**Contoh:**
-
-## Penengah dan Pemegang Otoritas Kendali Diskusi
-
-**Ungkapan:**
-
-**Contoh:**
-
-## Pemberi dan Pembatas Waktu
-
-**Ungkapan:**
-
-**Contoh:**
-
-# Menutup Diskusi
-
-## Menyimpulkan Hasil Diskusi
-
-**Ungkapan:**
-
-**Contoh:**
-
-## Memberi Salam Penutup
-
-**Ungkapan:**
-
-**Contoh:**

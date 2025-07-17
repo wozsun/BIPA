@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # imbuhan peN\~
 
 > 跟随[MeN~](U2%20-%20meN~.md#变换规则)变换规则

@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # banyak pihak melakukan tindakan saling
 
 - **Kosakata:**

@@ -1,11 +1,8 @@
----
-Completed: true
----
-
 **词汇表**
 
 | 印尼语 | 中文翻译 |
 |--------|----------|
+| UMKM | 中小企业，小微企业 |
 | aturan | 规则，规定；条例，管理；政策，方针 |
 | ketat | 严格的；紧的，紧密的；僵硬的，死板的 |
 | korupsi | 腐败，贪污 |
@@ -74,3 +71,8 @@ false (not true)
 
 corruption (dishonest or fraudulent conduct by those in power, typically involving bribery)
 腐败，贪污
+
+# UMKM
+
+small and medium enterprises (businesses that are small or medium in size)
+中小企业，小微企业

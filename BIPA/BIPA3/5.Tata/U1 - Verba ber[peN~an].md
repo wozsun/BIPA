@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 **Makna:** memiliki; mempunyai; ada \[peN\~an]
 
 - **Struktur:**

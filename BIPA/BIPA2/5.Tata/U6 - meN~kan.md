@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # membuat jadi (sebagai verba) terkait perasaan
 
 - **Kosakata:**

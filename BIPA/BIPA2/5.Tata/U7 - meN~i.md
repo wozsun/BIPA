@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # melakukan tindakan berulang-ulang
 
 - **Kosakata:**

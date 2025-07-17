@@ -1,7 +1,3 @@
----
-Completed: true
----
-
 # dua pihak melakukan tindakan saling
 
 - **Kosakata:**
