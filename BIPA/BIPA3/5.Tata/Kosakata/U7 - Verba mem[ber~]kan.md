@@ -2,11 +2,19 @@
 
 | 印尼语 | 中文翻译 |
 |--------|----------|
+| Pemda | 地方政府，地方行政机关 |
+| bertahap | 逐步的，渐进的；分阶段的，分步骤的 |
+| ganjil | 奇数；奇怪的，异常的 |
+| genap | 偶数；完整的，全部的 |
+| haji | 朝觐者，朝圣者，哈吉（完成麦加朝圣的穆斯林）；朝觐，麦加朝圣 |
+| jamaah | 教众，信众，集会者；集会，聚会 |
 | membelajarkan | 教，教导；培训，训练 |
 | memberangkatkan | 派遣，发送；送行，送出；部署，调动 |
 | memberdayakan | 赋权，授权；使能够，使有能力 |
 | memberhentikan | 停止，终止；结束；解雇，开除 |
 | memberlakukan | 实施，执行；实行，推行；应用，运用 |
+| mempelajari | 学习，研究，仔细了解；审查，考察 |
+| taraf | 水平，程度，层次；阶段，时期 |
 
 ---
 
@@ -58,3 +66,64 @@ terminate (to bring something to an end formally)
 
 dismiss (to remove someone from their position or job)
 解雇，开除
+
+# jamaah
+
+congregation (a group of people assembled for religious worship)
+教众，信众，集会者
+
+assembly (a group gathered for a common purpose)
+集会，聚会
+
+# haji
+
+pilgrim (a person who has made the pilgrimage to Mecca)
+朝觐者，朝圣者，哈吉（完成麦加朝圣的穆斯林）
+
+hajj (the pilgrimage to Mecca itself)
+朝觐，麦加朝圣
+
+# Pemda
+
+local government (regional administration)
+地方政府，地方行政机关
+
+# ganjil
+
+odd (not divisible by two)
+奇数
+
+strange (unusual or peculiar)
+奇怪的，异常的
+
+# genap
+
+even (divisible by two)
+偶数
+
+complete (full, entire)
+完整的，全部的
+
+# bertahap
+
+gradual (taking place step by step)
+逐步的，渐进的
+
+in stages (in several phases)
+分阶段的，分步骤的
+
+# mempelajari
+
+study (to learn about something in detail)
+学习，研究，仔细了解
+
+examine (to investigate or look into)
+审查，考察
+
+# taraf
+
+level (a particular stage or degree)
+水平，程度，层次
+
+stage (a particular point in a process)
+阶段，时期
