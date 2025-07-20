@@ -7,6 +7,7 @@
 | ketat | 严格的；紧的，紧密的；僵硬的，死板的 |
 | korupsi | 腐败，贪污 |
 | memperketat | 收紧，加强 |
+| menentang | 反对，对抗，抵制；违抗，抗拒；反驳，否定 |
 | minati | 兴趣；渴望，欲望 |
 | palsu | 假的，伪造的；虚假的，不真实的 |
 | skema | 方案，计划；图表，示意图；框架，构架 |
@@ -76,3 +77,14 @@ corruption (dishonest or fraudulent conduct by those in power, typically involvi
 
 small and medium enterprises (businesses that are small or medium in size)
 中小企业，小微企业
+
+# menentang
+
+oppose (to act against or resist)
+反对，对抗，抵制
+
+defy (to openly resist or refuse to obey)
+违抗，抗拒
+
+contradict (to assert the opposite of)
+反驳，否定
