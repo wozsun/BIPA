@@ -6,10 +6,12 @@
 | aturan | 规则，规定；条例，管理；政策，方针 |
 | ketat | 严格的；紧的，紧密的；僵硬的，死板的 |
 | korupsi | 腐败，贪污 |
+| lawan | 对手，反对者，反方；反对，对抗；反义词 |
 | memperketat | 收紧，加强 |
 | menentang | 反对，对抗，抵制；违抗，抗拒；反驳，否定 |
 | minati | 兴趣；渴望，欲望 |
 | palsu | 假的，伪造的；虚假的，不真实的 |
+| sanggahan | 反驳，反对，异议；否认，否定 |
 | skema | 方案，计划；图表，示意图；框架，构架 |
 
 ---
@@ -88,3 +90,22 @@ defy (to openly resist or refuse to obey)
 
 contradict (to assert the opposite of)
 反驳，否定
+
+# lawan
+
+opponent (a person who opposes or competes against another)
+对手，反对者，反方
+
+against (to be in opposition to)
+反对，对抗
+
+antonym (a word opposite in meaning)
+反义词
+
+# sanggahan
+
+objection (an expression or feeling of disapproval or opposition)
+反驳，反对，异议
+
+denial (the act of stating something is not true)
+否认，否定
