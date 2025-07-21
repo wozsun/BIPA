@@ -3,7 +3,7 @@
 | 印尼语 | 中文翻译 |
 |--------|----------|
 | BPS | 中央统计局；印尼统计局 |
-| DPR | 众议院，人民代表大会（印尼国会下议院）；人民代表理事会 |
+| DPR | 众议院，人民代表大会；人民代表理事会 |
 | awan | 云，云朵；多云，云状 |
 | benda | 物体，东西，物品；物件 |
 | beralaskan | 基于，以...为基础；铺有，垫有 |
@@ -632,7 +632,7 @@ project (a planned undertaking)
 # DPR
 
 House of Representatives (the lower house of Indonesia's national legislature)
-众议院，人民代表大会（印尼国会下议院）
+众议院，人民代表大会
 
 People's Representative Council (official name)
 人民代表理事会
