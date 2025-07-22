@@ -8,32 +8,41 @@
 | dugaan | 怀疑，猜测，疑虑；假设，推测 |
 | integritas | 正直，诚信，廉正 |
 | jabatan | 职位，职务，岗位；官职 |
+| jera | 畏惧，害怕，惩戒；灰心，气馁 |
 | kantong | 口袋，袋子；袋，包 |
 | kasus | 案件，案例，情况；事件，事故；问题（在某些语境下） |
+| kebencian | 仇恨，憎恨，厌恶 |
 | kejaksaan | 检察院，检察机关 |
 | kemiskinan | 贫穷，贫困 |
+| keraguan | 疑惑，怀疑；不确定，疑虑 |
 | keserakahan | 贪婪，贪心 |
 | kolusi | 勾结，串通，共谋 |
 | komisi | 委员会，佣金，手续费 |
 | korupsi | 腐败，贪污 |
 | koruptor | 腐败分子，贪污者，行贿人 |
 | kriminalitas | 犯罪，犯罪行为；犯罪性，犯罪倾向 |
+| lembut | 柔软，柔和，温柔；温和，和善 |
 | melambat | 变慢，减速，放慢 |
 | menangani | 处理，应对，管理；解决，着手处理 |
 | mengatasi | 克服，解决，战胜；处理，应对 |
+| menimbulkan | 引起，造成，导致；激起，唤起 |
 | minus | 减，负，缺少 |
 | nepotisme | 裙带关系，任人唯亲 |
+| niat | 意图，打算，目的；意念，虔诚的意图 |
 | oknum | 个人，个体（多指有负面行为的人）；肇事者，罪犯 |
+| pantas | 值得，应得；合适，适当；体面，得体 |
 | pemberantasan | 根除，消灭，铲除 |
 | pengendalian | 控制，管理，调控 |
 | penindakan | 行动，措施，处理；执法，强制执行 |
 | penyalahgunaan | 滥用，误用 |
 | penyuapan | 贿赂，行贿 |
-| pidana | 刑事，刑法，犯罪 |
+| pidana | 刑事；刑罚，处罚 |
 | polri | 印度尼西亚国家警察，印尼警察 |
+| prosedur | 程序，步骤，手续 |
 | suap | 贿赂，行贿；贪污，受贿 |
 | teori | 理论，学说 |
 | tersangka | 嫌疑人，嫌犯 |
+| ujaran | 话语，言辞，言论 |
 | wewenang | 权力，职权，权限 |
 
 ---
@@ -126,11 +135,6 @@ commission (a group of people officially charged with a particular function)
 
 fee (payment for services, especially as a percentage)
 佣金，手续费
-
-# pidana
-
-criminal (relating to crime or punishment)
-刑事，刑法，犯罪
 
 # minus
 
@@ -244,3 +248,77 @@ crime (illegal activities in general)
 
 criminality (the state of being criminal)
 犯罪性，犯罪倾向
+
+# keraguan
+
+doubt (a feeling of uncertainty or lack of conviction)
+疑惑，怀疑
+
+uncertainty (the state of being unsure)
+不确定，疑虑
+
+# pantas
+
+deserve (to be worthy of)
+值得，应得
+
+proper (suitable or appropriate)
+合适，适当
+
+decent (acceptable, good enough)
+体面，得体
+
+# niat
+
+intention (a purpose or plan; something that you mean to do)
+意图，打算，目的
+
+intention (in Islamic context: the intention in one's heart to do an act for the sake of Allah)
+意念，虔诚的意图
+
+# lembut
+
+soft (having a smooth, gentle texture or quality)
+柔软，柔和，温柔
+
+gentle (kind or mild in temperament or behavior)
+温和，和善
+
+# ujaran
+
+utterance (something that is said; a spoken word, statement, or vocal sound)
+话语，言辞，言论
+
+# kebencian
+
+hatred (intense dislike or ill will)
+仇恨，憎恨，厌恶
+
+# pidana
+
+criminal (relating to crime or its punishment)
+刑事，刑事的
+
+penalty (punishment given by law)
+刑罚，处罚
+
+# menimbulkan
+
+cause (to make something happen)
+引起，造成，导致
+
+arouse (to evoke or awaken a feeling or response)
+激起，唤起
+
+# jera
+
+deterred (having lost the desire to do something because of fear or past experience)
+畏惧，害怕，惩戒
+
+discouraged (having lost confidence or enthusiasm)
+灰心，气馁
+
+# prosedur
+
+procedure（a series of actions conducted in a certain order or manner）
+程序，步骤，手续

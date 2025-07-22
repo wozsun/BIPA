@@ -41,7 +41,7 @@
 | lampu | 灯，灯具；光，灯光；灯泡 |
 | langit | 天空，天际；天堂，天国 |
 | lapangan | 场地，田地，运动场；球场；场所；空地，开阔地 |
-| marak | 猖獗，蔓延；兴盛，繁荣；强烈，激烈；燃烧，火光冲天 |
+| marak | 兴盛，繁荣；强烈，激烈；猖獗，蔓延；燃烧，火光冲天 |
 | marmer | 大理石，云石 |
 | maya | 虚拟的，网络的；幻觉，假象；想象的，虚构的 |
 | membunyikan | 使发声，使响起；使响铃，敲响；演奏，播放；吹奏（乐器），吹响 |
@@ -315,14 +315,14 @@ commemoration (a ceremony or celebration in remembrance)
 
 # marak
 
-rampant (spreading quickly and difficult to control)
-猖獗，蔓延
-
 flourishing (growing or developing successfully)
 兴盛，繁荣
 
 intense (having strong effect or feeling)
 强烈，激烈
+
+rampant (spreading quickly and difficult to control)
+猖獗，蔓延
 
 blaze (to burn brightly or fiercely)
 燃烧，火光冲天

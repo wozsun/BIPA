@@ -4,17 +4,30 @@
 |--------|----------|
 | Pemda | 地方政府，地方行政机关 |
 | bertahap | 逐步的，渐进的；分阶段的，分步骤的 |
+| berupaya | 努力，尝试，设法 |
+| dirumahkan | 被裁员，被解雇，被停职；被遣送回家，被要求居家 |
+| dusun | 小村庄，村落；村庄（通常规模较小） |
 | ganjil | 奇数；奇怪的，异常的 |
 | genap | 偶数；完整的，全部的 |
 | haji | 朝觐者，朝圣者，哈吉（完成麦加朝圣的穆斯林）；朝觐，麦加朝圣 |
 | jamaah | 教众，信众，集会者；集会，聚会 |
+| kasih | 爱，爱情，慈爱；关爱，情感 |
+| kaum | 群体，族群，团体；阶级，阶层；社群，社区 |
+| kekinian | 时尚，潮流，流行；现代，当前 |
 | membelajarkan | 教，教导；培训，训练 |
 | memberangkatkan | 派遣，发送；送行，送出；部署，调动 |
 | memberdayakan | 赋权，授权；使能够，使有能力 |
 | memberhentikan | 停止，终止；结束；解雇，开除 |
 | memberlakukan | 实施，执行；实行，推行；应用，运用 |
 | mempelajari | 学习，研究，仔细了解；审查，考察 |
+| menyekolahkan | 送去上学，让...上学 |
+| mogok | 罢工，罢市；抛锚，故障，熄火 |
+| pertanian | 农业，农学；耕作，种植业 |
+| petani | 农民，农夫 |
+| sejahtera | 繁荣，兴旺，安康，幸福 |
+| tanggapan | 回应，反应，答复；看法，意见；评论 |
 | taraf | 水平，程度，层次；阶段，时期 |
+| yayasan | 基金会，机构，慈善组织；组织 |
 
 ---
 
@@ -127,3 +140,101 @@ level (a particular stage or degree)
 
 stage (a particular point in a process)
 阶段，时期
+
+# sejahtera
+
+prosperous (having success, flourishing, well-off)
+繁荣，兴旺，安康，幸福
+
+# kasih
+
+love (a strong feeling of affection)
+爱，爱情，慈爱
+
+affection (gentle feeling of fondness)
+关爱，情感
+
+# yayasan
+
+foundation (an organization that provides funds or support)
+基金会，机构，慈善组织
+
+institution (an established organization)
+机构，组织
+
+# tanggapan
+
+response (a reply or reaction)
+回应，反应，答复
+
+opinion (a belief or judgment)
+看法，意见
+
+comment (a verbal or written remark)
+评论，意见
+
+# petani
+
+farmer (a person who cultivates land or raises animals)
+农民，农夫
+
+# dusun
+
+hamlet (a small settlement, smaller than a village)
+小村庄，村落
+
+village (a group of houses in a rural area)
+村庄（通常规模较小）
+
+# pertanian
+
+agriculture (the practice of farming)
+农业，农学
+
+farming (the activity of growing crops or raising animals)
+耕作，种植业
+
+# berupaya
+
+to try (make an effort to do something)
+努力，尝试，设法
+
+# mogok
+
+strike (a refusal to work as a form of protest)
+罢工，罢市
+
+break down (stop functioning, especially for vehicles or machines)
+抛锚，故障，熄火
+
+# dirumahkan
+
+laid off (temporarily or permanently removed from work)
+被裁员，被解雇，被停职
+
+sent home (sent to stay at home, usually not allowed to work)
+被遣送回家，被要求居家
+
+# kekinian
+
+trendy (very fashionable or up-to-date)
+时尚，潮流，流行
+
+contemporary (belonging to the present time)
+现代，当前
+
+# kaum
+
+group (a number of people sharing a characteristic)
+群体，族群，团体
+
+class (a social or economic group)
+阶级，阶层
+
+community (a group with shared interests or identity)
+社群，社区
+
+# menyekolahkan
+
+to send to school (to arrange for someone to attend school)
+送去上学，让...上学
