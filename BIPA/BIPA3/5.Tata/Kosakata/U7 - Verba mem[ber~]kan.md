@@ -2,6 +2,7 @@
 
 | 印尼语 | 中文翻译 |
 |--------|----------|
+| PHK | 裁员，解雇 |
 | Pemda | 地方政府，地方行政机关 |
 | bertahap | 逐步的，渐进的；分阶段的，分步骤的 |
 | berupaya | 努力，尝试，设法 |
@@ -14,16 +15,21 @@
 | kasih | 爱，爱情，慈爱；关爱，情感 |
 | kaum | 群体，族群，团体；阶级，阶层；社群，社区 |
 | kekinian | 时尚，潮流，流行；现代，当前 |
+| ketat | 紧的，紧密的；严格的 |
+| melimpah | 溢出，溢满；丰富，充裕 |
 | membelajarkan | 教，教导；培训，训练 |
 | memberangkatkan | 派遣，发送；送行，送出；部署，调动 |
 | memberdayakan | 赋权，授权；使能够，使有能力 |
 | memberhentikan | 停止，终止；结束；解雇，开除 |
 | memberlakukan | 实施，执行；实行，推行；应用，运用 |
 | mempelajari | 学习，研究，仔细了解；审查，考察 |
+| mengundurkan | 撤回，撤退；辞职 |
 | menyekolahkan | 送去上学，让...上学 |
 | mogok | 罢工，罢市；抛锚，故障，熄火 |
+| pecat | 解雇，开除 |
 | pertanian | 农业，农学；耕作，种植业 |
 | petani | 农民，农夫 |
+| putus | 断，断开，分手，结束；切断，中断 |
 | sejahtera | 繁荣，兴旺，安康，幸福 |
 | tanggapan | 回应，反应，答复；看法，意见；评论 |
 | taraf | 水平，程度，层次；阶段，时期 |
@@ -238,3 +244,45 @@ community (a group with shared interests or identity)
 
 to send to school (to arrange for someone to attend school)
 送去上学，让...上学
+
+# pecat
+
+dismiss (to remove someone from their job)
+解雇，开除
+
+# mengundurkan
+
+withdraw (to pull back, to retract)
+撤回，撤退
+
+resign (to voluntarily leave a position)
+辞职
+
+# PHK
+
+Pemutusan Hubungan Kerja, layoff (termination of employment, usually by the employer)
+裁员，解雇
+
+# putus
+
+break (to separate into pieces, to end)
+断，断开，分手，结束
+
+cut off (to stop or interrupt suddenly)
+切断，中断
+
+# ketat
+
+tight (firmly held, not loose)
+紧的，紧密的
+
+strict (enforced rigorously)
+严格的
+
+# melimpah
+
+overflow (to spill over the edge)
+溢出，溢满
+
+abundant (existing in large quantities)
+丰富，充裕
