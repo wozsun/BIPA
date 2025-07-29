@@ -2,7 +2,7 @@
 
 | 印尼语 | 中文翻译 |
 |--------|----------|
-| PHK | 裁员，解雇 |
+| PHK | 裁员，解雇（Pemutusan Hubungan Kerja） |
 | Pemda | 地方政府，地方行政机关 |
 | bertahap | 逐步的，渐进的；分阶段的，分步骤的 |
 | berupaya | 努力，尝试，设法 |
@@ -15,7 +15,7 @@
 | kasih | 爱，爱情，慈爱；关爱，情感 |
 | kaum | 群体，族群，团体；阶级，阶层；社群，社区 |
 | kekinian | 时尚，潮流，流行；现代，当前 |
-| ketat | 紧的，紧密的；严格的 |
+| ketat | 紧的，牢固的；严格的；激烈的，紧张的 |
 | melimpah | 溢出，溢满；丰富，充裕 |
 | membelajarkan | 教，教导；培训，训练 |
 | memberangkatkan | 派遣，发送；送行，送出；部署，调动 |
@@ -260,8 +260,8 @@ resign (to voluntarily leave a position)
 
 # PHK
 
-Pemutusan Hubungan Kerja, layoff (termination of employment, usually by the employer)
-裁员，解雇
+layoff (termination of employment, usually by the employer)
+裁员，解雇（Pemutusan Hubungan Kerja）
 
 # putus
 
@@ -273,11 +273,14 @@ cut off (to stop or interrupt suddenly)
 
 # ketat
 
-tight (firmly held, not loose)
-紧的，紧密的
+tight (firmly held or fixed in place)
+紧的，牢固的
 
-strict (enforced rigorously)
+strict (enforcing rules closely)
 严格的
+
+intense (showing strong feelings or conditions)
+激烈的，紧张的
 
 # melimpah
 
